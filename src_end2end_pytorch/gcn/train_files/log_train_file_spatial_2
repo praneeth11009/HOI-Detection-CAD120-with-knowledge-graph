@@ -1,0 +1,1336 @@
+Epoch:00, total loss: 9.574700, human_acc: 23.600000, object_acc: 16.000000, lr: 0.000100, speed: 10.518 s/iter
+Epoch:01, total loss: 9.573806, human_acc: 22.800000, object_acc: 22.000000, lr: 0.000100, speed: 2.755 s/iter
+Epoch:02, total loss: 9.572731, human_acc: 22.800000, object_acc: 22.400000, lr: 0.000100, speed: 3.219 s/iter
+Epoch:03, total loss: 9.571649, human_acc: 22.800000, object_acc: 22.400000, lr: 0.000100, speed: 3.172 s/iter
+Epoch:04, total loss: 9.570563, human_acc: 22.800000, object_acc: 22.400000, lr: 0.000100, speed: 3.309 s/iter
+Epoch:05, total loss: 9.569472, human_acc: 26.800000, object_acc: 22.400000, lr: 0.000100, speed: 3.315 s/iter
+Epoch:06, total loss: 9.568376, human_acc: 27.000000, object_acc: 22.000000, lr: 0.000100, speed: 3.553 s/iter
+Epoch:07, total loss: 9.567275, human_acc: 24.800000, object_acc: 26.000000, lr: 0.000100, speed: 3.617 s/iter
+Epoch:08, total loss: 9.566168, human_acc: 24.800000, object_acc: 26.000000, lr: 0.000100, speed: 3.332 s/iter
+Epoch:09, total loss: 9.565056, human_acc: 24.800000, object_acc: 25.200000, lr: 0.000100, speed: 3.254 s/iter
+Epoch:10, total loss: 9.563938, human_acc: 24.800000, object_acc: 25.000000, lr: 0.000100, speed: 2.905 s/iter
+Epoch:11, total loss: 9.562814, human_acc: 24.800000, object_acc: 25.000000, lr: 0.000100, speed: 3.105 s/iter
+Epoch:12, total loss: 9.561684, human_acc: 24.800000, object_acc: 24.800000, lr: 0.000100, speed: 3.491 s/iter
+Epoch:13, total loss: 9.560547, human_acc: 24.800000, object_acc: 24.800000, lr: 0.000100, speed: 2.892 s/iter
+Epoch:00, total loss: 9.574477, human_acc: 18.600000, object_acc: 23.000000, lr: 0.000100, speed: 4.305 s/iter
+Epoch:01, total loss: 9.573427, human_acc: 14.000000, object_acc: 27.600000, lr: 0.000100, speed: 2.658 s/iter
+Epoch:02, total loss: 9.572385, human_acc: 12.400000, object_acc: 25.200000, lr: 0.000100, speed: 2.840 s/iter
+Epoch:03, total loss: 9.571338, human_acc: 23.600000, object_acc: 24.800000, lr: 0.000100, speed: 2.654 s/iter
+Epoch:04, total loss: 9.570285, human_acc: 24.800000, object_acc: 24.800000, lr: 0.000100, speed: 2.623 s/iter
+Epoch:05, total loss: 9.569227, human_acc: 24.800000, object_acc: 24.800000, lr: 0.000100, speed: 2.449 s/iter
+Epoch:06, total loss: 9.568162, human_acc: 24.800000, object_acc: 24.800000, lr: 0.000100, speed: 2.852 s/iter
+Epoch:07, total loss: 9.567092, human_acc: 24.800000, object_acc: 24.800000, lr: 0.000100, speed: 3.101 s/iter
+Epoch:08, total loss: 9.566015, human_acc: 24.800000, object_acc: 24.800000, lr: 0.000100, speed: 3.703 s/iter
+Epoch:09, total loss: 9.564931, human_acc: 24.800000, object_acc: 24.800000, lr: 0.000100, speed: 2.515 s/iter
+Epoch:10, total loss: 9.563841, human_acc: 24.800000, object_acc: 24.800000, lr: 0.000100, speed: 3.368 s/iter
+Epoch:11, total loss: 9.562744, human_acc: 24.800000, object_acc: 24.800000, lr: 0.000100, speed: 3.420 s/iter
+Epoch:12, total loss: 9.561640, human_acc: 24.800000, object_acc: 24.800000, lr: 0.000100, speed: 3.416 s/iter
+Epoch:00, total loss: 9.570824, human_acc: 20.000000, object_acc: 24.200000, lr: 0.001000, speed: 3.968 s/iter
+Epoch:01, total loss: 9.559817, human_acc: 24.800000, object_acc: 24.800000, lr: 0.001000, speed: 3.163 s/iter
+Epoch:02, total loss: 9.548058, human_acc: 24.800000, object_acc: 24.800000, lr: 0.001000, speed: 3.039 s/iter
+Epoch:03, total loss: 9.535287, human_acc: 24.800000, object_acc: 24.800000, lr: 0.001000, speed: 2.771 s/iter
+Epoch:04, total loss: 9.520630, human_acc: 24.800000, object_acc: 24.800000, lr: 0.001000, speed: 3.353 s/iter
+Epoch:05, total loss: 9.500877, human_acc: 24.800000, object_acc: 24.800000, lr: 0.001000, speed: 3.326 s/iter
+Epoch:06, total loss: 9.447141, human_acc: 24.800000, object_acc: 24.800000, lr: 0.001000, speed: 3.484 s/iter
+Epoch:07, total loss: 9.209260, human_acc: 23.400000, object_acc: 23.800000, lr: 0.001000, speed: 3.239 s/iter
+Epoch:08, total loss: 9.152380, human_acc: 23.800000, object_acc: 24.000000, lr: 0.001000, speed: 3.480 s/iter
+Epoch:09, total loss: 8.961185, human_acc: 32.400000, object_acc: 30.800000, lr: 0.001000, speed: 3.471 s/iter
+Epoch:10, total loss: 8.333271, human_acc: 46.200000, object_acc: 45.800000, lr: 0.001000, speed: 3.086 s/iter
+Epoch:11, total loss: 8.313595, human_acc: 46.400000, object_acc: 46.000000, lr: 0.001000, speed: 3.057 s/iter
+Epoch:12, total loss: 8.309717, human_acc: 46.400000, object_acc: 46.000000, lr: 0.001000, speed: 3.265 s/iter
+Epoch:13, total loss: 8.306988, human_acc: 46.600000, object_acc: 46.200000, lr: 0.001000, speed: 3.532 s/iter
+Epoch:14, total loss: 8.302134, human_acc: 46.600000, object_acc: 46.200000, lr: 0.001000, speed: 2.897 s/iter
+Epoch:15, total loss: 8.299665, human_acc: 46.600000, object_acc: 46.200000, lr: 0.001000, speed: 2.521 s/iter
+Epoch:16, total loss: 8.300047, human_acc: 46.800000, object_acc: 46.400000, lr: 0.001000, speed: 2.750 s/iter
+Epoch:17, total loss: 8.298890, human_acc: 46.600000, object_acc: 46.200000, lr: 0.001000, speed: 3.012 s/iter
+Epoch:18, total loss: 8.294953, human_acc: 46.800000, object_acc: 46.400000, lr: 0.001000, speed: 3.318 s/iter
+Epoch:19, total loss: 8.294572, human_acc: 46.800000, object_acc: 46.400000, lr: 0.001000, speed: 2.791 s/iter
+Epoch:20, total loss: 8.294443, human_acc: 46.800000, object_acc: 46.400000, lr: 0.000950, speed: 3.234 s/iter
+Epoch:21, total loss: 8.293879, human_acc: 46.800000, object_acc: 46.400000, lr: 0.000950, speed: 2.492 s/iter
+Epoch:22, total loss: 8.293666, human_acc: 46.800000, object_acc: 46.400000, lr: 0.000950, speed: 3.103 s/iter
+Epoch:23, total loss: 8.293016, human_acc: 46.800000, object_acc: 46.400000, lr: 0.000950, speed: 2.698 s/iter
+Epoch:24, total loss: 8.292335, human_acc: 46.800000, object_acc: 46.400000, lr: 0.000950, speed: 3.300 s/iter
+Epoch:25, total loss: 8.291329, human_acc: 46.800000, object_acc: 46.400000, lr: 0.000950, speed: 3.426 s/iter
+Epoch:00, total loss: 9.562664, human_acc: 20.219780, object_acc: 21.428571, lr: 0.001000, speed: 13.768 s/iter
+Epoch:01, total loss: 9.536213, human_acc: 22.307692, object_acc: 22.857143, lr: 0.001000, speed: 8.404 s/iter
+Epoch:02, total loss: 9.508464, human_acc: 22.637363, object_acc: 22.857143, lr: 0.001000, speed: 7.765 s/iter
+Epoch:03, total loss: 9.479844, human_acc: 22.857143, object_acc: 22.857143, lr: 0.001000, speed: 8.353 s/iter
+Epoch:04, total loss: 9.450868, human_acc: 22.857143, object_acc: 22.857143, lr: 0.001000, speed: 8.469 s/iter
+Epoch:05, total loss: 9.422092, human_acc: 22.857143, object_acc: 22.857143, lr: 0.001000, speed: 8.539 s/iter
+Epoch:06, total loss: 9.394061, human_acc: 22.857143, object_acc: 22.857143, lr: 0.001000, speed: 7.824 s/iter
+Epoch:07, total loss: 9.367254, human_acc: 22.857143, object_acc: 22.857143, lr: 0.001000, speed: 8.878 s/iter
+Epoch:08, total loss: 9.342042, human_acc: 22.857143, object_acc: 22.857143, lr: 0.001000, speed: 8.159 s/iter
+Epoch:09, total loss: 9.318670, human_acc: 22.857143, object_acc: 22.857143, lr: 0.001000, speed: 9.309 s/iter
+Epoch:10, total loss: 9.297255, human_acc: 22.857143, object_acc: 22.857143, lr: 0.001000, speed: 8.210 s/iter
+Epoch:11, total loss: 9.277802, human_acc: 22.857143, object_acc: 22.857143, lr: 0.001000, speed: 7.742 s/iter
+Epoch:12, total loss: 9.260233, human_acc: 22.857143, object_acc: 22.857143, lr: 0.001000, speed: 7.179 s/iter
+Epoch:13, total loss: 9.244413, human_acc: 22.857143, object_acc: 22.857143, lr: 0.001000, speed: 7.049 s/iter
+Epoch:14, total loss: 9.230184, human_acc: 22.857143, object_acc: 22.857143, lr: 0.001000, speed: 7.022 s/iter
+Epoch:15, total loss: 9.217382, human_acc: 22.857143, object_acc: 22.857143, lr: 0.001000, speed: 6.961 s/iter
+Epoch:16, total loss: 9.205852, human_acc: 22.857143, object_acc: 22.857143, lr: 0.001000, speed: 6.700 s/iter
+Epoch:17, total loss: 9.195462, human_acc: 22.857143, object_acc: 22.857143, lr: 0.001000, speed: 7.045 s/iter
+Epoch:18, total loss: 9.186098, human_acc: 22.857143, object_acc: 22.857143, lr: 0.001000, speed: 5.914 s/iter
+Epoch:19, total loss: 9.177665, human_acc: 22.857143, object_acc: 22.857143, lr: 0.001000, speed: 7.135 s/iter
+Epoch:20, total loss: 9.170082, human_acc: 22.857143, object_acc: 22.857143, lr: 0.000950, speed: 7.041 s/iter
+Epoch:21, total loss: 9.163277, human_acc: 22.857143, object_acc: 22.857143, lr: 0.000950, speed: 6.377 s/iter
+Epoch:22, total loss: 9.157185, human_acc: 22.857143, object_acc: 22.857143, lr: 0.000950, speed: 6.181 s/iter
+Epoch:23, total loss: 9.151744, human_acc: 22.857143, object_acc: 22.857143, lr: 0.000950, speed: 6.555 s/iter
+Epoch:24, total loss: 9.146896, human_acc: 22.857143, object_acc: 22.857143, lr: 0.000950, speed: 6.399 s/iter
+Epoch:25, total loss: 9.142587, human_acc: 22.857143, object_acc: 22.857143, lr: 0.000950, speed: 7.221 s/iter
+Epoch:26, total loss: 9.138763, human_acc: 22.857143, object_acc: 22.857143, lr: 0.000950, speed: 5.960 s/iter
+Epoch:27, total loss: 9.135376, human_acc: 22.857143, object_acc: 22.857143, lr: 0.000950, speed: 6.415 s/iter
+Epoch:28, total loss: 9.132376, human_acc: 22.857143, object_acc: 22.857143, lr: 0.000950, speed: 7.167 s/iter
+Epoch:29, total loss: 9.129717, human_acc: 22.857143, object_acc: 22.857143, lr: 0.000950, speed: 6.467 s/iter
+Epoch:30, total loss: 9.127357, human_acc: 22.857143, object_acc: 22.857143, lr: 0.000950, speed: 6.092 s/iter
+Epoch:31, total loss: 9.125257, human_acc: 22.857143, object_acc: 22.857143, lr: 0.000950, speed: 6.929 s/iter
+Epoch:32, total loss: 9.123381, human_acc: 22.417582, object_acc: 22.417582, lr: 0.000950, speed: 6.727 s/iter
+Epoch:33, total loss: 9.121699, human_acc: 22.197802, object_acc: 22.197802, lr: 0.000950, speed: 7.360 s/iter
+Epoch:34, total loss: 9.120187, human_acc: 22.197802, object_acc: 22.307692, lr: 0.000950, speed: 6.625 s/iter
+Epoch:35, total loss: 9.118820, human_acc: 22.417582, object_acc: 22.417582, lr: 0.000950, speed: 6.120 s/iter
+Epoch:36, total loss: 9.117582, human_acc: 22.307692, object_acc: 22.417582, lr: 0.000950, speed: 7.495 s/iter
+Epoch:37, total loss: 9.116455, human_acc: 22.197802, object_acc: 22.307692, lr: 0.000950, speed: 6.413 s/iter
+Epoch:38, total loss: 9.115427, human_acc: 21.978022, object_acc: 22.197802, lr: 0.000950, speed: 6.329 s/iter
+Epoch:39, total loss: 9.114487, human_acc: 21.868132, object_acc: 22.087912, lr: 0.000950, speed: 6.850 s/iter
+Epoch:40, total loss: 9.113625, human_acc: 22.087912, object_acc: 21.758242, lr: 0.000902, speed: 6.463 s/iter
+Epoch:41, total loss: 9.112834, human_acc: 21.978022, object_acc: 21.868132, lr: 0.000902, speed: 7.185 s/iter
+Epoch:42, total loss: 9.112107, human_acc: 21.978022, object_acc: 21.868132, lr: 0.000902, speed: 6.781 s/iter
+Epoch:43, total loss: 9.111440, human_acc: 22.087912, object_acc: 21.868132, lr: 0.000902, speed: 6.286 s/iter
+Epoch:44, total loss: 9.110827, human_acc: 22.087912, object_acc: 21.868132, lr: 0.000902, speed: 7.147 s/iter
+Epoch:45, total loss: 9.110265, human_acc: 22.087912, object_acc: 22.087912, lr: 0.000902, speed: 7.086 s/iter
+Epoch:46, total loss: 9.109750, human_acc: 22.087912, object_acc: 22.087912, lr: 0.000902, speed: 6.340 s/iter
+Epoch:47, total loss: 9.109279, human_acc: 22.307692, object_acc: 21.978022, lr: 0.000902, speed: 6.326 s/iter
+Epoch:48, total loss: 9.108848, human_acc: 22.197802, object_acc: 21.978022, lr: 0.000902, speed: 6.778 s/iter
+Epoch:49, total loss: 9.108453, human_acc: 22.307692, object_acc: 21.978022, lr: 0.000902, speed: 7.031 s/iter
+Epoch:50, total loss: 9.108093, human_acc: 22.307692, object_acc: 21.978022, lr: 0.000902, speed: 6.630 s/iter
+Epoch:51, total loss: 9.107763, human_acc: 22.307692, object_acc: 21.868132, lr: 0.000902, speed: 5.990 s/iter
+Epoch:52, total loss: 9.107462, human_acc: 22.307692, object_acc: 21.978022, lr: 0.000902, speed: 7.048 s/iter
+Epoch:53, total loss: 9.107185, human_acc: 22.197802, object_acc: 21.978022, lr: 0.000902, speed: 6.627 s/iter
+Epoch:54, total loss: 9.106931, human_acc: 22.197802, object_acc: 21.978022, lr: 0.000902, speed: 6.261 s/iter
+Epoch:55, total loss: 9.106697, human_acc: 22.307692, object_acc: 21.868132, lr: 0.000902, speed: 6.339 s/iter
+Epoch:56, total loss: 9.106482, human_acc: 22.307692, object_acc: 21.978022, lr: 0.000902, speed: 6.470 s/iter
+Epoch:57, total loss: 9.106283, human_acc: 22.197802, object_acc: 21.978022, lr: 0.000902, speed: 6.310 s/iter
+Epoch:58, total loss: 9.106098, human_acc: 22.197802, object_acc: 21.978022, lr: 0.000902, speed: 7.373 s/iter
+Epoch:59, total loss: 9.105928, human_acc: 22.197802, object_acc: 21.978022, lr: 0.000902, speed: 7.454 s/iter
+Epoch:60, total loss: 9.105769, human_acc: 22.197802, object_acc: 21.978022, lr: 0.000857, speed: 8.550 s/iter
+Epoch:61, total loss: 9.105621, human_acc: 22.197802, object_acc: 22.087912, lr: 0.000857, speed: 7.694 s/iter
+Epoch:62, total loss: 9.105484, human_acc: 22.307692, object_acc: 22.087912, lr: 0.000857, speed: 8.607 s/iter
+Epoch:63, total loss: 9.105355, human_acc: 22.307692, object_acc: 22.087912, lr: 0.000857, speed: 8.446 s/iter
+Epoch:64, total loss: 9.105235, human_acc: 22.307692, object_acc: 22.087912, lr: 0.000857, speed: 9.825 s/iter
+Epoch:65, total loss: 9.105122, human_acc: 22.087912, object_acc: 22.197802, lr: 0.000857, speed: 8.400 s/iter
+Epoch:66, total loss: 9.105017, human_acc: 21.978022, object_acc: 22.087912, lr: 0.000857, speed: 8.516 s/iter
+Epoch:67, total loss: 9.104918, human_acc: 21.978022, object_acc: 21.978022, lr: 0.000857, speed: 8.387 s/iter
+Epoch:68, total loss: 9.104825, human_acc: 21.978022, object_acc: 22.087912, lr: 0.000857, speed: 7.852 s/iter
+Epoch:69, total loss: 9.104737, human_acc: 21.978022, object_acc: 22.197802, lr: 0.000857, speed: 8.808 s/iter
+Epoch:70, total loss: 9.104654, human_acc: 21.978022, object_acc: 22.087912, lr: 0.000857, speed: 9.397 s/iter
+Epoch:71, total loss: 9.104577, human_acc: 22.087912, object_acc: 22.087912, lr: 0.000857, speed: 9.836 s/iter
+Epoch:72, total loss: 9.104503, human_acc: 22.087912, object_acc: 22.087912, lr: 0.000857, speed: 9.763 s/iter
+Epoch:73, total loss: 9.104433, human_acc: 22.087912, object_acc: 22.087912, lr: 0.000857, speed: 11.617 s/iter
+Epoch:74, total loss: 9.104368, human_acc: 21.868132, object_acc: 22.087912, lr: 0.000857, speed: 10.742 s/iter
+Epoch:75, total loss: 9.104305, human_acc: 21.758242, object_acc: 22.307692, lr: 0.000857, speed: 9.350 s/iter
+Epoch:76, total loss: 9.104246, human_acc: 21.758242, object_acc: 22.087912, lr: 0.000857, speed: 10.020 s/iter
+Epoch:77, total loss: 9.104190, human_acc: 21.758242, object_acc: 22.197802, lr: 0.000857, speed: 9.855 s/iter
+Epoch:78, total loss: 9.104136, human_acc: 21.758242, object_acc: 22.307692, lr: 0.000857, speed: 7.929 s/iter
+Epoch:79, total loss: 9.104085, human_acc: 21.758242, object_acc: 22.307692, lr: 0.000857, speed: 9.038 s/iter
+Epoch:80, total loss: 9.104037, human_acc: 21.758242, object_acc: 22.307692, lr: 0.000815, speed: 9.594 s/iter
+Epoch:81, total loss: 9.103991, human_acc: 21.758242, object_acc: 22.307692, lr: 0.000815, speed: 8.610 s/iter
+Epoch:82, total loss: 9.103947, human_acc: 21.758242, object_acc: 22.307692, lr: 0.000815, speed: 7.535 s/iter
+Epoch:83, total loss: 9.103905, human_acc: 21.758242, object_acc: 22.307692, lr: 0.000815, speed: 8.952 s/iter
+Epoch:84, total loss: 9.103864, human_acc: 21.758242, object_acc: 22.307692, lr: 0.000815, speed: 8.334 s/iter
+Epoch:85, total loss: 9.103826, human_acc: 21.868132, object_acc: 22.307692, lr: 0.000815, speed: 7.716 s/iter
+Epoch:86, total loss: 9.103789, human_acc: 21.978022, object_acc: 22.197802, lr: 0.000815, speed: 8.110 s/iter
+Epoch:87, total loss: 9.103754, human_acc: 22.087912, object_acc: 22.197802, lr: 0.000815, speed: 8.582 s/iter
+Epoch:88, total loss: 9.103720, human_acc: 22.087912, object_acc: 22.197802, lr: 0.000815, speed: 8.751 s/iter
+Epoch:89, total loss: 9.103687, human_acc: 22.087912, object_acc: 22.197802, lr: 0.000815, speed: 7.299 s/iter
+Epoch:90, total loss: 9.103656, human_acc: 22.087912, object_acc: 22.307692, lr: 0.000815, speed: 8.922 s/iter
+Epoch:91, total loss: 9.103626, human_acc: 22.087912, object_acc: 22.307692, lr: 0.000815, speed: 10.158 s/iter
+Epoch:92, total loss: 9.103597, human_acc: 22.197802, object_acc: 22.307692, lr: 0.000815, speed: 8.936 s/iter
+Epoch:93, total loss: 9.103569, human_acc: 22.197802, object_acc: 22.307692, lr: 0.000815, speed: 7.531 s/iter
+Epoch:94, total loss: 9.103542, human_acc: 22.087912, object_acc: 22.307692, lr: 0.000815, speed: 8.369 s/iter
+Epoch:95, total loss: 9.103516, human_acc: 22.087912, object_acc: 22.307692, lr: 0.000815, speed: 8.176 s/iter
+Epoch:96, total loss: 9.103490, human_acc: 22.087912, object_acc: 22.307692, lr: 0.000815, speed: 9.703 s/iter
+Epoch:97, total loss: 9.103466, human_acc: 22.087912, object_acc: 22.307692, lr: 0.000815, speed: 6.535 s/iter
+Epoch:98, total loss: 9.103443, human_acc: 22.197802, object_acc: 22.307692, lr: 0.000815, speed: 9.481 s/iter
+Epoch:99, total loss: 9.103420, human_acc: 22.197802, object_acc: 22.307692, lr: 0.000815, speed: 9.528 s/iter
+Epoch:100, total loss: 9.103398, human_acc: 22.197802, object_acc: 22.307692, lr: 0.000774, speed: 10.353 s/iter
+Epoch:101, total loss: 9.103376, human_acc: 22.197802, object_acc: 22.307692, lr: 0.000774, speed: 9.867 s/iter
+Epoch:102, total loss: 9.103355, human_acc: 22.087912, object_acc: 22.307692, lr: 0.000774, speed: 10.855 s/iter
+Epoch:103, total loss: 9.103335, human_acc: 21.978022, object_acc: 22.307692, lr: 0.000774, speed: 9.089 s/iter
+Epoch:104, total loss: 9.103315, human_acc: 21.648352, object_acc: 22.307692, lr: 0.000774, speed: 9.093 s/iter
+Epoch:105, total loss: 9.103296, human_acc: 21.648352, object_acc: 22.307692, lr: 0.000774, speed: 8.009 s/iter
+Epoch:106, total loss: 9.103278, human_acc: 21.648352, object_acc: 22.307692, lr: 0.000774, speed: 8.134 s/iter
+Epoch:107, total loss: 9.103259, human_acc: 21.648352, object_acc: 22.307692, lr: 0.000774, speed: 7.326 s/iter
+Epoch:108, total loss: 9.103242, human_acc: 21.648352, object_acc: 22.307692, lr: 0.000774, speed: 8.311 s/iter
+Epoch:109, total loss: 9.103225, human_acc: 21.648352, object_acc: 22.307692, lr: 0.000774, speed: 7.052 s/iter
+Epoch:110, total loss: 9.103208, human_acc: 21.648352, object_acc: 22.307692, lr: 0.000774, speed: 8.473 s/iter
+Epoch:111, total loss: 9.103191, human_acc: 21.538462, object_acc: 22.307692, lr: 0.000774, speed: 9.053 s/iter
+Epoch:112, total loss: 9.103175, human_acc: 21.648352, object_acc: 22.307692, lr: 0.000774, speed: 9.587 s/iter
+Epoch:113, total loss: 9.103159, human_acc: 21.758242, object_acc: 22.307692, lr: 0.000774, speed: 9.513 s/iter
+Epoch:114, total loss: 9.103144, human_acc: 21.758242, object_acc: 22.307692, lr: 0.000774, speed: 8.845 s/iter
+Epoch:115, total loss: 9.103129, human_acc: 21.758242, object_acc: 22.307692, lr: 0.000774, speed: 10.836 s/iter
+Epoch:116, total loss: 9.103114, human_acc: 21.648352, object_acc: 22.307692, lr: 0.000774, speed: 8.915 s/iter
+Epoch:117, total loss: 9.103100, human_acc: 21.648352, object_acc: 22.307692, lr: 0.000774, speed: 10.571 s/iter
+Epoch:118, total loss: 9.103086, human_acc: 21.648352, object_acc: 22.307692, lr: 0.000774, speed: 8.387 s/iter
+Epoch:119, total loss: 9.103072, human_acc: 21.648352, object_acc: 22.307692, lr: 0.000774, speed: 6.833 s/iter
+Epoch:120, total loss: 9.103058, human_acc: 21.648352, object_acc: 22.307692, lr: 0.000735, speed: 8.716 s/iter
+Epoch:121, total loss: 9.103044, human_acc: 21.648352, object_acc: 22.307692, lr: 0.000735, speed: 8.019 s/iter
+Epoch:122, total loss: 9.103031, human_acc: 21.648352, object_acc: 22.307692, lr: 0.000735, speed: 9.643 s/iter
+Epoch:123, total loss: 9.103018, human_acc: 21.648352, object_acc: 22.307692, lr: 0.000735, speed: 9.473 s/iter
+Epoch:124, total loss: 9.103005, human_acc: 21.648352, object_acc: 22.307692, lr: 0.000735, speed: 9.177 s/iter
+Epoch:125, total loss: 9.102993, human_acc: 21.648352, object_acc: 22.307692, lr: 0.000735, speed: 10.433 s/iter
+Epoch:126, total loss: 9.102980, human_acc: 21.538462, object_acc: 22.307692, lr: 0.000735, speed: 7.357 s/iter
+Epoch:127, total loss: 9.102968, human_acc: 21.538462, object_acc: 22.307692, lr: 0.000735, speed: 8.432 s/iter
+Epoch:128, total loss: 9.102956, human_acc: 21.538462, object_acc: 22.307692, lr: 0.000735, speed: 8.934 s/iter
+Epoch:129, total loss: 9.102944, human_acc: 21.538462, object_acc: 22.307692, lr: 0.000735, speed: 7.772 s/iter
+Epoch:130, total loss: 9.102932, human_acc: 21.428571, object_acc: 22.307692, lr: 0.000735, speed: 8.856 s/iter
+Epoch:131, total loss: 9.102921, human_acc: 21.428571, object_acc: 22.307692, lr: 0.000735, speed: 9.300 s/iter
+Epoch:132, total loss: 9.102909, human_acc: 21.318681, object_acc: 22.307692, lr: 0.000735, speed: 7.997 s/iter
+Epoch:133, total loss: 9.102898, human_acc: 21.318681, object_acc: 22.307692, lr: 0.000735, speed: 8.887 s/iter
+Epoch:134, total loss: 9.102887, human_acc: 21.318681, object_acc: 22.307692, lr: 0.000735, speed: 10.722 s/iter
+Epoch:135, total loss: 9.102876, human_acc: 21.318681, object_acc: 22.307692, lr: 0.000735, speed: 7.494 s/iter
+Epoch:136, total loss: 9.102865, human_acc: 21.318681, object_acc: 22.307692, lr: 0.000735, speed: 9.623 s/iter
+Epoch:137, total loss: 9.102854, human_acc: 21.318681, object_acc: 22.307692, lr: 0.000735, speed: 8.633 s/iter
+Epoch:138, total loss: 9.102843, human_acc: 21.318681, object_acc: 22.307692, lr: 0.000735, speed: 8.587 s/iter
+Epoch:139, total loss: 9.102833, human_acc: 21.318681, object_acc: 22.307692, lr: 0.000735, speed: 6.913 s/iter
+Epoch:140, total loss: 9.102822, human_acc: 21.318681, object_acc: 22.307692, lr: 0.000698, speed: 9.561 s/iter
+Epoch:141, total loss: 9.102812, human_acc: 21.318681, object_acc: 22.307692, lr: 0.000698, speed: 8.902 s/iter
+Epoch:142, total loss: 9.102801, human_acc: 21.318681, object_acc: 22.307692, lr: 0.000698, speed: 10.508 s/iter
+Epoch:143, total loss: 9.102791, human_acc: 21.318681, object_acc: 22.307692, lr: 0.000698, speed: 9.802 s/iter
+Epoch:144, total loss: 9.102781, human_acc: 21.318681, object_acc: 22.307692, lr: 0.000698, speed: 7.926 s/iter
+Epoch:145, total loss: 9.102771, human_acc: 21.318681, object_acc: 22.307692, lr: 0.000698, speed: 9.932 s/iter
+Epoch:146, total loss: 9.102761, human_acc: 21.318681, object_acc: 22.307692, lr: 0.000698, speed: 7.957 s/iter
+Epoch:147, total loss: 9.102751, human_acc: 21.318681, object_acc: 22.307692, lr: 0.000698, speed: 8.805 s/iter
+Epoch:148, total loss: 9.102741, human_acc: 21.318681, object_acc: 22.307692, lr: 0.000698, speed: 8.769 s/iter
+Epoch:149, total loss: 9.102732, human_acc: 21.318681, object_acc: 22.307692, lr: 0.000698, speed: 9.171 s/iter
+Epoch:150, total loss: 9.102722, human_acc: 21.318681, object_acc: 22.307692, lr: 0.000698, speed: 8.378 s/iter
+Epoch:151, total loss: 9.102712, human_acc: 21.318681, object_acc: 22.307692, lr: 0.000698, speed: 9.002 s/iter
+Epoch:152, total loss: 9.102703, human_acc: 21.318681, object_acc: 22.307692, lr: 0.000698, speed: 8.781 s/iter
+Epoch:00, total loss: 3.685185, human_acc: 20.219780, object_acc: 21.428571, lr: 0.001000, speed: 535.934 s/iter
+Epoch:01, total loss: 3.629618, human_acc: 22.307692, object_acc: 22.857143, lr: 0.001000, speed: 77.150 s/iter
+Epoch:02, total loss: 3.576260, human_acc: 22.527473, object_acc: 22.857143, lr: 0.001000, speed: 11.972 s/iter
+Epoch:03, total loss: 3.525538, human_acc: 22.857143, object_acc: 22.857143, lr: 0.001000, speed: 7.785 s/iter
+Epoch:04, total loss: 3.477716, human_acc: 22.857143, object_acc: 22.857143, lr: 0.001000, speed: 6.313 s/iter
+Epoch:05, total loss: 3.432903, human_acc: 22.857143, object_acc: 22.857143, lr: 0.001000, speed: 5.876 s/iter
+Epoch:06, total loss: 3.391063, human_acc: 22.857143, object_acc: 22.857143, lr: 0.001000, speed: 6.473 s/iter
+Epoch:07, total loss: 3.352034, human_acc: 22.857143, object_acc: 22.857143, lr: 0.001000, speed: 5.964 s/iter
+Epoch:08, total loss: 3.315538, human_acc: 22.857143, object_acc: 22.857143, lr: 0.001000, speed: 389.831 s/iter
+Epoch:09, total loss: 3.281192, human_acc: 22.857143, object_acc: 22.857143, lr: 0.001000, speed: 14.196 s/iter
+Epoch:10, total loss: 3.248519, human_acc: 22.857143, object_acc: 22.857143, lr: 0.001000, speed: 11.987 s/iter
+Epoch:11, total loss: 3.216959, human_acc: 22.857143, object_acc: 22.857143, lr: 0.001000, speed: 11.226 s/iter
+Epoch:12, total loss: 3.185898, human_acc: 22.857143, object_acc: 22.857143, lr: 0.001000, speed: 12.294 s/iter
+Epoch:13, total loss: 3.154728, human_acc: 22.857143, object_acc: 22.857143, lr: 0.001000, speed: 13.930 s/iter
+Epoch:14, total loss: 3.122950, human_acc: 22.857143, object_acc: 22.857143, lr: 0.001000, speed: 15.128 s/iter
+Epoch:15, total loss: 3.090312, human_acc: 22.857143, object_acc: 22.857143, lr: 0.001000, speed: 10.720 s/iter
+Epoch:16, total loss: 3.056954, human_acc: 22.857143, object_acc: 22.857143, lr: 0.001000, speed: 11.605 s/iter
+Epoch:17, total loss: 3.023476, human_acc: 22.857143, object_acc: 22.857143, lr: 0.001000, speed: 12.487 s/iter
+Epoch:18, total loss: 2.990852, human_acc: 22.857143, object_acc: 22.857143, lr: 0.001000, speed: 10.562 s/iter
+Epoch:19, total loss: 2.960181, human_acc: 22.857143, object_acc: 22.857143, lr: 0.001000, speed: 11.044 s/iter
+Epoch:20, total loss: 2.932390, human_acc: 22.857143, object_acc: 22.857143, lr: 0.000950, speed: 11.270 s/iter
+Epoch:21, total loss: 2.908022, human_acc: 22.857143, object_acc: 22.857143, lr: 0.000950, speed: 8.290 s/iter
+Epoch:22, total loss: 2.887200, human_acc: 22.857143, object_acc: 22.857143, lr: 0.000950, speed: 7.809 s/iter
+Epoch:23, total loss: 2.869723, human_acc: 22.857143, object_acc: 22.857143, lr: 0.000950, speed: 8.660 s/iter
+Epoch:24, total loss: 2.855206, human_acc: 22.857143, object_acc: 22.857143, lr: 0.000950, speed: 9.301 s/iter
+Epoch:25, total loss: 2.843201, human_acc: 22.857143, object_acc: 22.857143, lr: 0.000950, speed: 9.570 s/iter
+Epoch:26, total loss: 2.833274, human_acc: 22.857143, object_acc: 22.857143, lr: 0.000950, speed: 8.113 s/iter
+Epoch:27, total loss: 2.825045, human_acc: 22.857143, object_acc: 22.857143, lr: 0.000950, speed: 9.827 s/iter
+Epoch:28, total loss: 2.818194, human_acc: 22.857143, object_acc: 22.857143, lr: 0.000950, speed: 11.812 s/iter
+Epoch:29, total loss: 2.812458, human_acc: 22.857143, object_acc: 22.857143, lr: 0.000950, speed: 12.044 s/iter
+Epoch:30, total loss: 2.807631, human_acc: 22.857143, object_acc: 22.857143, lr: 0.000950, speed: 12.820 s/iter
+Epoch:31, total loss: 2.803546, human_acc: 22.857143, object_acc: 22.857143, lr: 0.000950, speed: 11.921 s/iter
+Epoch:32, total loss: 2.800069, human_acc: 22.857143, object_acc: 22.857143, lr: 0.000950, speed: 11.675 s/iter
+Epoch:33, total loss: 2.797094, human_acc: 22.857143, object_acc: 22.857143, lr: 0.000950, speed: 12.180 s/iter
+Epoch:34, total loss: 2.794537, human_acc: 22.857143, object_acc: 22.857143, lr: 0.000950, speed: 12.140 s/iter
+Epoch:35, total loss: 2.792329, human_acc: 22.857143, object_acc: 22.857143, lr: 0.000950, speed: 12.433 s/iter
+Epoch:36, total loss: 2.790413, human_acc: 22.857143, object_acc: 22.857143, lr: 0.000950, speed: 12.743 s/iter
+Epoch:37, total loss: 2.788743, human_acc: 22.857143, object_acc: 22.857143, lr: 0.000950, speed: 14.426 s/iter
+Epoch:38, total loss: 2.787283, human_acc: 22.857143, object_acc: 22.857143, lr: 0.000950, speed: 13.496 s/iter
+Epoch:39, total loss: 2.786001, human_acc: 22.857143, object_acc: 22.857143, lr: 0.000950, speed: 12.119 s/iter
+Epoch:40, total loss: 2.784870, human_acc: 22.857143, object_acc: 22.857143, lr: 0.000902, speed: 12.422 s/iter
+Epoch:41, total loss: 2.783870, human_acc: 22.857143, object_acc: 22.857143, lr: 0.000902, speed: 11.397 s/iter
+Epoch:42, total loss: 2.782982, human_acc: 22.857143, object_acc: 22.857143, lr: 0.000902, speed: 9.964 s/iter
+Epoch:43, total loss: 2.782191, human_acc: 22.857143, object_acc: 22.857143, lr: 0.000902, speed: 11.313 s/iter
+Epoch:44, total loss: 2.781484, human_acc: 22.857143, object_acc: 22.857143, lr: 0.000902, speed: 9.343 s/iter
+Epoch:45, total loss: 2.780851, human_acc: 22.857143, object_acc: 22.857143, lr: 0.000902, speed: 11.424 s/iter
+Epoch:46, total loss: 2.780281, human_acc: 22.857143, object_acc: 22.857143, lr: 0.000902, speed: 12.906 s/iter
+Epoch:47, total loss: 2.779768, human_acc: 22.857143, object_acc: 22.857143, lr: 0.000902, speed: 12.739 s/iter
+Epoch:48, total loss: 2.779303, human_acc: 22.857143, object_acc: 22.857143, lr: 0.000902, speed: 12.290 s/iter
+Epoch:49, total loss: 2.778882, human_acc: 22.857143, object_acc: 22.857143, lr: 0.000902, speed: 13.969 s/iter
+Epoch:50, total loss: 2.778500, human_acc: 22.857143, object_acc: 22.857143, lr: 0.000902, speed: 13.496 s/iter
+Epoch:51, total loss: 2.778151, human_acc: 22.857143, object_acc: 22.857143, lr: 0.000902, speed: 11.215 s/iter
+Epoch:52, total loss: 2.777832, human_acc: 22.857143, object_acc: 22.857143, lr: 0.000902, speed: 10.195 s/iter
+Epoch:53, total loss: 2.777540, human_acc: 22.857143, object_acc: 22.857143, lr: 0.000902, speed: 11.140 s/iter
+Epoch:54, total loss: 2.777273, human_acc: 22.857143, object_acc: 22.857143, lr: 0.000902, speed: 14.002 s/iter
+Epoch:55, total loss: 2.777026, human_acc: 22.857143, object_acc: 22.857143, lr: 0.000902, speed: 12.470 s/iter
+Epoch:56, total loss: 2.776799, human_acc: 22.857143, object_acc: 22.857143, lr: 0.000902, speed: 13.429 s/iter
+Epoch:57, total loss: 2.776590, human_acc: 22.857143, object_acc: 22.857143, lr: 0.000902, speed: 11.252 s/iter
+Epoch:58, total loss: 2.776396, human_acc: 22.857143, object_acc: 22.857143, lr: 0.000902, speed: 10.201 s/iter
+Epoch:59, total loss: 2.776216, human_acc: 22.857143, object_acc: 22.857143, lr: 0.000902, speed: 10.919 s/iter
+Epoch:60, total loss: 2.776049, human_acc: 22.857143, object_acc: 22.857143, lr: 0.000857, speed: 11.426 s/iter
+Epoch:61, total loss: 2.775894, human_acc: 22.857143, object_acc: 22.857143, lr: 0.000857, speed: 11.282 s/iter
+Epoch:62, total loss: 2.775749, human_acc: 22.857143, object_acc: 22.857143, lr: 0.000857, speed: 11.332 s/iter
+Epoch:63, total loss: 2.775614, human_acc: 22.857143, object_acc: 22.857143, lr: 0.000857, speed: 12.247 s/iter
+Epoch:64, total loss: 2.775488, human_acc: 22.857143, object_acc: 22.857143, lr: 0.000857, speed: 10.389 s/iter
+Epoch:65, total loss: 2.775370, human_acc: 22.857143, object_acc: 22.857143, lr: 0.000857, speed: 11.082 s/iter
+Epoch:66, total loss: 2.775259, human_acc: 22.857143, object_acc: 22.857143, lr: 0.000857, speed: 12.425 s/iter
+Epoch:67, total loss: 2.775156, human_acc: 22.857143, object_acc: 22.857143, lr: 0.000857, speed: 9.528 s/iter
+Epoch:68, total loss: 2.775058, human_acc: 22.857143, object_acc: 22.857143, lr: 0.000857, speed: 13.426 s/iter
+Epoch:69, total loss: 2.774966, human_acc: 22.857143, object_acc: 22.857143, lr: 0.000857, speed: 12.764 s/iter
+Epoch:70, total loss: 2.774879, human_acc: 22.857143, object_acc: 22.857143, lr: 0.000857, speed: 11.624 s/iter
+Epoch:71, total loss: 2.774798, human_acc: 22.857143, object_acc: 22.857143, lr: 0.000857, speed: 10.492 s/iter
+Epoch:72, total loss: 2.774720, human_acc: 22.857143, object_acc: 22.857143, lr: 0.000857, speed: 11.739 s/iter
+Epoch:73, total loss: 2.774647, human_acc: 22.857143, object_acc: 22.857143, lr: 0.000857, speed: 9.146 s/iter
+Epoch:74, total loss: 2.774578, human_acc: 22.857143, object_acc: 22.857143, lr: 0.000857, speed: 12.257 s/iter
+Epoch:75, total loss: 2.774513, human_acc: 22.857143, object_acc: 22.857143, lr: 0.000857, speed: 11.235 s/iter
+Epoch:76, total loss: 2.774451, human_acc: 22.857143, object_acc: 22.857143, lr: 0.000857, speed: 10.597 s/iter
+Epoch:77, total loss: 2.774392, human_acc: 22.857143, object_acc: 22.857143, lr: 0.000857, speed: 12.304 s/iter
+Epoch:78, total loss: 2.774336, human_acc: 22.857143, object_acc: 22.857143, lr: 0.000857, speed: 12.385 s/iter
+Epoch:79, total loss: 2.774282, human_acc: 22.857143, object_acc: 22.857143, lr: 0.000857, speed: 11.170 s/iter
+Epoch:80, total loss: 2.774232, human_acc: 22.857143, object_acc: 22.857143, lr: 0.000815, speed: 13.356 s/iter
+Epoch:81, total loss: 2.774183, human_acc: 22.857143, object_acc: 22.857143, lr: 0.000815, speed: 11.256 s/iter
+Epoch:82, total loss: 2.774137, human_acc: 22.857143, object_acc: 22.857143, lr: 0.000815, speed: 11.683 s/iter
+Epoch:83, total loss: 2.774093, human_acc: 22.857143, object_acc: 22.857143, lr: 0.000815, speed: 9.589 s/iter
+Epoch:84, total loss: 2.774051, human_acc: 22.857143, object_acc: 22.857143, lr: 0.000815, speed: 12.544 s/iter
+Epoch:85, total loss: 2.774011, human_acc: 22.857143, object_acc: 22.857143, lr: 0.000815, speed: 11.486 s/iter
+Epoch:86, total loss: 2.773972, human_acc: 22.857143, object_acc: 22.857143, lr: 0.000815, speed: 10.604 s/iter
+Epoch:87, total loss: 2.773935, human_acc: 22.857143, object_acc: 22.857143, lr: 0.000815, speed: 11.368 s/iter
+Epoch:88, total loss: 2.773900, human_acc: 22.857143, object_acc: 22.857143, lr: 0.000815, speed: 12.616 s/iter
+Epoch:89, total loss: 2.773866, human_acc: 22.857143, object_acc: 22.857143, lr: 0.000815, speed: 13.392 s/iter
+Epoch:00, total loss: 3.685185, human_acc: 20.219780, object_acc: 21.428571, lr: 0.001000, speed: 19.663 s/iter
+Epoch:01, total loss: 3.629615, human_acc: 22.307692, object_acc: 22.857143, lr: 0.001000, speed: 10.899 s/iter
+Epoch:02, total loss: 3.576254, human_acc: 22.857143, object_acc: 22.857143, lr: 0.001000, speed: 10.888 s/iter
+Epoch:03, total loss: 3.525526, human_acc: 22.857143, object_acc: 22.857143, lr: 0.001000, speed: 8.310 s/iter
+Epoch:04, total loss: 3.477695, human_acc: 22.857143, object_acc: 22.857143, lr: 0.001000, speed: 8.207 s/iter
+Epoch:05, total loss: 3.432865, human_acc: 22.857143, object_acc: 22.857143, lr: 0.001000, speed: 7.827 s/iter
+Epoch:06, total loss: 3.390998, human_acc: 22.857143, object_acc: 22.857143, lr: 0.001000, speed: 7.368 s/iter
+Epoch:07, total loss: 3.351924, human_acc: 22.857143, object_acc: 22.857143, lr: 0.001000, speed: 6.043 s/iter
+Epoch:08, total loss: 3.315356, human_acc: 22.857143, object_acc: 22.857143, lr: 0.001000, speed: 8.975 s/iter
+Epoch:09, total loss: 3.280900, human_acc: 22.857143, object_acc: 22.857143, lr: 0.001000, speed: 10.086 s/iter
+Epoch:10, total loss: 3.248064, human_acc: 22.857143, object_acc: 22.857143, lr: 0.001000, speed: 9.080 s/iter
+Epoch:11, total loss: 3.216270, human_acc: 22.857143, object_acc: 22.857143, lr: 0.001000, speed: 8.366 s/iter
+Epoch:12, total loss: 3.184891, human_acc: 22.857143, object_acc: 22.857143, lr: 0.001000, speed: 8.044 s/iter
+Epoch:13, total loss: 3.153309, human_acc: 22.857143, object_acc: 22.857143, lr: 0.001000, speed: 12.308 s/iter
+Epoch:14, total loss: 3.121037, human_acc: 22.857143, object_acc: 22.857143, lr: 0.001000, speed: 11.714 s/iter
+Epoch:15, total loss: 3.087859, human_acc: 22.857143, object_acc: 22.857143, lr: 0.001000, speed: 12.597 s/iter
+Epoch:16, total loss: 3.053984, human_acc: 22.857143, object_acc: 22.857143, lr: 0.001000, speed: 12.018 s/iter
+Epoch:17, total loss: 3.020095, human_acc: 22.857143, object_acc: 22.857143, lr: 0.001000, speed: 13.050 s/iter
+Epoch:18, total loss: 2.987234, human_acc: 22.857143, object_acc: 22.857143, lr: 0.001000, speed: 13.952 s/iter
+Epoch:19, total loss: 2.956530, human_acc: 22.857143, object_acc: 22.857143, lr: 0.001000, speed: 12.775 s/iter
+Epoch:20, total loss: 2.928884, human_acc: 22.857143, object_acc: 22.857143, lr: 0.000950, speed: 13.057 s/iter
+Epoch:21, total loss: 2.904783, human_acc: 22.857143, object_acc: 22.857143, lr: 0.000950, speed: 10.613 s/iter
+Epoch:22, total loss: 2.884285, human_acc: 22.857143, object_acc: 22.857143, lr: 0.000950, speed: 13.561 s/iter
+Epoch:23, total loss: 2.867138, human_acc: 22.857143, object_acc: 22.857143, lr: 0.000950, speed: 12.656 s/iter
+Epoch:24, total loss: 2.852928, human_acc: 22.857143, object_acc: 22.857143, lr: 0.000950, speed: 7.597 s/iter
+Epoch:25, total loss: 2.841193, human_acc: 22.857143, object_acc: 22.857143, lr: 0.000950, speed: 318.373 s/iter
+Epoch:26, total loss: 2.831497, human_acc: 22.857143, object_acc: 22.857143, lr: 0.000950, speed: 7.473 s/iter
+Epoch:27, total loss: 2.823463, human_acc: 22.857143, object_acc: 22.857143, lr: 0.000950, speed: 5.951 s/iter
+Epoch:28, total loss: 2.816775, human_acc: 22.857143, object_acc: 22.857143, lr: 0.000950, speed: 9.324 s/iter
+Epoch:29, total loss: 2.811179, human_acc: 22.857143, object_acc: 22.857143, lr: 0.000950, speed: 12.572 s/iter
+Epoch:30, total loss: 2.806471, human_acc: 22.857143, object_acc: 22.857143, lr: 0.000950, speed: 7.914 s/iter
+Epoch:31, total loss: 2.802489, human_acc: 22.857143, object_acc: 22.857143, lr: 0.000950, speed: 4.929 s/iter
+Epoch:32, total loss: 2.799102, human_acc: 22.857143, object_acc: 22.857143, lr: 0.000950, speed: 5.436 s/iter
+Epoch:00, total loss: 3.685187, human_acc: 20.219780, object_acc: 21.538462, lr: 0.001000, speed: 29.221 s/iter
+Epoch:01, total loss: 3.629622, human_acc: 22.307692, object_acc: 22.857143, lr: 0.001000, speed: 7.760 s/iter
+Epoch:02, total loss: 3.576268, human_acc: 22.637363, object_acc: 22.857143, lr: 0.001000, speed: 7.374 s/iter
+Epoch:03, total loss: 3.525554, human_acc: 22.857143, object_acc: 22.857143, lr: 0.001000, speed: 6.893 s/iter
+Epoch:04, total loss: 3.477745, human_acc: 22.857143, object_acc: 22.857143, lr: 0.001000, speed: 8.667 s/iter
+Epoch:05, total loss: 3.432955, human_acc: 22.857143, object_acc: 22.857143, lr: 0.001000, speed: 8.035 s/iter
+Epoch:06, total loss: 3.391154, human_acc: 22.857143, object_acc: 22.857143, lr: 0.001000, speed: 7.506 s/iter
+Epoch:07, total loss: 3.352187, human_acc: 22.857143, object_acc: 22.857143, lr: 0.001000, speed: 7.707 s/iter
+Epoch:08, total loss: 3.315789, human_acc: 22.857143, object_acc: 22.857143, lr: 0.001000, speed: 8.306 s/iter
+Epoch:09, total loss: 3.281595, human_acc: 22.857143, object_acc: 22.857143, lr: 0.001000, speed: 8.408 s/iter
+Epoch:10, total loss: 3.249149, human_acc: 22.857143, object_acc: 22.857143, lr: 0.001000, speed: 8.844 s/iter
+Epoch:11, total loss: 3.217915, human_acc: 22.857143, object_acc: 22.857143, lr: 0.001000, speed: 9.937 s/iter
+Epoch:12, total loss: 3.187307, human_acc: 22.857143, object_acc: 22.857143, lr: 0.001000, speed: 8.948 s/iter
+Epoch:13, total loss: 3.156730, human_acc: 22.857143, object_acc: 22.857143, lr: 0.001000, speed: 114.844 s/iter
+Epoch:14, total loss: 3.125678, human_acc: 22.857143, object_acc: 22.857143, lr: 0.001000, speed: 11.558 s/iter
+Epoch:15, total loss: 3.093853, human_acc: 22.857143, object_acc: 22.857143, lr: 0.001000, speed: 10.263 s/iter
+Epoch:16, total loss: 3.061303, human_acc: 22.857143, object_acc: 22.857143, lr: 0.001000, speed: 15.002 s/iter
+Epoch:17, total loss: 3.028503, human_acc: 22.857143, object_acc: 22.857143, lr: 0.001000, speed: 12.278 s/iter
+Epoch:18, total loss: 2.996303, human_acc: 22.857143, object_acc: 22.857143, lr: 0.001000, speed: 16.222 s/iter
+Epoch:19, total loss: 2.965734, human_acc: 22.857143, object_acc: 22.857143, lr: 0.001000, speed: 6.470 s/iter
+Epoch:20, total loss: 2.937733, human_acc: 22.857143, object_acc: 22.857143, lr: 0.000950, speed: 6.241 s/iter
+Epoch:21, total loss: 2.912919, human_acc: 22.857143, object_acc: 22.857143, lr: 0.000950, speed: 23.561 s/iter
+Epoch:22, total loss: 2.891519, human_acc: 22.857143, object_acc: 22.857143, lr: 0.000950, speed: 5.797 s/iter
+Epoch:23, total loss: 2.873421, human_acc: 22.857143, object_acc: 22.857143, lr: 0.000950, speed: 8.265 s/iter
+Epoch:24, total loss: 2.858303, human_acc: 22.857143, object_acc: 22.857143, lr: 0.000950, speed: 23.530 s/iter
+Epoch:25, total loss: 2.845753, human_acc: 22.857143, object_acc: 22.857143, lr: 0.000950, speed: 6.942 s/iter
+Epoch:26, total loss: 2.835350, human_acc: 22.857143, object_acc: 22.857143, lr: 0.000950, speed: 6.924 s/iter
+Epoch:27, total loss: 2.826715, human_acc: 22.857143, object_acc: 22.857143, lr: 0.000950, speed: 6.351 s/iter
+Epoch:28, total loss: 2.819522, human_acc: 22.857143, object_acc: 22.857143, lr: 0.000950, speed: 10.494 s/iter
+Epoch:29, total loss: 2.813504, human_acc: 22.857143, object_acc: 22.857143, lr: 0.000950, speed: 6.856 s/iter
+Epoch:30, total loss: 2.808443, human_acc: 22.857143, object_acc: 22.857143, lr: 0.000950, speed: 15.320 s/iter
+Epoch:31, total loss: 2.804167, human_acc: 22.857143, object_acc: 22.857143, lr: 0.000950, speed: 18.680 s/iter
+Epoch:32, total loss: 2.800534, human_acc: 22.857143, object_acc: 22.857143, lr: 0.000950, speed: 115.676 s/iter
+Epoch:33, total loss: 2.797433, human_acc: 22.857143, object_acc: 22.857143, lr: 0.000950, speed: 7.969 s/iter
+Epoch:34, total loss: 2.794775, human_acc: 22.857143, object_acc: 22.857143, lr: 0.000950, speed: 8.196 s/iter
+Epoch:35, total loss: 2.792485, human_acc: 22.857143, object_acc: 22.857143, lr: 0.000950, speed: 9.794 s/iter
+Epoch:36, total loss: 2.790504, human_acc: 22.857143, object_acc: 22.857143, lr: 0.000950, speed: 10.493 s/iter
+Epoch:37, total loss: 2.788783, human_acc: 22.857143, object_acc: 22.857143, lr: 0.000950, speed: 70.162 s/iter
+Epoch:38, total loss: 2.787282, human_acc: 22.857143, object_acc: 22.857143, lr: 0.000950, speed: 7.165 s/iter
+Epoch:39, total loss: 2.785968, human_acc: 22.857143, object_acc: 22.857143, lr: 0.000950, speed: 6.840 s/iter
+Epoch:40, total loss: 2.784813, human_acc: 22.857143, object_acc: 22.857143, lr: 0.000902, speed: 6.120 s/iter
+Epoch:41, total loss: 2.783794, human_acc: 22.857143, object_acc: 22.857143, lr: 0.000902, speed: 5.736 s/iter
+Epoch:42, total loss: 2.782892, human_acc: 22.857143, object_acc: 22.857143, lr: 0.000902, speed: 5.942 s/iter
+Epoch:43, total loss: 2.782091, human_acc: 22.857143, object_acc: 22.857143, lr: 0.000902, speed: 6.240 s/iter
+Epoch:44, total loss: 2.781377, human_acc: 22.857143, object_acc: 22.857143, lr: 0.000902, speed: 7.546 s/iter
+Epoch:45, total loss: 2.780739, human_acc: 22.857143, object_acc: 22.857143, lr: 0.000902, speed: 7.542 s/iter
+Epoch:46, total loss: 2.780166, human_acc: 22.857143, object_acc: 22.857143, lr: 0.000902, speed: 7.745 s/iter
+Epoch:47, total loss: 2.779651, human_acc: 22.857143, object_acc: 22.857143, lr: 0.000902, speed: 9.357 s/iter
+Epoch:48, total loss: 2.779186, human_acc: 22.857143, object_acc: 22.857143, lr: 0.000902, speed: 8.484 s/iter
+Epoch:49, total loss: 2.778765, human_acc: 22.857143, object_acc: 22.857143, lr: 0.000902, speed: 8.877 s/iter
+Epoch:50, total loss: 2.778384, human_acc: 22.857143, object_acc: 22.857143, lr: 0.000902, speed: 9.068 s/iter
+Epoch:51, total loss: 2.778036, human_acc: 22.857143, object_acc: 22.857143, lr: 0.000902, speed: 75.698 s/iter
+Epoch:52, total loss: 2.777719, human_acc: 22.857143, object_acc: 22.857143, lr: 0.000902, speed: 6.386 s/iter
+Epoch:53, total loss: 2.777430, human_acc: 22.857143, object_acc: 22.857143, lr: 0.000902, speed: 6.765 s/iter
+Epoch:54, total loss: 2.777164, human_acc: 22.857143, object_acc: 22.857143, lr: 0.000902, speed: 7.081 s/iter
+Epoch:55, total loss: 2.776921, human_acc: 22.857143, object_acc: 22.857143, lr: 0.000902, speed: 11.380 s/iter
+Epoch:56, total loss: 2.776696, human_acc: 22.857143, object_acc: 22.857143, lr: 0.000902, speed: 8.959 s/iter
+Epoch:57, total loss: 2.776489, human_acc: 22.857143, object_acc: 22.857143, lr: 0.000902, speed: 5.737 s/iter
+Epoch:58, total loss: 2.776298, human_acc: 22.857143, object_acc: 22.857143, lr: 0.000902, speed: 5.927 s/iter
+Epoch:59, total loss: 2.776121, human_acc: 22.857143, object_acc: 22.857143, lr: 0.000902, speed: 6.244 s/iter
+Epoch:60, total loss: 2.775957, human_acc: 22.857143, object_acc: 22.857143, lr: 0.000857, speed: 6.172 s/iter
+Epoch:61, total loss: 2.775804, human_acc: 22.857143, object_acc: 22.857143, lr: 0.000857, speed: 5.528 s/iter
+Epoch:00, total loss: 1.644301, human_acc: 20.219780, object_acc: 20.109890, lr: 0.010000, speed: 18.582 s/iter
+Epoch:01, total loss: 1.068163, human_acc: 19.450549, object_acc: 20.329670, lr: 0.010000, speed: 6.040 s/iter
+Epoch:02, total loss: 1.042288, human_acc: 19.780220, object_acc: 19.560440, lr: 0.010000, speed: 6.392 s/iter
+Epoch:03, total loss: 1.040588, human_acc: 20.329670, object_acc: 19.340659, lr: 0.010000, speed: 6.879 s/iter
+Epoch:04, total loss: 1.040043, human_acc: 20.329670, object_acc: 19.450549, lr: 0.010000, speed: 6.086 s/iter
+Epoch:05, total loss: 1.039734, human_acc: 20.109890, object_acc: 19.560440, lr: 0.010000, speed: 6.156 s/iter
+Epoch:06, total loss: 1.039517, human_acc: 20.219780, object_acc: 19.670330, lr: 0.010000, speed: 7.127 s/iter
+Epoch:07, total loss: 1.039346, human_acc: 20.219780, object_acc: 19.560440, lr: 0.010000, speed: 9.009 s/iter
+Epoch:08, total loss: 1.039202, human_acc: 20.000000, object_acc: 19.670330, lr: 0.010000, speed: 9.958 s/iter
+Epoch:09, total loss: 1.039076, human_acc: 20.109890, object_acc: 19.780220, lr: 0.010000, speed: 9.798 s/iter
+Epoch:10, total loss: 1.038963, human_acc: 20.000000, object_acc: 20.000000, lr: 0.010000, speed: 9.487 s/iter
+Epoch:11, total loss: 1.038859, human_acc: 20.219780, object_acc: 20.219780, lr: 0.010000, speed: 9.318 s/iter
+Epoch:12, total loss: 1.038763, human_acc: 20.109890, object_acc: 20.109890, lr: 0.010000, speed: 9.225 s/iter
+Epoch:13, total loss: 1.038673, human_acc: 20.329670, object_acc: 20.109890, lr: 0.010000, speed: 9.218 s/iter
+Epoch:14, total loss: 1.038589, human_acc: 20.000000, object_acc: 20.439560, lr: 0.010000, speed: 9.144 s/iter
+Epoch:15, total loss: 1.038509, human_acc: 19.890110, object_acc: 20.439560, lr: 0.010000, speed: 25.153 s/iter
+Epoch:16, total loss: 1.038433, human_acc: 19.560440, object_acc: 20.329670, lr: 0.010000, speed: 227.196 s/iter
+Epoch:17, total loss: 1.038361, human_acc: 19.450549, object_acc: 20.439560, lr: 0.010000, speed: 75.858 s/iter
+Epoch:18, total loss: 1.038293, human_acc: 19.450549, object_acc: 20.329670, lr: 0.010000, speed: 5.855 s/iter
+Epoch:19, total loss: 1.038228, human_acc: 19.450549, object_acc: 20.329670, lr: 0.010000, speed: 8.493 s/iter
+Epoch:20, total loss: 1.038165, human_acc: 19.230769, object_acc: 20.219780, lr: 0.009500, speed: 6.082 s/iter
+Epoch:21, total loss: 1.038105, human_acc: 19.450549, object_acc: 20.329670, lr: 0.009500, speed: 6.115 s/iter
+Epoch:22, total loss: 1.038047, human_acc: 19.450549, object_acc: 20.549451, lr: 0.009500, speed: 5.661 s/iter
+Epoch:23, total loss: 1.037992, human_acc: 19.230769, object_acc: 20.549451, lr: 0.009500, speed: 6.780 s/iter
+Epoch:24, total loss: 1.037939, human_acc: 19.450549, object_acc: 20.549451, lr: 0.009500, speed: 6.298 s/iter
+Epoch:25, total loss: 1.037887, human_acc: 19.340659, object_acc: 20.549451, lr: 0.009500, speed: 5.610 s/iter
+Epoch:26, total loss: 1.037838, human_acc: 19.120879, object_acc: 20.329670, lr: 0.009500, speed: 5.742 s/iter
+Epoch:27, total loss: 1.037790, human_acc: 19.230769, object_acc: 20.329670, lr: 0.009500, speed: 5.684 s/iter
+Epoch:28, total loss: 1.037744, human_acc: 19.010989, object_acc: 20.219780, lr: 0.009500, speed: 5.745 s/iter
+Epoch:29, total loss: 1.037700, human_acc: 19.120879, object_acc: 20.439560, lr: 0.009500, speed: 6.233 s/iter
+Epoch:30, total loss: 1.037657, human_acc: 19.230769, object_acc: 20.329670, lr: 0.009500, speed: 6.257 s/iter
+Epoch:31, total loss: 1.037615, human_acc: 19.230769, object_acc: 20.439560, lr: 0.009500, speed: 6.366 s/iter
+Epoch:32, total loss: 1.037575, human_acc: 19.010989, object_acc: 20.329670, lr: 0.009500, speed: 6.069 s/iter
+Epoch:33, total loss: 1.037536, human_acc: 19.010989, object_acc: 20.439560, lr: 0.009500, speed: 5.509 s/iter
+Epoch:34, total loss: 1.037498, human_acc: 19.230769, object_acc: 20.439560, lr: 0.009500, speed: 5.939 s/iter
+Epoch:35, total loss: 1.037461, human_acc: 19.450549, object_acc: 20.329670, lr: 0.009500, speed: 5.959 s/iter
+Epoch:36, total loss: 1.037426, human_acc: 19.560440, object_acc: 20.219780, lr: 0.009500, speed: 6.342 s/iter
+Epoch:37, total loss: 1.037391, human_acc: 19.670330, object_acc: 20.219780, lr: 0.009500, speed: 5.912 s/iter
+Epoch:38, total loss: 1.037358, human_acc: 19.780220, object_acc: 20.219780, lr: 0.009500, speed: 5.893 s/iter
+Epoch:39, total loss: 1.037325, human_acc: 20.000000, object_acc: 20.439560, lr: 0.009500, speed: 5.797 s/iter
+Epoch:40, total loss: 1.037293, human_acc: 20.109890, object_acc: 20.439560, lr: 0.009025, speed: 6.930 s/iter
+Epoch:41, total loss: 1.037262, human_acc: 20.000000, object_acc: 20.549451, lr: 0.009025, speed: 187.653 s/iter
+Epoch:42, total loss: 1.037232, human_acc: 20.109890, object_acc: 20.549451, lr: 0.009025, speed: 7.416 s/iter
+Epoch:43, total loss: 1.037203, human_acc: 20.000000, object_acc: 20.549451, lr: 0.009025, speed: 7.765 s/iter
+Epoch:44, total loss: 1.037174, human_acc: 20.000000, object_acc: 20.549451, lr: 0.009025, speed: 6.066 s/iter
+Epoch:45, total loss: 1.037146, human_acc: 20.219780, object_acc: 20.549451, lr: 0.009025, speed: 5.949 s/iter
+Epoch:46, total loss: 1.037119, human_acc: 20.329670, object_acc: 20.659341, lr: 0.009025, speed: 5.360 s/iter
+Epoch:47, total loss: 1.037093, human_acc: 20.329670, object_acc: 20.549451, lr: 0.009025, speed: 4.823 s/iter
+Epoch:48, total loss: 1.037067, human_acc: 20.219780, object_acc: 20.439560, lr: 0.009025, speed: 5.935 s/iter
+Epoch:49, total loss: 1.037042, human_acc: 20.109890, object_acc: 20.549451, lr: 0.009025, speed: 5.794 s/iter
+Epoch:50, total loss: 1.037017, human_acc: 20.219780, object_acc: 20.659341, lr: 0.009025, speed: 5.722 s/iter
+Epoch:51, total loss: 1.036993, human_acc: 20.329670, object_acc: 20.659341, lr: 0.009025, speed: 6.131 s/iter
+Epoch:52, total loss: 1.036969, human_acc: 20.329670, object_acc: 20.769231, lr: 0.009025, speed: 6.645 s/iter
+Epoch:53, total loss: 1.036946, human_acc: 20.219780, object_acc: 20.769231, lr: 0.009025, speed: 5.838 s/iter
+Epoch:54, total loss: 1.036924, human_acc: 20.109890, object_acc: 20.659341, lr: 0.009025, speed: 5.193 s/iter
+Epoch:55, total loss: 1.036902, human_acc: 20.109890, object_acc: 20.659341, lr: 0.009025, speed: 26.597 s/iter
+Epoch:00, total loss: 2.534167, human_acc: 20.219780, object_acc: 20.989011, lr: 0.001000, speed: 14.315 s/iter
+Epoch:01, total loss: 2.154279, human_acc: 21.978022, object_acc: 22.197802, lr: 0.001000, speed: 9.447 s/iter
+Epoch:02, total loss: 1.892219, human_acc: 22.197802, object_acc: 22.857143, lr: 0.001000, speed: 8.650 s/iter
+Epoch:03, total loss: 1.704330, human_acc: 22.307692, object_acc: 22.857143, lr: 0.001000, speed: 8.394 s/iter
+Epoch:04, total loss: 1.561681, human_acc: 22.417582, object_acc: 22.857143, lr: 0.001000, speed: 8.954 s/iter
+Epoch:05, total loss: 1.445281, human_acc: 22.307692, object_acc: 22.857143, lr: 0.001000, speed: 8.638 s/iter
+Epoch:06, total loss: 1.344589, human_acc: 22.197802, object_acc: 22.857143, lr: 0.001000, speed: 9.306 s/iter
+Epoch:07, total loss: 1.257513, human_acc: 22.087912, object_acc: 22.417582, lr: 0.001000, speed: 7.980 s/iter
+Epoch:08, total loss: 1.187350, human_acc: 22.087912, object_acc: 22.197802, lr: 0.001000, speed: 9.297 s/iter
+Epoch:09, total loss: 1.136260, human_acc: 22.197802, object_acc: 22.417582, lr: 0.001000, speed: 8.701 s/iter
+Epoch:10, total loss: 1.101980, human_acc: 22.307692, object_acc: 22.197802, lr: 0.001000, speed: 8.710 s/iter
+Epoch:11, total loss: 1.079883, human_acc: 22.197802, object_acc: 21.868132, lr: 0.001000, speed: 8.035 s/iter
+Epoch:12, total loss: 1.065718, human_acc: 22.307692, object_acc: 21.868132, lr: 0.001000, speed: 8.664 s/iter
+Epoch:13, total loss: 1.056530, human_acc: 22.197802, object_acc: 22.087912, lr: 0.001000, speed: 8.487 s/iter
+Epoch:14, total loss: 1.050467, human_acc: 21.978022, object_acc: 22.197802, lr: 0.001000, speed: 8.454 s/iter
+Epoch:15, total loss: 1.046394, human_acc: 21.758242, object_acc: 22.307692, lr: 0.001000, speed: 8.524 s/iter
+Epoch:16, total loss: 1.043607, human_acc: 21.648352, object_acc: 22.307692, lr: 0.001000, speed: 9.747 s/iter
+Epoch:17, total loss: 1.041662, human_acc: 21.428571, object_acc: 22.307692, lr: 0.001000, speed: 9.353 s/iter
+Epoch:18, total loss: 1.040277, human_acc: 21.318681, object_acc: 22.307692, lr: 0.001000, speed: 8.203 s/iter
+Epoch:19, total loss: 1.039268, human_acc: 21.428571, object_acc: 22.417582, lr: 0.001000, speed: 8.382 s/iter
+Epoch:20, total loss: 1.038516, human_acc: 21.098901, object_acc: 22.307692, lr: 0.000950, speed: 8.069 s/iter
+Epoch:21, total loss: 1.037943, human_acc: 21.098901, object_acc: 22.307692, lr: 0.000950, speed: 7.481 s/iter
+Epoch:22, total loss: 1.037496, human_acc: 20.659341, object_acc: 22.307692, lr: 0.000950, speed: 9.459 s/iter
+Epoch:23, total loss: 1.037141, human_acc: 20.549451, object_acc: 22.307692, lr: 0.000950, speed: 8.089 s/iter
+Epoch:24, total loss: 1.036852, human_acc: 20.659341, object_acc: 22.307692, lr: 0.000950, speed: 10.205 s/iter
+Epoch:25, total loss: 1.036614, human_acc: 20.549451, object_acc: 22.197802, lr: 0.000950, speed: 8.687 s/iter
+Epoch:26, total loss: 1.036414, human_acc: 20.549451, object_acc: 22.307692, lr: 0.000950, speed: 10.203 s/iter
+Epoch:27, total loss: 1.036244, human_acc: 20.549451, object_acc: 22.307692, lr: 0.000950, speed: 8.276 s/iter
+Epoch:28, total loss: 1.036097, human_acc: 20.439560, object_acc: 22.307692, lr: 0.000950, speed: 8.252 s/iter
+Epoch:29, total loss: 1.035970, human_acc: 20.439560, object_acc: 22.307692, lr: 0.000950, speed: 7.092 s/iter
+Epoch:30, total loss: 1.035858, human_acc: 20.329670, object_acc: 22.307692, lr: 0.000950, speed: 6.649 s/iter
+Epoch:31, total loss: 1.035758, human_acc: 20.329670, object_acc: 22.307692, lr: 0.000950, speed: 7.308 s/iter
+Epoch:00, total loss: 8.691360, human_acc: 19.670330, object_acc: 21.318681, lr: 0.001000, speed: 8.455 s/iter
+Epoch:01, total loss: 7.978162, human_acc: 20.659341, object_acc: 20.879121, lr: 0.001000, speed: 7.570 s/iter
+Epoch:02, total loss: 7.815993, human_acc: 20.439560, object_acc: 20.769231, lr: 0.001000, speed: 7.918 s/iter
+Epoch:03, total loss: 7.763381, human_acc: 20.329670, object_acc: 20.769231, lr: 0.001000, speed: 7.977 s/iter
+Epoch:04, total loss: 7.741064, human_acc: 19.890110, object_acc: 20.879121, lr: 0.001000, speed: 6.964 s/iter
+Epoch:05, total loss: 7.729430, human_acc: 19.890110, object_acc: 20.989011, lr: 0.001000, speed: 5.936 s/iter
+Epoch:06, total loss: 7.722357, human_acc: 19.890110, object_acc: 20.989011, lr: 0.001000, speed: 5.986 s/iter
+Epoch:07, total loss: 7.717585, human_acc: 20.000000, object_acc: 20.989011, lr: 0.001000, speed: 6.752 s/iter
+Epoch:08, total loss: 7.714136, human_acc: 19.780220, object_acc: 20.989011, lr: 0.001000, speed: 6.931 s/iter
+Epoch:09, total loss: 7.711525, human_acc: 19.780220, object_acc: 20.989011, lr: 0.001000, speed: 7.038 s/iter
+Epoch:10, total loss: 7.709478, human_acc: 19.890110, object_acc: 20.879121, lr: 0.001000, speed: 6.624 s/iter
+Epoch:11, total loss: 7.707831, human_acc: 19.780220, object_acc: 20.879121, lr: 0.001000, speed: 5.447 s/iter
+Epoch:12, total loss: 7.706477, human_acc: 19.780220, object_acc: 20.879121, lr: 0.001000, speed: 5.585 s/iter
+Epoch:13, total loss: 7.705343, human_acc: 19.890110, object_acc: 20.769231, lr: 0.001000, speed: 5.067 s/iter
+Epoch:14, total loss: 7.704380, human_acc: 19.890110, object_acc: 20.769231, lr: 0.001000, speed: 4.057 s/iter
+Epoch:15, total loss: 7.703551, human_acc: 19.890110, object_acc: 20.769231, lr: 0.001000, speed: 5.420 s/iter
+Epoch:16, total loss: 7.702829, human_acc: 20.000000, object_acc: 20.769231, lr: 0.001000, speed: 5.341 s/iter
+Epoch:17, total loss: 7.702195, human_acc: 19.890110, object_acc: 20.769231, lr: 0.001000, speed: 5.019 s/iter
+Epoch:18, total loss: 7.701632, human_acc: 19.890110, object_acc: 20.769231, lr: 0.001000, speed: 5.773 s/iter
+Epoch:19, total loss: 7.701129, human_acc: 19.890110, object_acc: 20.879121, lr: 0.001000, speed: 4.312 s/iter
+Epoch:20, total loss: 7.700676, human_acc: 20.000000, object_acc: 20.879121, lr: 0.000950, speed: 5.434 s/iter
+Epoch:21, total loss: 7.700265, human_acc: 20.109890, object_acc: 20.879121, lr: 0.000950, speed: 5.446 s/iter
+Epoch:22, total loss: 7.699892, human_acc: 20.109890, object_acc: 20.879121, lr: 0.000950, speed: 4.916 s/iter
+Epoch:23, total loss: 7.699550, human_acc: 20.109890, object_acc: 20.989011, lr: 0.000950, speed: 4.167 s/iter
+Epoch:00, total loss: 7.947578, human_acc: 21.098901, object_acc: 20.329670, lr: 0.010000, speed: 6.030 s/iter
+Epoch:01, total loss: 7.790918, human_acc: 21.208791, object_acc: 20.549451, lr: 0.010000, speed: 5.577 s/iter
+Epoch:02, total loss: 7.785145, human_acc: 21.318681, object_acc: 20.549451, lr: 0.010000, speed: 5.568 s/iter
+Epoch:03, total loss: 7.782813, human_acc: 21.428571, object_acc: 20.659341, lr: 0.010000, speed: 5.018 s/iter
+Epoch:04, total loss: 7.781480, human_acc: 21.538462, object_acc: 20.769231, lr: 0.010000, speed: 3.796 s/iter
+Epoch:05, total loss: 7.780588, human_acc: 21.538462, object_acc: 20.549451, lr: 0.010000, speed: 4.400 s/iter
+Epoch:06, total loss: 7.779965, human_acc: 21.318681, object_acc: 20.439560, lr: 0.010000, speed: 4.615 s/iter
+Epoch:07, total loss: 7.779527, human_acc: 21.208791, object_acc: 20.439560, lr: 0.010000, speed: 5.474 s/iter
+Epoch:08, total loss: 7.779205, human_acc: 21.208791, object_acc: 20.549451, lr: 0.010000, speed: 5.429 s/iter
+Epoch:09, total loss: 7.778949, human_acc: 21.208791, object_acc: 20.549451, lr: 0.010000, speed: 5.341 s/iter
+Epoch:10, total loss: 7.778732, human_acc: 21.208791, object_acc: 20.659341, lr: 0.010000, speed: 5.086 s/iter
+Epoch:11, total loss: 7.778548, human_acc: 21.208791, object_acc: 20.549451, lr: 0.010000, speed: 5.018 s/iter
+Epoch:12, total loss: 7.778397, human_acc: 21.208791, object_acc: 20.439560, lr: 0.010000, speed: 6.085 s/iter
+Epoch:13, total loss: 7.778276, human_acc: 21.208791, object_acc: 20.439560, lr: 0.010000, speed: 4.773 s/iter
+Epoch:14, total loss: 7.778174, human_acc: 21.208791, object_acc: 20.439560, lr: 0.010000, speed: 5.882 s/iter
+Epoch:15, total loss: 7.778082, human_acc: 21.208791, object_acc: 20.439560, lr: 0.010000, speed: 5.863 s/iter
+Epoch:16, total loss: 7.777997, human_acc: 21.208791, object_acc: 20.439560, lr: 0.010000, speed: 3.954 s/iter
+Epoch:17, total loss: 7.777921, human_acc: 21.208791, object_acc: 20.439560, lr: 0.010000, speed: 5.705 s/iter
+Epoch:18, total loss: 7.777854, human_acc: 21.208791, object_acc: 20.439560, lr: 0.010000, speed: 6.106 s/iter
+Epoch:19, total loss: 7.777796, human_acc: 21.208791, object_acc: 20.439560, lr: 0.010000, speed: 5.434 s/iter
+Epoch:20, total loss: 7.777743, human_acc: 21.208791, object_acc: 20.439560, lr: 0.009500, speed: 5.683 s/iter
+Epoch:21, total loss: 7.777694, human_acc: 21.208791, object_acc: 20.439560, lr: 0.009500, speed: 5.689 s/iter
+Epoch:22, total loss: 7.777649, human_acc: 21.208791, object_acc: 20.439560, lr: 0.009500, speed: 7.362 s/iter
+Epoch:23, total loss: 7.777608, human_acc: 21.208791, object_acc: 20.439560, lr: 0.009500, speed: 7.212 s/iter
+Epoch:24, total loss: 7.777571, human_acc: 21.208791, object_acc: 20.439560, lr: 0.009500, speed: 7.520 s/iter
+Epoch:25, total loss: 7.777538, human_acc: 21.208791, object_acc: 20.439560, lr: 0.009500, speed: 6.306 s/iter
+Epoch:26, total loss: 7.777507, human_acc: 21.208791, object_acc: 20.439560, lr: 0.009500, speed: 5.308 s/iter
+Epoch:27, total loss: 7.777478, human_acc: 21.208791, object_acc: 20.439560, lr: 0.009500, speed: 7.473 s/iter
+Epoch:28, total loss: 7.777451, human_acc: 21.208791, object_acc: 20.439560, lr: 0.009500, speed: 7.374 s/iter
+Epoch:29, total loss: 7.777425, human_acc: 21.208791, object_acc: 20.439560, lr: 0.009500, speed: 6.181 s/iter
+Epoch:30, total loss: 7.777401, human_acc: 21.208791, object_acc: 20.439560, lr: 0.009500, speed: 5.454 s/iter
+Epoch:31, total loss: 7.777379, human_acc: 21.208791, object_acc: 20.439560, lr: 0.009500, speed: 6.065 s/iter
+Epoch:32, total loss: 7.777358, human_acc: 21.208791, object_acc: 20.439560, lr: 0.009500, speed: 6.158 s/iter
+Epoch:33, total loss: 7.777339, human_acc: 21.208791, object_acc: 20.439560, lr: 0.009500, speed: 4.399 s/iter
+Epoch:34, total loss: 7.777320, human_acc: 21.208791, object_acc: 20.439560, lr: 0.009500, speed: 5.686 s/iter
+Epoch:35, total loss: 7.777303, human_acc: 21.208791, object_acc: 20.439560, lr: 0.009500, speed: 6.463 s/iter
+Epoch:36, total loss: 7.777287, human_acc: 21.208791, object_acc: 20.439560, lr: 0.009500, speed: 5.997 s/iter
+Epoch:37, total loss: 7.777271, human_acc: 21.208791, object_acc: 20.439560, lr: 0.009500, speed: 6.068 s/iter
+Epoch:38, total loss: 7.777256, human_acc: 21.208791, object_acc: 20.439560, lr: 0.009500, speed: 5.262 s/iter
+Epoch:39, total loss: 7.777242, human_acc: 21.208791, object_acc: 20.439560, lr: 0.009500, speed: 5.613 s/iter
+Epoch:40, total loss: 7.777229, human_acc: 21.208791, object_acc: 20.439560, lr: 0.009025, speed: 7.017 s/iter
+Epoch:41, total loss: 7.777216, human_acc: 21.208791, object_acc: 20.439560, lr: 0.009025, speed: 6.437 s/iter
+Epoch:42, total loss: 7.777204, human_acc: 21.208791, object_acc: 20.439560, lr: 0.009025, speed: 6.635 s/iter
+Epoch:43, total loss: 7.777193, human_acc: 21.208791, object_acc: 20.439560, lr: 0.009025, speed: 6.954 s/iter
+Epoch:44, total loss: 7.777182, human_acc: 21.208791, object_acc: 20.439560, lr: 0.009025, speed: 6.074 s/iter
+Epoch:45, total loss: 7.777171, human_acc: 21.208791, object_acc: 20.439560, lr: 0.009025, speed: 6.909 s/iter
+Epoch:46, total loss: 7.777161, human_acc: 21.208791, object_acc: 20.439560, lr: 0.009025, speed: 5.009 s/iter
+Epoch:47, total loss: 7.777151, human_acc: 21.208791, object_acc: 20.439560, lr: 0.009025, speed: 4.683 s/iter
+Epoch:48, total loss: 7.777142, human_acc: 21.208791, object_acc: 20.439560, lr: 0.009025, speed: 5.851 s/iter
+Epoch:49, total loss: 7.777133, human_acc: 21.208791, object_acc: 20.439560, lr: 0.009025, speed: 6.409 s/iter
+Epoch:50, total loss: 7.777125, human_acc: 21.208791, object_acc: 20.439560, lr: 0.009025, speed: 6.442 s/iter
+Epoch:51, total loss: 7.777117, human_acc: 21.208791, object_acc: 20.439560, lr: 0.009025, speed: 6.145 s/iter
+Epoch:52, total loss: 7.777109, human_acc: 21.208791, object_acc: 20.439560, lr: 0.009025, speed: 6.236 s/iter
+Epoch:53, total loss: 7.777101, human_acc: 21.208791, object_acc: 20.439560, lr: 0.009025, speed: 5.288 s/iter
+Epoch:54, total loss: 7.777094, human_acc: 21.208791, object_acc: 20.439560, lr: 0.009025, speed: 7.201 s/iter
+Epoch:55, total loss: 7.777087, human_acc: 21.208791, object_acc: 20.439560, lr: 0.009025, speed: 5.825 s/iter
+Epoch:56, total loss: 7.777080, human_acc: 21.208791, object_acc: 20.439560, lr: 0.009025, speed: 6.374 s/iter
+Epoch:57, total loss: 7.777073, human_acc: 21.208791, object_acc: 20.439560, lr: 0.009025, speed: 6.083 s/iter
+Epoch:58, total loss: 7.777067, human_acc: 21.208791, object_acc: 20.439560, lr: 0.009025, speed: 5.900 s/iter
+Epoch:59, total loss: 7.777061, human_acc: 21.208791, object_acc: 20.439560, lr: 0.009025, speed: 5.177 s/iter
+Epoch:60, total loss: 7.777055, human_acc: 21.208791, object_acc: 20.439560, lr: 0.008574, speed: 6.587 s/iter
+Epoch:61, total loss: 7.777049, human_acc: 21.208791, object_acc: 20.439560, lr: 0.008574, speed: 5.874 s/iter
+Epoch:62, total loss: 7.777044, human_acc: 21.208791, object_acc: 20.439560, lr: 0.008574, speed: 5.453 s/iter
+Epoch:63, total loss: 7.777038, human_acc: 21.208791, object_acc: 20.439560, lr: 0.008574, speed: 5.250 s/iter
+Epoch:64, total loss: 7.777033, human_acc: 21.208791, object_acc: 20.439560, lr: 0.008574, speed: 5.839 s/iter
+Epoch:65, total loss: 7.777028, human_acc: 21.208791, object_acc: 20.439560, lr: 0.008574, speed: 6.267 s/iter
+Epoch:66, total loss: 7.777023, human_acc: 21.208791, object_acc: 20.439560, lr: 0.008574, speed: 6.543 s/iter
+Epoch:67, total loss: 7.777019, human_acc: 21.208791, object_acc: 20.439560, lr: 0.008574, speed: 6.275 s/iter
+Epoch:68, total loss: 7.777014, human_acc: 21.208791, object_acc: 20.439560, lr: 0.008574, speed: 6.179 s/iter
+Epoch:69, total loss: 7.777009, human_acc: 21.208791, object_acc: 20.439560, lr: 0.008574, speed: 7.173 s/iter
+Epoch:70, total loss: 7.777005, human_acc: 21.208791, object_acc: 20.439560, lr: 0.008574, speed: 5.732 s/iter
+Epoch:71, total loss: 7.777001, human_acc: 21.208791, object_acc: 20.439560, lr: 0.008574, speed: 4.969 s/iter
+Epoch:72, total loss: 7.776997, human_acc: 21.208791, object_acc: 20.439560, lr: 0.008574, speed: 5.690 s/iter
+Epoch:73, total loss: 7.776993, human_acc: 21.208791, object_acc: 20.439560, lr: 0.008574, speed: 5.436 s/iter
+Epoch:74, total loss: 7.776989, human_acc: 21.208791, object_acc: 20.439560, lr: 0.008574, speed: 6.495 s/iter
+Epoch:75, total loss: 7.776985, human_acc: 21.208791, object_acc: 20.439560, lr: 0.008574, speed: 6.533 s/iter
+Epoch:76, total loss: 7.776981, human_acc: 21.208791, object_acc: 20.439560, lr: 0.008574, speed: 6.103 s/iter
+Epoch:77, total loss: 7.776978, human_acc: 21.208791, object_acc: 20.439560, lr: 0.008574, speed: 5.741 s/iter
+Epoch:78, total loss: 7.776974, human_acc: 21.208791, object_acc: 20.439560, lr: 0.008574, speed: 6.806 s/iter
+Epoch:79, total loss: 7.776971, human_acc: 21.208791, object_acc: 20.439560, lr: 0.008574, speed: 6.212 s/iter
+Epoch:80, total loss: 7.776968, human_acc: 21.208791, object_acc: 20.439560, lr: 0.008145, speed: 5.134 s/iter
+Epoch:81, total loss: 7.776964, human_acc: 21.208791, object_acc: 20.439560, lr: 0.008145, speed: 6.581 s/iter
+Epoch:82, total loss: 7.776961, human_acc: 21.208791, object_acc: 20.439560, lr: 0.008145, speed: 4.442 s/iter
+Epoch:83, total loss: 7.776958, human_acc: 21.208791, object_acc: 20.439560, lr: 0.008145, speed: 4.582 s/iter
+Epoch:00, total loss: 9.444323, human_acc: 20.329670, object_acc: 21.428571, lr: 0.010000, speed: 6.393 s/iter
+Epoch:01, total loss: 9.240961, human_acc: 21.978022, object_acc: 22.197802, lr: 0.010000, speed: 5.054 s/iter
+Epoch:02, total loss: 9.164863, human_acc: 21.098901, object_acc: 22.417582, lr: 0.010000, speed: 6.696 s/iter
+Epoch:03, total loss: 9.141683, human_acc: 20.439560, object_acc: 21.098901, lr: 0.010000, speed: 5.619 s/iter
+Epoch:04, total loss: 9.133719, human_acc: 19.780220, object_acc: 20.879121, lr: 0.010000, speed: 6.342 s/iter
+Epoch:05, total loss: 9.129809, human_acc: 20.109890, object_acc: 20.769231, lr: 0.010000, speed: 7.383 s/iter
+Epoch:06, total loss: 9.127376, human_acc: 20.329670, object_acc: 20.989011, lr: 0.010000, speed: 7.184 s/iter
+Epoch:07, total loss: 9.125545, human_acc: 20.219780, object_acc: 21.098901, lr: 0.010000, speed: 5.093 s/iter
+Epoch:08, total loss: 9.124047, human_acc: 20.329670, object_acc: 21.098901, lr: 0.010000, speed: 6.158 s/iter
+Epoch:09, total loss: 9.122784, human_acc: 20.219780, object_acc: 21.098901, lr: 0.010000, speed: 6.197 s/iter
+Epoch:10, total loss: 9.121704, human_acc: 20.000000, object_acc: 21.098901, lr: 0.010000, speed: 6.230 s/iter
+Epoch:11, total loss: 9.120771, human_acc: 19.670330, object_acc: 20.989011, lr: 0.010000, speed: 6.133 s/iter
+Epoch:12, total loss: 9.119957, human_acc: 19.780220, object_acc: 20.879121, lr: 0.010000, speed: 5.451 s/iter
+Epoch:13, total loss: 9.119241, human_acc: 19.780220, object_acc: 20.879121, lr: 0.010000, speed: 5.452 s/iter
+Epoch:14, total loss: 9.118605, human_acc: 19.780220, object_acc: 20.879121, lr: 0.010000, speed: 5.396 s/iter
+Epoch:00, total loss: 9.562664, human_acc: 20.219780, object_acc: 21.428571, lr: 0.001000, speed: 6.089 s/iter
+Epoch:01, total loss: 9.536213, human_acc: 22.307692, object_acc: 22.857143, lr: 0.001000, speed: 7.141 s/iter
+Epoch:02, total loss: 9.508463, human_acc: 22.637363, object_acc: 22.857143, lr: 0.001000, speed: 6.988 s/iter
+Epoch:03, total loss: 9.479844, human_acc: 22.857143, object_acc: 22.857143, lr: 0.001000, speed: 5.155 s/iter
+Epoch:04, total loss: 9.450867, human_acc: 22.857143, object_acc: 22.857143, lr: 0.001000, speed: 5.633 s/iter
+Epoch:05, total loss: 9.422092, human_acc: 22.857143, object_acc: 22.857143, lr: 0.001000, speed: 6.136 s/iter
+Epoch:06, total loss: 9.394062, human_acc: 22.857143, object_acc: 22.857143, lr: 0.001000, speed: 5.635 s/iter
+Epoch:07, total loss: 9.367255, human_acc: 22.857143, object_acc: 22.857143, lr: 0.001000, speed: 5.706 s/iter
+Epoch:08, total loss: 9.342044, human_acc: 22.857143, object_acc: 22.857143, lr: 0.001000, speed: 5.545 s/iter
+Epoch:09, total loss: 9.318674, human_acc: 22.857143, object_acc: 22.857143, lr: 0.001000, speed: 5.974 s/iter
+Epoch:10, total loss: 9.297261, human_acc: 22.857143, object_acc: 22.857143, lr: 0.001000, speed: 6.114 s/iter
+Epoch:11, total loss: 9.277811, human_acc: 22.857143, object_acc: 22.857143, lr: 0.001000, speed: 5.488 s/iter
+Epoch:12, total loss: 9.260246, human_acc: 22.857143, object_acc: 22.857143, lr: 0.001000, speed: 5.990 s/iter
+Epoch:13, total loss: 9.244431, human_acc: 22.857143, object_acc: 22.857143, lr: 0.001000, speed: 4.167 s/iter
+Epoch:14, total loss: 9.230208, human_acc: 22.857143, object_acc: 22.857143, lr: 0.001000, speed: 4.610 s/iter
+Epoch:15, total loss: 9.217412, human_acc: 22.857143, object_acc: 22.857143, lr: 0.001000, speed: 5.191 s/iter
+Epoch:16, total loss: 9.205889, human_acc: 22.857143, object_acc: 22.857143, lr: 0.001000, speed: 5.545 s/iter
+Epoch:17, total loss: 9.195505, human_acc: 22.857143, object_acc: 22.857143, lr: 0.001000, speed: 4.575 s/iter
+Epoch:18, total loss: 9.186146, human_acc: 22.857143, object_acc: 22.857143, lr: 0.001000, speed: 6.595 s/iter
+Epoch:19, total loss: 9.177717, human_acc: 22.857143, object_acc: 22.857143, lr: 0.001000, speed: 5.417 s/iter
+Epoch:20, total loss: 9.170135, human_acc: 22.857143, object_acc: 22.857143, lr: 0.000950, speed: 5.181 s/iter
+Epoch:21, total loss: 9.163330, human_acc: 22.857143, object_acc: 22.857143, lr: 0.000950, speed: 4.836 s/iter
+Epoch:22, total loss: 9.157236, human_acc: 22.857143, object_acc: 22.857143, lr: 0.000950, speed: 5.551 s/iter
+Epoch:23, total loss: 9.151791, human_acc: 22.857143, object_acc: 22.857143, lr: 0.000950, speed: 5.921 s/iter
+Epoch:24, total loss: 9.146939, human_acc: 22.857143, object_acc: 22.857143, lr: 0.000950, speed: 4.476 s/iter
+Epoch:25, total loss: 9.142624, human_acc: 22.857143, object_acc: 22.857143, lr: 0.000950, speed: 5.545 s/iter
+Epoch:26, total loss: 9.138795, human_acc: 22.857143, object_acc: 22.857143, lr: 0.000950, speed: 4.853 s/iter
+Epoch:27, total loss: 9.135402, human_acc: 22.857143, object_acc: 22.857143, lr: 0.000950, speed: 5.079 s/iter
+Epoch:28, total loss: 9.132397, human_acc: 22.857143, object_acc: 22.857143, lr: 0.000950, speed: 5.410 s/iter
+Epoch:29, total loss: 9.129734, human_acc: 22.857143, object_acc: 22.857143, lr: 0.000950, speed: 5.883 s/iter
+Epoch:30, total loss: 9.127370, human_acc: 22.857143, object_acc: 22.857143, lr: 0.000950, speed: 5.820 s/iter
+Epoch:31, total loss: 9.125267, human_acc: 22.857143, object_acc: 22.857143, lr: 0.000950, speed: 5.475 s/iter
+Epoch:32, total loss: 9.123389, human_acc: 22.417582, object_acc: 22.417582, lr: 0.000950, speed: 5.321 s/iter
+Epoch:33, total loss: 9.121706, human_acc: 22.197802, object_acc: 22.197802, lr: 0.000950, speed: 4.880 s/iter
+Epoch:34, total loss: 9.120192, human_acc: 22.307692, object_acc: 22.307692, lr: 0.000950, speed: 5.448 s/iter
+Epoch:35, total loss: 9.118826, human_acc: 22.417582, object_acc: 22.307692, lr: 0.000950, speed: 4.348 s/iter
+Epoch:36, total loss: 9.117587, human_acc: 22.307692, object_acc: 22.417582, lr: 0.000950, speed: 4.703 s/iter
+Epoch:37, total loss: 9.116460, human_acc: 22.197802, object_acc: 22.307692, lr: 0.000950, speed: 5.429 s/iter
+Epoch:38, total loss: 9.115432, human_acc: 21.758242, object_acc: 22.197802, lr: 0.000950, speed: 5.194 s/iter
+Epoch:39, total loss: 9.114492, human_acc: 21.868132, object_acc: 22.087912, lr: 0.000950, speed: 5.933 s/iter
+Epoch:40, total loss: 9.113631, human_acc: 22.087912, object_acc: 21.758242, lr: 0.000902, speed: 4.698 s/iter
+Epoch:41, total loss: 9.112840, human_acc: 21.978022, object_acc: 21.868132, lr: 0.000902, speed: 5.391 s/iter
+Epoch:42, total loss: 9.112114, human_acc: 21.978022, object_acc: 21.868132, lr: 0.000902, speed: 5.003 s/iter
+Epoch:43, total loss: 9.111447, human_acc: 22.087912, object_acc: 21.868132, lr: 0.000902, speed: 5.804 s/iter
+Epoch:44, total loss: 9.110834, human_acc: 22.087912, object_acc: 21.868132, lr: 0.000902, speed: 5.211 s/iter
+Epoch:45, total loss: 9.110272, human_acc: 22.087912, object_acc: 22.087912, lr: 0.000902, speed: 4.964 s/iter
+Epoch:46, total loss: 9.109757, human_acc: 22.087912, object_acc: 22.087912, lr: 0.000902, speed: 5.101 s/iter
+Epoch:47, total loss: 9.109285, human_acc: 22.307692, object_acc: 22.087912, lr: 0.000902, speed: 5.701 s/iter
+Epoch:48, total loss: 9.108853, human_acc: 22.197802, object_acc: 21.978022, lr: 0.000902, speed: 5.498 s/iter
+Epoch:49, total loss: 9.108459, human_acc: 22.307692, object_acc: 21.978022, lr: 0.000902, speed: 4.908 s/iter
+Epoch:50, total loss: 9.108098, human_acc: 22.307692, object_acc: 21.978022, lr: 0.000902, speed: 4.514 s/iter
+Epoch:51, total loss: 9.107768, human_acc: 22.307692, object_acc: 21.978022, lr: 0.000902, speed: 5.544 s/iter
+Epoch:52, total loss: 9.107465, human_acc: 22.307692, object_acc: 21.868132, lr: 0.000902, speed: 5.388 s/iter
+Epoch:53, total loss: 9.107188, human_acc: 22.197802, object_acc: 21.978022, lr: 0.000902, speed: 5.210 s/iter
+Epoch:54, total loss: 9.106934, human_acc: 22.197802, object_acc: 21.978022, lr: 0.000902, speed: 4.800 s/iter
+Epoch:55, total loss: 9.106700, human_acc: 22.307692, object_acc: 21.868132, lr: 0.000902, speed: 5.834 s/iter
+Epoch:56, total loss: 9.106484, human_acc: 22.307692, object_acc: 21.868132, lr: 0.000902, speed: 5.456 s/iter
+Epoch:57, total loss: 9.106285, human_acc: 22.197802, object_acc: 21.978022, lr: 0.000902, speed: 5.930 s/iter
+Epoch:58, total loss: 9.106100, human_acc: 22.197802, object_acc: 21.868132, lr: 0.000902, speed: 5.638 s/iter
+Epoch:59, total loss: 9.105929, human_acc: 22.197802, object_acc: 21.978022, lr: 0.000902, speed: 5.047 s/iter
+Epoch:60, total loss: 9.105770, human_acc: 22.197802, object_acc: 21.978022, lr: 0.000857, speed: 5.743 s/iter
+Epoch:61, total loss: 9.105622, human_acc: 22.197802, object_acc: 21.978022, lr: 0.000857, speed: 5.245 s/iter
+Epoch:62, total loss: 9.105485, human_acc: 22.307692, object_acc: 22.087912, lr: 0.000857, speed: 5.477 s/iter
+Epoch:63, total loss: 9.105356, human_acc: 22.307692, object_acc: 22.087912, lr: 0.000857, speed: 5.526 s/iter
+Epoch:64, total loss: 9.105235, human_acc: 22.087912, object_acc: 22.087912, lr: 0.000857, speed: 5.172 s/iter
+Epoch:65, total loss: 9.105123, human_acc: 22.087912, object_acc: 22.087912, lr: 0.000857, speed: 5.360 s/iter
+Epoch:66, total loss: 9.105017, human_acc: 21.978022, object_acc: 22.087912, lr: 0.000857, speed: 4.634 s/iter
+Epoch:67, total loss: 9.104918, human_acc: 21.978022, object_acc: 22.087912, lr: 0.000857, speed: 4.901 s/iter
+Epoch:68, total loss: 9.104825, human_acc: 21.978022, object_acc: 22.087912, lr: 0.000857, speed: 4.116 s/iter
+Epoch:69, total loss: 9.104737, human_acc: 21.978022, object_acc: 22.197802, lr: 0.000857, speed: 4.709 s/iter
+Epoch:70, total loss: 9.104654, human_acc: 22.087912, object_acc: 22.197802, lr: 0.000857, speed: 5.356 s/iter
+Epoch:71, total loss: 9.104576, human_acc: 22.087912, object_acc: 22.087912, lr: 0.000857, speed: 5.952 s/iter
+Epoch:72, total loss: 9.104502, human_acc: 22.087912, object_acc: 22.087912, lr: 0.000857, speed: 5.595 s/iter
+Epoch:73, total loss: 9.104433, human_acc: 22.087912, object_acc: 22.087912, lr: 0.000857, speed: 5.519 s/iter
+Epoch:74, total loss: 9.104367, human_acc: 21.868132, object_acc: 22.087912, lr: 0.000857, speed: 5.631 s/iter
+Epoch:00, total loss: 9.260130, human_acc: 21.119843, object_acc: 22.495088, lr: 0.001000, speed: 5.548 s/iter
+Epoch:01, total loss: 9.226152, human_acc: 21.414538, object_acc: 21.709234, lr: 0.001000, speed: 5.816 s/iter
+Epoch:02, total loss: 9.203447, human_acc: 21.905697, object_acc: 21.611002, lr: 0.001000, speed: 5.432 s/iter
+Epoch:03, total loss: 9.195650, human_acc: 22.102161, object_acc: 21.709234, lr: 0.001000, speed: 4.695 s/iter
+Epoch:04, total loss: 9.191086, human_acc: 22.789784, object_acc: 21.611002, lr: 0.001000, speed: 6.033 s/iter
+Epoch:05, total loss: 9.185898, human_acc: 22.593320, object_acc: 21.807466, lr: 0.001000, speed: 6.813 s/iter
+Epoch:06, total loss: 9.181523, human_acc: 22.593320, object_acc: 21.709234, lr: 0.001000, speed: 6.160 s/iter
+Epoch:07, total loss: 9.177988, human_acc: 22.789784, object_acc: 21.905697, lr: 0.001000, speed: 5.343 s/iter
+Epoch:08, total loss: 9.174728, human_acc: 22.789784, object_acc: 21.905697, lr: 0.001000, speed: 5.503 s/iter
+Epoch:09, total loss: 9.171176, human_acc: 23.280943, object_acc: 21.611002, lr: 0.001000, speed: 4.744 s/iter
+Epoch:10, total loss: 9.166388, human_acc: 22.888016, object_acc: 22.003929, lr: 0.001000, speed: 5.154 s/iter
+Epoch:11, total loss: 9.157512, human_acc: 22.298625, object_acc: 22.396857, lr: 0.001000, speed: 4.649 s/iter
+Epoch:12, total loss: 9.132997, human_acc: 21.905697, object_acc: 23.084479, lr: 0.001000, speed: 5.316 s/iter
+Epoch:13, total loss: 9.034972, human_acc: 26.620825, object_acc: 26.129666, lr: 0.001000, speed: 5.336 s/iter
+Epoch:14, total loss: 8.764009, human_acc: 40.176817, object_acc: 38.801572, lr: 0.001000, speed: 4.378 s/iter
+Epoch:15, total loss: 8.570406, human_acc: 42.927308, object_acc: 42.632613, lr: 0.001000, speed: 4.518 s/iter
+Epoch:16, total loss: 8.510453, human_acc: 43.123772, object_acc: 42.829077, lr: 0.001000, speed: 4.534 s/iter
+Epoch:17, total loss: 8.486477, human_acc: 43.123772, object_acc: 42.829077, lr: 0.001000, speed: 5.671 s/iter
+Epoch:18, total loss: 8.473975, human_acc: 43.123772, object_acc: 42.829077, lr: 0.001000, speed: 4.490 s/iter
+Epoch:19, total loss: 8.466267, human_acc: 43.123772, object_acc: 42.829077, lr: 0.001000, speed: 5.651 s/iter
+Epoch:20, total loss: 8.460998, human_acc: 43.123772, object_acc: 42.829077, lr: 0.000950, speed: 4.276 s/iter
+Epoch:21, total loss: 8.457176, human_acc: 43.222004, object_acc: 42.927308, lr: 0.000950, speed: 4.538 s/iter
+Epoch:22, total loss: 8.454281, human_acc: 43.222004, object_acc: 42.927308, lr: 0.000950, speed: 4.164 s/iter
+Epoch:23, total loss: 8.452014, human_acc: 43.222004, object_acc: 42.927308, lr: 0.000950, speed: 5.761 s/iter
+Epoch:24, total loss: 8.450198, human_acc: 43.222004, object_acc: 42.927308, lr: 0.000950, speed: 5.403 s/iter
+Epoch:25, total loss: 8.448714, human_acc: 43.222004, object_acc: 42.927308, lr: 0.000950, speed: 5.800 s/iter
+Epoch:26, total loss: 8.447472, human_acc: 43.222004, object_acc: 42.927308, lr: 0.000950, speed: 5.307 s/iter
+Epoch:27, total loss: 8.446415, human_acc: 43.222004, object_acc: 42.927308, lr: 0.000950, speed: 5.393 s/iter
+Epoch:28, total loss: 8.445496, human_acc: 43.222004, object_acc: 42.927308, lr: 0.000950, speed: 5.711 s/iter
+Epoch:29, total loss: 8.444687, human_acc: 43.222004, object_acc: 42.927308, lr: 0.000950, speed: 5.156 s/iter
+Epoch:30, total loss: 8.443962, human_acc: 43.222004, object_acc: 42.927308, lr: 0.000950, speed: 4.996 s/iter
+Epoch:31, total loss: 8.443309, human_acc: 43.222004, object_acc: 42.927308, lr: 0.000950, speed: 5.468 s/iter
+Epoch:32, total loss: 8.442707, human_acc: 43.222004, object_acc: 42.927308, lr: 0.000950, speed: 4.960 s/iter
+Epoch:33, total loss: 8.442155, human_acc: 43.222004, object_acc: 42.927308, lr: 0.000950, speed: 4.901 s/iter
+Epoch:34, total loss: 8.441631, human_acc: 43.222004, object_acc: 42.927308, lr: 0.000950, speed: 5.690 s/iter
+Epoch:35, total loss: 8.441149, human_acc: 43.222004, object_acc: 42.927308, lr: 0.000950, speed: 5.329 s/iter
+Epoch:36, total loss: 8.440671, human_acc: 43.222004, object_acc: 42.927308, lr: 0.000950, speed: 5.167 s/iter
+Epoch:37, total loss: 8.440242, human_acc: 43.222004, object_acc: 42.927308, lr: 0.000950, speed: 4.601 s/iter
+Epoch:38, total loss: 8.439770, human_acc: 43.222004, object_acc: 42.927308, lr: 0.000950, speed: 6.146 s/iter
+Epoch:39, total loss: 8.439393, human_acc: 43.222004, object_acc: 42.927308, lr: 0.000950, speed: 5.405 s/iter
+Epoch:40, total loss: 8.438852, human_acc: 43.222004, object_acc: 42.927308, lr: 0.000902, speed: 5.500 s/iter
+Epoch:41, total loss: 8.438468, human_acc: 43.222004, object_acc: 42.927308, lr: 0.000902, speed: 6.453 s/iter
+Epoch:42, total loss: 8.437437, human_acc: 43.222004, object_acc: 42.927308, lr: 0.000902, speed: 4.811 s/iter
+Epoch:43, total loss: 8.436576, human_acc: 43.222004, object_acc: 42.927308, lr: 0.000902, speed: 6.264 s/iter
+Epoch:44, total loss: 8.435365, human_acc: 43.222004, object_acc: 42.927308, lr: 0.000902, speed: 4.888 s/iter
+Epoch:45, total loss: 8.434590, human_acc: 43.222004, object_acc: 42.927308, lr: 0.000902, speed: 5.818 s/iter
+Epoch:46, total loss: 8.433639, human_acc: 43.320236, object_acc: 43.025540, lr: 0.000902, speed: 4.269 s/iter
+Epoch:47, total loss: 8.433106, human_acc: 43.418468, object_acc: 43.123772, lr: 0.000902, speed: 5.684 s/iter
+Epoch:48, total loss: 8.432295, human_acc: 43.418468, object_acc: 43.123772, lr: 0.000902, speed: 4.779 s/iter
+Epoch:49, total loss: 8.431838, human_acc: 43.418468, object_acc: 43.123772, lr: 0.000902, speed: 4.907 s/iter
+Epoch:50, total loss: 8.431127, human_acc: 43.516699, object_acc: 43.222004, lr: 0.000902, speed: 5.795 s/iter
+Epoch:51, total loss: 8.430722, human_acc: 43.516699, object_acc: 43.222004, lr: 0.000902, speed: 5.872 s/iter
+Epoch:52, total loss: 8.430089, human_acc: 43.516699, object_acc: 43.222004, lr: 0.000902, speed: 5.300 s/iter
+Epoch:53, total loss: 8.429735, human_acc: 43.516699, object_acc: 43.222004, lr: 0.000902, speed: 5.080 s/iter
+Epoch:54, total loss: 8.429181, human_acc: 43.516699, object_acc: 43.222004, lr: 0.000902, speed: 3.941 s/iter
+Epoch:55, total loss: 8.428881, human_acc: 43.516699, object_acc: 43.222004, lr: 0.000902, speed: 5.716 s/iter
+Epoch:56, total loss: 8.428382, human_acc: 43.516699, object_acc: 43.222004, lr: 0.000902, speed: 4.043 s/iter
+Epoch:57, total loss: 8.428125, human_acc: 43.614931, object_acc: 43.320236, lr: 0.000902, speed: 6.018 s/iter
+Epoch:58, total loss: 8.427684, human_acc: 43.614931, object_acc: 43.320236, lr: 0.000902, speed: 5.935 s/iter
+Epoch:59, total loss: 8.427463, human_acc: 43.614931, object_acc: 43.320236, lr: 0.000902, speed: 5.614 s/iter
+Epoch:60, total loss: 8.427057, human_acc: 43.614931, object_acc: 43.320236, lr: 0.000857, speed: 6.156 s/iter
+Epoch:61, total loss: 8.426864, human_acc: 43.614931, object_acc: 43.320236, lr: 0.000857, speed: 5.470 s/iter
+Epoch:62, total loss: 8.426504, human_acc: 43.614931, object_acc: 43.320236, lr: 0.000857, speed: 4.750 s/iter
+Epoch:63, total loss: 8.426336, human_acc: 43.614931, object_acc: 43.320236, lr: 0.000857, speed: 5.974 s/iter
+Epoch:64, total loss: 8.425997, human_acc: 43.614931, object_acc: 43.320236, lr: 0.000857, speed: 5.594 s/iter
+Epoch:65, total loss: 8.425848, human_acc: 43.614931, object_acc: 43.320236, lr: 0.000857, speed: 5.205 s/iter
+Epoch:66, total loss: 8.425553, human_acc: 43.614931, object_acc: 43.320236, lr: 0.000857, speed: 4.453 s/iter
+Epoch:67, total loss: 8.425420, human_acc: 43.614931, object_acc: 43.320236, lr: 0.000857, speed: 5.774 s/iter
+Epoch:00, total loss: 9.560031, human_acc: 21.414538, object_acc: 22.593320, lr: 0.001000, speed: 8.247 s/iter
+Epoch:01, total loss: 9.527089, human_acc: 23.575639, object_acc: 23.575639, lr: 0.001000, speed: 8.328 s/iter
+Epoch:02, total loss: 9.489299, human_acc: 23.575639, object_acc: 23.575639, lr: 0.001000, speed: 6.843 s/iter
+Epoch:03, total loss: 9.427905, human_acc: 26.522593, object_acc: 24.066798, lr: 0.001000, speed: 7.762 s/iter
+Epoch:04, total loss: 8.843339, human_acc: 34.086444, object_acc: 33.300589, lr: 0.001000, speed: 8.167 s/iter
+Epoch:05, total loss: 8.439679, human_acc: 43.222004, object_acc: 42.730845, lr: 0.001000, speed: 7.970 s/iter
+Epoch:06, total loss: 8.421253, human_acc: 43.909627, object_acc: 43.025540, lr: 0.001000, speed: 7.982 s/iter
+Epoch:07, total loss: 8.404487, human_acc: 44.204322, object_acc: 43.909627, lr: 0.001000, speed: 6.823 s/iter
+Epoch:08, total loss: 8.390442, human_acc: 44.400786, object_acc: 44.007859, lr: 0.001000, speed: 6.649 s/iter
+Epoch:09, total loss: 8.664767, human_acc: 44.793713, object_acc: 29.862475, lr: 0.001000, speed: 6.038 s/iter
+Epoch:10, total loss: 8.962540, human_acc: 30.058939, object_acc: 29.960707, lr: 0.001000, speed: 6.502 s/iter
+Epoch:11, total loss: 8.962112, human_acc: 29.960707, object_acc: 29.960707, lr: 0.001000, speed: 6.043 s/iter
+Epoch:12, total loss: 8.961666, human_acc: 29.960707, object_acc: 29.960707, lr: 0.001000, speed: 5.949 s/iter
+Epoch:13, total loss: 8.961318, human_acc: 29.960707, object_acc: 29.960707, lr: 0.001000, speed: 5.243 s/iter
+Epoch:00, total loss: 9.573549, human_acc: 24.557957, object_acc: 19.941061, lr: 0.000100, speed: 9.077 s/iter
+Epoch:01, total loss: 9.570530, human_acc: 24.165029, object_acc: 23.575639, lr: 0.000100, speed: 8.744 s/iter
+Epoch:02, total loss: 9.567481, human_acc: 23.772102, object_acc: 23.575639, lr: 0.000100, speed: 9.114 s/iter
+Epoch:03, total loss: 9.564416, human_acc: 23.575639, object_acc: 23.575639, lr: 0.000100, speed: 9.021 s/iter
+Epoch:04, total loss: 9.561296, human_acc: 23.673870, object_acc: 23.575639, lr: 0.000100, speed: 9.308 s/iter
+Epoch:05, total loss: 9.558180, human_acc: 23.575639, object_acc: 23.575639, lr: 0.000100, speed: 9.145 s/iter
+Epoch:06, total loss: 9.555006, human_acc: 23.575639, object_acc: 23.575639, lr: 0.000100, speed: 9.576 s/iter
+Epoch:07, total loss: 9.551820, human_acc: 23.575639, object_acc: 23.575639, lr: 0.000100, speed: 9.963 s/iter
+Epoch:08, total loss: 9.548585, human_acc: 23.575639, object_acc: 23.575639, lr: 0.000100, speed: 7.592 s/iter
+Epoch:09, total loss: 9.545337, human_acc: 23.575639, object_acc: 23.575639, lr: 0.000100, speed: 7.878 s/iter
+Epoch:10, total loss: 9.542042, human_acc: 23.575639, object_acc: 23.575639, lr: 0.000100, speed: 8.099 s/iter
+Epoch:11, total loss: 9.538724, human_acc: 23.575639, object_acc: 23.575639, lr: 0.000100, speed: 6.610 s/iter
+Epoch:12, total loss: 9.535355, human_acc: 23.575639, object_acc: 23.575639, lr: 0.000100, speed: 6.314 s/iter
+Epoch:13, total loss: 9.531949, human_acc: 23.575639, object_acc: 23.575639, lr: 0.000100, speed: 7.357 s/iter
+Epoch:14, total loss: 9.528511, human_acc: 23.575639, object_acc: 23.575639, lr: 0.000100, speed: 7.527 s/iter
+Epoch:15, total loss: 9.525049, human_acc: 23.575639, object_acc: 23.575639, lr: 0.000100, speed: 6.376 s/iter
+Epoch:16, total loss: 9.521509, human_acc: 23.575639, object_acc: 23.575639, lr: 0.000100, speed: 7.011 s/iter
+Epoch:17, total loss: 9.517924, human_acc: 23.575639, object_acc: 23.575639, lr: 0.000100, speed: 6.625 s/iter
+Epoch:18, total loss: 9.514308, human_acc: 23.575639, object_acc: 23.575639, lr: 0.000100, speed: 6.964 s/iter
+Epoch:19, total loss: 9.510643, human_acc: 23.575639, object_acc: 23.575639, lr: 0.000100, speed: 8.240 s/iter
+Epoch:20, total loss: 9.506906, human_acc: 23.575639, object_acc: 23.575639, lr: 0.000095, speed: 7.196 s/iter
+Epoch:21, total loss: 9.503121, human_acc: 23.575639, object_acc: 23.575639, lr: 0.000095, speed: 6.269 s/iter
+Epoch:22, total loss: 9.499293, human_acc: 23.575639, object_acc: 23.575639, lr: 0.000095, speed: 6.394 s/iter
+Epoch:23, total loss: 9.495347, human_acc: 23.575639, object_acc: 23.575639, lr: 0.000095, speed: 8.246 s/iter
+Epoch:24, total loss: 9.491323, human_acc: 23.575639, object_acc: 23.575639, lr: 0.000095, speed: 6.961 s/iter
+Epoch:25, total loss: 9.487231, human_acc: 23.575639, object_acc: 23.575639, lr: 0.000095, speed: 8.021 s/iter
+Epoch:26, total loss: 9.482989, human_acc: 23.575639, object_acc: 23.575639, lr: 0.000095, speed: 8.261 s/iter
+Epoch:27, total loss: 9.478642, human_acc: 23.575639, object_acc: 23.575639, lr: 0.000095, speed: 6.111 s/iter
+Epoch:28, total loss: 9.474120, human_acc: 23.575639, object_acc: 23.575639, lr: 0.000095, speed: 5.778 s/iter
+Epoch:29, total loss: 9.469448, human_acc: 23.575639, object_acc: 23.575639, lr: 0.000095, speed: 7.142 s/iter
+Epoch:30, total loss: 9.464562, human_acc: 23.575639, object_acc: 23.575639, lr: 0.000095, speed: 8.546 s/iter
+Epoch:31, total loss: 9.459336, human_acc: 23.575639, object_acc: 23.575639, lr: 0.000095, speed: 6.264 s/iter
+Epoch:32, total loss: 9.453768, human_acc: 23.575639, object_acc: 23.575639, lr: 0.000095, speed: 7.094 s/iter
+Epoch:33, total loss: 9.447626, human_acc: 23.575639, object_acc: 23.575639, lr: 0.000095, speed: 7.980 s/iter
+Epoch:34, total loss: 9.440852, human_acc: 23.575639, object_acc: 23.575639, lr: 0.000095, speed: 7.778 s/iter
+Epoch:35, total loss: 9.432914, human_acc: 23.575639, object_acc: 23.575639, lr: 0.000095, speed: 7.565 s/iter
+Epoch:36, total loss: 9.423548, human_acc: 23.575639, object_acc: 23.575639, lr: 0.000095, speed: 7.516 s/iter
+Epoch:37, total loss: 9.411493, human_acc: 23.575639, object_acc: 23.575639, lr: 0.000095, speed: 7.567 s/iter
+Epoch:38, total loss: 9.394601, human_acc: 23.575639, object_acc: 23.575639, lr: 0.000095, speed: 6.252 s/iter
+Epoch:39, total loss: 9.368508, human_acc: 23.575639, object_acc: 23.575639, lr: 0.000095, speed: 5.649 s/iter
+Epoch:40, total loss: 9.322604, human_acc: 23.575639, object_acc: 23.575639, lr: 0.000090, speed: 6.571 s/iter
+Epoch:41, total loss: 9.241495, human_acc: 23.575639, object_acc: 23.575639, lr: 0.000090, speed: 6.796 s/iter
+Epoch:42, total loss: 9.151411, human_acc: 23.575639, object_acc: 23.575639, lr: 0.000090, speed: 7.680 s/iter
+Epoch:43, total loss: 9.106581, human_acc: 23.870334, object_acc: 23.575639, lr: 0.000090, speed: 7.706 s/iter
+Epoch:44, total loss: 9.071541, human_acc: 30.451866, object_acc: 27.308448, lr: 0.000090, speed: 8.298 s/iter
+Epoch:45, total loss: 8.963842, human_acc: 39.587426, object_acc: 35.854617, lr: 0.000090, speed: 8.035 s/iter
+Epoch:46, total loss: 8.633601, human_acc: 42.632613, object_acc: 42.337917, lr: 0.000090, speed: 7.859 s/iter
+Epoch:47, total loss: 8.488781, human_acc: 42.927308, object_acc: 42.534381, lr: 0.000090, speed: 7.321 s/iter
+Epoch:48, total loss: 8.465294, human_acc: 42.632613, object_acc: 42.337917, lr: 0.000090, speed: 6.287 s/iter
+Epoch:49, total loss: 8.455087, human_acc: 42.829077, object_acc: 42.534381, lr: 0.000090, speed: 7.846 s/iter
+Epoch:50, total loss: 8.448658, human_acc: 42.927308, object_acc: 42.534381, lr: 0.000090, speed: 7.139 s/iter
+Epoch:51, total loss: 8.444585, human_acc: 42.829077, object_acc: 42.534381, lr: 0.000090, speed: 7.083 s/iter
+Epoch:52, total loss: 8.444875, human_acc: 42.829077, object_acc: 42.534381, lr: 0.000090, speed: 6.988 s/iter
+Epoch:53, total loss: 8.440928, human_acc: 43.025540, object_acc: 42.730845, lr: 0.000090, speed: 6.674 s/iter
+Epoch:54, total loss: 8.435827, human_acc: 42.927308, object_acc: 42.632613, lr: 0.000090, speed: 6.612 s/iter
+Epoch:55, total loss: 8.436808, human_acc: 43.222004, object_acc: 42.730845, lr: 0.000090, speed: 6.355 s/iter
+Epoch:56, total loss: 8.432518, human_acc: 43.614931, object_acc: 42.829077, lr: 0.000090, speed: 9.114 s/iter
+Epoch:57, total loss: 8.428371, human_acc: 44.106090, object_acc: 42.829077, lr: 0.000090, speed: 7.614 s/iter
+Epoch:58, total loss: 8.425713, human_acc: 44.106090, object_acc: 42.829077, lr: 0.000090, speed: 7.085 s/iter
+Epoch:59, total loss: 8.426185, human_acc: 44.106090, object_acc: 42.730845, lr: 0.000090, speed: 7.488 s/iter
+Epoch:60, total loss: 8.418829, human_acc: 44.302554, object_acc: 42.829077, lr: 0.000086, speed: 8.201 s/iter
+Epoch:00, total loss: 1.463131512, total cross-entropy loss: 4.787465106, human_acc: 16.404715, object_acc: 20.628684, lr: 0.000100, speed: 7.541 s/iter
+Epoch:01, total loss: 1.463118177, total cross-entropy loss: 4.787322598, human_acc: 22.691552, object_acc: 21.905697, lr: 0.000100, speed: 6.754 s/iter
+Epoch:02, total loss: 1.463105413, total cross-entropy loss: 4.787186236, human_acc: 23.084479, object_acc: 22.102161, lr: 0.000100, speed: 7.090 s/iter
+Epoch:03, total loss: 1.463092349, total cross-entropy loss: 4.787046344, human_acc: 21.709234, object_acc: 21.512770, lr: 0.000100, speed: 7.203 s/iter
+Epoch:04, total loss: 1.463079922, total cross-entropy loss: 4.786913272, human_acc: 21.316306, object_acc: 19.744597, lr: 0.000100, speed: 7.327 s/iter
+Epoch:05, total loss: 1.463066783, total cross-entropy loss: 4.786773062, human_acc: 19.941061, object_acc: 20.923379, lr: 0.000100, speed: 6.994 s/iter
+Epoch:06, total loss: 1.463053409, total cross-entropy loss: 4.786629747, human_acc: 20.726916, object_acc: 22.102161, lr: 0.000100, speed: 7.046 s/iter
+Epoch:07, total loss: 1.463040624, total cross-entropy loss: 4.786492764, human_acc: 20.530452, object_acc: 23.379175, lr: 0.000100, speed: 7.055 s/iter
+Epoch:08, total loss: 1.463028123, total cross-entropy loss: 4.786359223, human_acc: 20.825147, object_acc: 22.396857, lr: 0.000100, speed: 7.696 s/iter
+Epoch:09, total loss: 1.463014584, total cross-entropy loss: 4.786214017, human_acc: 19.744597, object_acc: 23.280943, lr: 0.000100, speed: 7.099 s/iter
+Epoch:10, total loss: 1.463001533, total cross-entropy loss: 4.786074369, human_acc: 20.432220, object_acc: 23.379175, lr: 0.000100, speed: 6.550 s/iter
+Epoch:11, total loss: 1.462988916, total cross-entropy loss: 4.785939300, human_acc: 20.432220, object_acc: 22.200393, lr: 0.000100, speed: 6.249 s/iter
+Epoch:00, total loss: 1.463073878, total cross-entropy loss: 4.786847688, human_acc: 16.011788, object_acc: 18.664047, lr: 0.001000, speed: 7.102 s/iter
+Epoch:01, total loss: 1.462943305, total cross-entropy loss: 4.785449396, human_acc: 22.789784, object_acc: 23.477407, lr: 0.001000, speed: 6.988 s/iter
+Epoch:02, total loss: 1.462812208, total cross-entropy loss: 4.784043025, human_acc: 23.575639, object_acc: 23.673870, lr: 0.001000, speed: 6.916 s/iter
+Epoch:03, total loss: 1.462680471, total cross-entropy loss: 4.782628199, human_acc: 23.575639, object_acc: 23.575639, lr: 0.001000, speed: 6.825 s/iter
+Epoch:04, total loss: 1.462547627, total cross-entropy loss: 4.781199283, human_acc: 23.575639, object_acc: 23.575639, lr: 0.001000, speed: 6.942 s/iter
+Epoch:05, total loss: 1.462414942, total cross-entropy loss: 4.779769499, human_acc: 23.575639, object_acc: 23.575639, lr: 0.001000, speed: 7.502 s/iter
+Epoch:06, total loss: 1.462280539, total cross-entropy loss: 4.778318896, human_acc: 23.575639, object_acc: 23.575639, lr: 0.001000, speed: 7.159 s/iter
+Epoch:07, total loss: 1.462145549, total cross-entropy loss: 4.776860040, human_acc: 23.575639, object_acc: 23.575639, lr: 0.001000, speed: 7.056 s/iter
+Epoch:08, total loss: 1.462010433, total cross-entropy loss: 4.775397160, human_acc: 23.575639, object_acc: 23.575639, lr: 0.001000, speed: 7.035 s/iter
+Epoch:09, total loss: 1.461874299, total cross-entropy loss: 4.773921192, human_acc: 23.575639, object_acc: 23.575639, lr: 0.001000, speed: 6.785 s/iter
+Epoch:10, total loss: 1.461737772, total cross-entropy loss: 4.772438410, human_acc: 23.575639, object_acc: 23.575639, lr: 0.001000, speed: 6.676 s/iter
+Epoch:11, total loss: 1.461600062, total cross-entropy loss: 4.770940384, human_acc: 23.575639, object_acc: 23.575639, lr: 0.001000, speed: 6.925 s/iter
+Epoch:12, total loss: 1.461461202, total cross-entropy loss: 4.769426714, human_acc: 23.575639, object_acc: 23.575639, lr: 0.001000, speed: 7.192 s/iter
+Epoch:13, total loss: 1.461322049, total cross-entropy loss: 4.767907923, human_acc: 23.575639, object_acc: 23.575639, lr: 0.001000, speed: 6.470 s/iter
+Epoch:14, total loss: 1.461181864, total cross-entropy loss: 4.766374874, human_acc: 23.575639, object_acc: 23.575639, lr: 0.001000, speed: 7.481 s/iter
+Epoch:15, total loss: 1.461040652, total cross-entropy loss: 4.764828566, human_acc: 23.575639, object_acc: 23.575639, lr: 0.001000, speed: 7.293 s/iter
+Epoch:16, total loss: 1.460899134, total cross-entropy loss: 4.763275280, human_acc: 23.575639, object_acc: 23.575639, lr: 0.001000, speed: 7.208 s/iter
+Epoch:17, total loss: 1.460756771, total cross-entropy loss: 4.761710675, human_acc: 23.575639, object_acc: 23.575639, lr: 0.001000, speed: 6.783 s/iter
+Epoch:18, total loss: 1.460612083, total cross-entropy loss: 4.760117234, human_acc: 23.575639, object_acc: 23.575639, lr: 0.001000, speed: 7.036 s/iter
+Epoch:19, total loss: 1.460467695, total cross-entropy loss: 4.758523841, human_acc: 23.575639, object_acc: 23.575639, lr: 0.001000, speed: 7.235 s/iter
+Epoch:20, total loss: 1.460321184, total cross-entropy loss: 4.756904687, human_acc: 23.575639, object_acc: 23.575639, lr: 0.000950, speed: 7.098 s/iter
+Epoch:21, total loss: 1.460174427, total cross-entropy loss: 4.755279481, human_acc: 23.575639, object_acc: 23.575639, lr: 0.000950, speed: 6.927 s/iter
+Epoch:22, total loss: 1.460025826, total cross-entropy loss: 4.753630511, human_acc: 23.575639, object_acc: 23.575639, lr: 0.000950, speed: 7.280 s/iter
+Epoch:23, total loss: 1.459874964, total cross-entropy loss: 4.751953245, human_acc: 23.575639, object_acc: 23.575639, lr: 0.000950, speed: 7.409 s/iter
+Epoch:24, total loss: 1.459724299, total cross-entropy loss: 4.750274770, human_acc: 23.575639, object_acc: 23.575639, lr: 0.000950, speed: 6.828 s/iter
+Epoch:25, total loss: 1.459570551, total cross-entropy loss: 4.748559472, human_acc: 23.575639, object_acc: 23.575639, lr: 0.000950, speed: 6.800 s/iter
+Epoch:26, total loss: 1.459414850, total cross-entropy loss: 4.746817953, human_acc: 23.575639, object_acc: 23.575639, lr: 0.000950, speed: 7.148 s/iter
+Epoch:27, total loss: 1.459258182, total cross-entropy loss: 4.745062006, human_acc: 23.575639, object_acc: 23.575639, lr: 0.000950, speed: 7.100 s/iter
+Epoch:00, total loss: 1.462488887, total cross-entropy loss: 4.780555405, human_acc: 20.530452, object_acc: 23.182711, lr: 0.010000, speed: 7.390 s/iter
+Epoch:01, total loss: 1.461112380, total cross-entropy loss: 4.765606037, human_acc: 23.575639, object_acc: 23.575639, lr: 0.010000, speed: 6.743 s/iter
+Epoch:02, total loss: 1.459620077, total cross-entropy loss: 4.749109710, human_acc: 23.575639, object_acc: 23.575639, lr: 0.010000, speed: 6.791 s/iter
+Epoch:03, total loss: 1.457758225, total cross-entropy loss: 4.728078534, human_acc: 23.575639, object_acc: 23.575639, lr: 0.010000, speed: 7.096 s/iter
+Epoch:04, total loss: 1.449924545, total cross-entropy loss: 4.628256216, human_acc: 28.290766, object_acc: 27.111984, lr: 0.010000, speed: 7.251 s/iter
+Epoch:05, total loss: 1.422182771, total cross-entropy loss: 4.247131368, human_acc: 42.927308, object_acc: 42.534381, lr: 0.010000, speed: 7.498 s/iter
+Epoch:06, total loss: 1.420038790, total cross-entropy loss: 4.219598902, human_acc: 43.614931, object_acc: 43.418468, lr: 0.010000, speed: 8.228 s/iter
+Epoch:07, total loss: 1.419154367, total cross-entropy loss: 4.207205615, human_acc: 44.302554, object_acc: 44.007859, lr: 0.010000, speed: 7.770 s/iter
+Epoch:08, total loss: 1.418556403, total cross-entropy loss: 4.201300864, human_acc: 44.106090, object_acc: 44.106090, lr: 0.010000, speed: 8.097 s/iter
+Epoch:09, total loss: 1.418215280, total cross-entropy loss: 4.195825288, human_acc: 44.793713, object_acc: 44.793713, lr: 0.010000, speed: 7.949 s/iter
+Epoch:10, total loss: 1.418092627, total cross-entropy loss: 4.193221012, human_acc: 44.499018, object_acc: 44.597250, lr: 0.010000, speed: 8.322 s/iter
+Epoch:11, total loss: 1.417478567, total cross-entropy loss: 4.184616602, human_acc: 45.383104, object_acc: 44.990177, lr: 0.010000, speed: 8.192 s/iter
+Epoch:12, total loss: 1.417449995, total cross-entropy loss: 4.183197146, human_acc: 45.088409, object_acc: 44.891945, lr: 0.010000, speed: 8.688 s/iter
+Epoch:00, loss: 1.46249, loss_1: 4.78061, human_acc: 22.0039, object_acc: 22.5933, lr: 0.010000, time: 9.619 s/iter
+Epoch:01, loss: 1.46112, loss_1: 4.76569, human_acc: 23.5756, object_acc: 23.5756, lr: 0.010000, time: 8.489 s/iter
+Epoch:02, loss: 1.45963, loss_1: 4.74928, human_acc: 23.5756, object_acc: 23.5756, lr: 0.010000, time: 8.716 s/iter
+Epoch:03, loss: 1.45780, loss_1: 4.72853, human_acc: 23.5756, object_acc: 23.5756, lr: 0.010000, time: 7.830 s/iter
+Epoch:04, loss: 1.45150, loss_1: 4.64758, human_acc: 23.1827, object_acc: 22.8880, lr: 0.010000, time: 7.369 s/iter
+Epoch:05, loss: 1.43425, loss_1: 4.40969, human_acc: 35.5599, object_acc: 33.6935, lr: 0.010000, time: 7.944 s/iter
+Epoch:06, loss: 1.42004, loss_1: 4.22108, human_acc: 43.9096, object_acc: 43.2220, lr: 0.010000, time: 7.963 s/iter
+Epoch:07, loss: 1.41914, loss_1: 4.20845, human_acc: 44.3026, object_acc: 44.0079, lr: 0.010000, time: 8.555 s/iter
+Epoch:08, loss: 1.42293, loss_1: 4.24587, human_acc: 40.0786, object_acc: 43.5167, lr: 0.010000, time: 8.792 s/iter
+Epoch:09, loss: 1.41847, loss_1: 4.20061, human_acc: 44.3026, object_acc: 43.8114, lr: 0.010000, time: 9.117 s/iter
+Epoch:10, loss: 1.43020, loss_1: 4.33799, human_acc: 44.6955, object_acc: 29.8625, lr: 0.010000, time: 9.355 s/iter
+Epoch:11, loss: 1.43013, loss_1: 4.33658, human_acc: 44.7937, object_acc: 29.8625, lr: 0.010000, time: 8.784 s/iter
+Epoch:12, loss: 1.42977, loss_1: 4.33223, human_acc: 45.1866, object_acc: 29.8625, lr: 0.010000, time: 8.297 s/iter
+Epoch:13, loss: 1.42981, loss_1: 4.33190, human_acc: 45.2849, object_acc: 29.8625, lr: 0.010000, time: 8.139 s/iter
+Epoch:14, loss: 1.42955, loss_1: 4.32996, human_acc: 45.3831, object_acc: 29.8625, lr: 0.010000, time: 7.602 s/iter
+Epoch:15, loss: 1.42953, loss_1: 4.32973, human_acc: 45.3831, object_acc: 29.7642, lr: 0.010000, time: 8.836 s/iter
+Epoch:16, loss: 1.42955, loss_1: 4.33149, human_acc: 44.8919, object_acc: 29.6660, lr: 0.010000, time: 8.567 s/iter
+Epoch:17, loss: 1.42960, loss_1: 4.33217, human_acc: 45.1866, object_acc: 29.2731, lr: 0.010000, time: 8.197 s/iter
+Epoch:18, loss: 1.42967, loss_1: 4.33323, human_acc: 45.0884, object_acc: 29.8625, lr: 0.010000, time: 9.097 s/iter
+Epoch:19, loss: 1.42874, loss_1: 4.32405, human_acc: 45.4813, object_acc: 29.7642, lr: 0.010000, time: 7.456 s/iter
+Epoch:20, loss: 1.42900, loss_1: 4.32714, human_acc: 45.8743, object_acc: 29.5678, lr: 0.009500, time: 8.036 s/iter
+Epoch:21, loss: 1.42898, loss_1: 4.32620, human_acc: 45.2849, object_acc: 29.5678, lr: 0.009500, time: 8.032 s/iter
+Epoch:22, loss: 1.42889, loss_1: 4.32470, human_acc: 45.2849, object_acc: 29.6660, lr: 0.009500, time: 8.306 s/iter
+Epoch:23, loss: 1.42883, loss_1: 4.32497, human_acc: 45.4813, object_acc: 29.6660, lr: 0.009500, time: 8.239 s/iter
+Epoch:24, loss: 1.42821, loss_1: 4.31948, human_acc: 46.0707, object_acc: 29.9607, lr: 0.009500, time: 7.159 s/iter
+Epoch:25, loss: 1.42829, loss_1: 4.31948, human_acc: 45.7760, object_acc: 29.7642, lr: 0.009500, time: 8.311 s/iter
+Epoch:26, loss: 1.42901, loss_1: 4.32713, human_acc: 45.7760, object_acc: 29.9607, lr: 0.009500, time: 8.059 s/iter
+Epoch:27, loss: 1.42823, loss_1: 4.31853, human_acc: 46.1690, object_acc: 29.8625, lr: 0.009500, time: 7.956 s/iter
+Epoch:28, loss: 1.42870, loss_1: 4.32421, human_acc: 45.2849, object_acc: 29.4695, lr: 0.009500, time: 7.903 s/iter
+Epoch:29, loss: 1.42927, loss_1: 4.33015, human_acc: 44.6955, object_acc: 30.1572, lr: 0.009500, time: 8.700 s/iter
+Epoch:30, loss: 1.42813, loss_1: 4.31657, human_acc: 45.8743, object_acc: 30.0589, lr: 0.009500, time: 7.643 s/iter
+Epoch:31, loss: 1.42793, loss_1: 4.31553, human_acc: 46.5619, object_acc: 29.9607, lr: 0.009500, time: 8.363 s/iter
+Epoch:32, loss: 1.43023, loss_1: 4.33827, human_acc: 43.9096, object_acc: 30.0589, lr: 0.009500, time: 8.182 s/iter
+Epoch:33, loss: 1.44407, loss_1: 4.47569, human_acc: 30.1572, object_acc: 30.0589, lr: 0.009500, time: 8.774 s/iter
+Epoch:34, loss: 1.44336, loss_1: 4.46852, human_acc: 30.6483, object_acc: 30.5501, lr: 0.009500, time: 8.766 s/iter
+Epoch:35, loss: 1.44398, loss_1: 4.47538, human_acc: 30.3536, object_acc: 30.3536, lr: 0.009500, time: 8.650 s/iter
+Epoch:36, loss: 1.44284, loss_1: 4.46399, human_acc: 31.2377, object_acc: 30.4519, lr: 0.009500, time: 7.748 s/iter
+Epoch:37, loss: 1.44224, loss_1: 4.45676, human_acc: 31.2377, object_acc: 30.4519, lr: 0.009500, time: 8.613 s/iter
+Epoch:38, loss: 1.44335, loss_1: 4.46771, human_acc: 30.2554, object_acc: 30.1572, lr: 0.009500, time: 8.016 s/iter
+Epoch:39, loss: 1.44327, loss_1: 4.46726, human_acc: 30.8448, object_acc: 30.5501, lr: 0.009500, time: 8.789 s/iter
+Epoch:40, loss: 1.44293, loss_1: 4.46454, human_acc: 30.6483, object_acc: 30.3536, lr: 0.009025, time: 8.031 s/iter
+Epoch:41, loss: 1.44260, loss_1: 4.46108, human_acc: 30.8448, object_acc: 30.1572, lr: 0.009025, time: 7.986 s/iter
+Epoch:42, loss: 1.44205, loss_1: 4.45486, human_acc: 31.3360, object_acc: 30.9430, lr: 0.009025, time: 8.350 s/iter
+Epoch:43, loss: 1.44192, loss_1: 4.45296, human_acc: 31.6306, object_acc: 31.2377, lr: 0.009025, time: 9.416 s/iter
+Epoch:44, loss: 1.44301, loss_1: 4.46361, human_acc: 30.7466, object_acc: 30.8448, lr: 0.009025, time: 8.601 s/iter
+Epoch:45, loss: 1.44296, loss_1: 4.46326, human_acc: 30.9430, object_acc: 30.5501, lr: 0.009025, time: 8.021 s/iter
+Epoch:46, loss: 1.44267, loss_1: 4.45983, human_acc: 30.8448, object_acc: 30.3536, lr: 0.009025, time: 7.563 s/iter
+Epoch:47, loss: 1.44278, loss_1: 4.46274, human_acc: 30.8448, object_acc: 30.6483, lr: 0.009025, time: 7.491 s/iter
+Epoch:48, loss: 1.44215, loss_1: 4.45552, human_acc: 31.4342, object_acc: 30.5501, lr: 0.009025, time: 8.436 s/iter
+Epoch:49, loss: 1.44268, loss_1: 4.46118, human_acc: 30.8448, object_acc: 30.5501, lr: 0.009025, time: 8.271 s/iter
+Epoch:50, loss: 1.44303, loss_1: 4.46489, human_acc: 30.5501, object_acc: 30.1572, lr: 0.009025, time: 7.977 s/iter
+Epoch:51, loss: 1.44222, loss_1: 4.45614, human_acc: 31.4342, object_acc: 30.4519, lr: 0.009025, time: 7.919 s/iter
+Epoch:52, loss: 1.44227, loss_1: 4.45675, human_acc: 31.2377, object_acc: 30.5501, lr: 0.009025, time: 8.199 s/iter
+Epoch:53, loss: 1.44236, loss_1: 4.45725, human_acc: 31.0413, object_acc: 30.7466, lr: 0.009025, time: 8.342 s/iter
+Epoch:54, loss: 1.44223, loss_1: 4.45597, human_acc: 31.2377, object_acc: 30.4519, lr: 0.009025, time: 9.000 s/iter
+Epoch:55, loss: 1.44211, loss_1: 4.45508, human_acc: 31.3360, object_acc: 30.8448, lr: 0.009025, time: 8.448 s/iter
+Epoch:56, loss: 1.44206, loss_1: 4.45431, human_acc: 31.5324, object_acc: 31.1395, lr: 0.009025, time: 8.295 s/iter
+Epoch:00, loss: 1.46307, loss_1: 4.78682, human_acc: 23.8703, object_acc: 22.8880, lr: 0.001000, time: 9.071 s/iter
+Epoch:01, loss: 1.46294, loss_1: 4.78542, human_acc: 23.5756, object_acc: 23.8703, lr: 0.001000, time: 8.551 s/iter
+Epoch:02, loss: 1.46281, loss_1: 4.78402, human_acc: 23.6739, object_acc: 23.6739, lr: 0.001000, time: 7.625 s/iter
+Epoch:03, loss: 1.46268, loss_1: 4.78261, human_acc: 23.5756, object_acc: 23.5756, lr: 0.001000, time: 8.266 s/iter
+Epoch:04, loss: 1.46255, loss_1: 4.78118, human_acc: 23.5756, object_acc: 23.6739, lr: 0.001000, time: 7.645 s/iter
+Epoch:05, loss: 1.46241, loss_1: 4.77975, human_acc: 23.5756, object_acc: 23.5756, lr: 0.001000, time: 8.205 s/iter
+Epoch:06, loss: 1.46228, loss_1: 4.77831, human_acc: 23.5756, object_acc: 23.5756, lr: 0.001000, time: 7.885 s/iter
+Epoch:07, loss: 1.46214, loss_1: 4.77685, human_acc: 23.5756, object_acc: 23.5756, lr: 0.001000, time: 8.298 s/iter
+Epoch:08, loss: 1.46201, loss_1: 4.77538, human_acc: 23.5756, object_acc: 23.5756, lr: 0.001000, time: 8.313 s/iter
+Epoch:09, loss: 1.46187, loss_1: 4.77391, human_acc: 23.5756, object_acc: 23.5756, lr: 0.001000, time: 8.605 s/iter
+Epoch:10, loss: 1.46174, loss_1: 4.77242, human_acc: 23.5756, object_acc: 23.5756, lr: 0.001000, time: 8.396 s/iter
+Epoch:11, loss: 1.46160, loss_1: 4.77092, human_acc: 23.5756, object_acc: 23.5756, lr: 0.001000, time: 8.605 s/iter
+Epoch:12, loss: 1.46146, loss_1: 4.76940, human_acc: 23.5756, object_acc: 23.5756, lr: 0.001000, time: 8.126 s/iter
+Epoch:13, loss: 1.46132, loss_1: 4.76788, human_acc: 23.5756, object_acc: 23.5756, lr: 0.001000, time: 7.998 s/iter
+Epoch:14, loss: 1.46118, loss_1: 4.76634, human_acc: 23.5756, object_acc: 23.5756, lr: 0.001000, time: 8.621 s/iter
+Epoch:15, loss: 1.46104, loss_1: 4.76479, human_acc: 23.5756, object_acc: 23.5756, lr: 0.001000, time: 8.456 s/iter
+Epoch:16, loss: 1.46090, loss_1: 4.76323, human_acc: 23.5756, object_acc: 23.5756, lr: 0.001000, time: 7.923 s/iter
+Epoch:17, loss: 1.46075, loss_1: 4.76165, human_acc: 23.5756, object_acc: 23.5756, lr: 0.001000, time: 8.135 s/iter
+Epoch:18, loss: 1.46061, loss_1: 4.76005, human_acc: 23.5756, object_acc: 23.5756, lr: 0.001000, time: 8.341 s/iter
+Epoch:19, loss: 1.46046, loss_1: 4.75844, human_acc: 23.5756, object_acc: 23.5756, lr: 0.001000, time: 7.984 s/iter
+Epoch:20, loss: 1.46031, loss_1: 4.75680, human_acc: 23.5756, object_acc: 23.5756, lr: 0.000950, time: 8.779 s/iter
+Epoch:21, loss: 1.46016, loss_1: 4.75516, human_acc: 23.5756, object_acc: 23.5756, lr: 0.000950, time: 7.145 s/iter
+Epoch:22, loss: 1.46001, loss_1: 4.75348, human_acc: 23.5756, object_acc: 23.5756, lr: 0.000950, time: 7.559 s/iter
+Epoch:23, loss: 1.45986, loss_1: 4.75178, human_acc: 23.5756, object_acc: 23.5756, lr: 0.000950, time: 7.803 s/iter
+Epoch:24, loss: 1.45970, loss_1: 4.75005, human_acc: 23.5756, object_acc: 23.5756, lr: 0.000950, time: 8.331 s/iter
+Epoch:25, loss: 1.45955, loss_1: 4.74832, human_acc: 23.5756, object_acc: 23.5756, lr: 0.000950, time: 7.853 s/iter
+Epoch:26, loss: 1.45939, loss_1: 4.74651, human_acc: 23.5756, object_acc: 23.5756, lr: 0.000950, time: 8.804 s/iter
+Epoch:27, loss: 1.45922, loss_1: 4.74468, human_acc: 23.5756, object_acc: 23.5756, lr: 0.000950, time: 8.547 s/iter
+Epoch:28, loss: 1.45906, loss_1: 4.74283, human_acc: 23.5756, object_acc: 23.5756, lr: 0.000950, time: 8.213 s/iter
+Epoch:29, loss: 1.45889, loss_1: 4.74089, human_acc: 23.5756, object_acc: 23.5756, lr: 0.000950, time: 7.640 s/iter
+Epoch:30, loss: 1.45871, loss_1: 4.73890, human_acc: 23.5756, object_acc: 23.5756, lr: 0.000950, time: 7.618 s/iter
+Epoch:31, loss: 1.45853, loss_1: 4.73683, human_acc: 23.5756, object_acc: 23.5756, lr: 0.000950, time: 8.373 s/iter
+Epoch:32, loss: 1.45834, loss_1: 4.73468, human_acc: 23.5756, object_acc: 23.5756, lr: 0.000950, time: 8.085 s/iter
+Epoch:33, loss: 1.45814, loss_1: 4.73244, human_acc: 23.5756, object_acc: 23.5756, lr: 0.000950, time: 7.437 s/iter
+Epoch:34, loss: 1.45792, loss_1: 4.72998, human_acc: 23.5756, object_acc: 23.5756, lr: 0.000950, time: 8.390 s/iter
+Epoch:35, loss: 1.45769, loss_1: 4.72735, human_acc: 23.5756, object_acc: 23.5756, lr: 0.000950, time: 7.213 s/iter
+Epoch:36, loss: 1.45744, loss_1: 4.72447, human_acc: 23.5756, object_acc: 23.5756, lr: 0.000950, time: 7.205 s/iter
+Epoch:37, loss: 1.45716, loss_1: 4.72118, human_acc: 23.5756, object_acc: 23.5756, lr: 0.000950, time: 8.582 s/iter
+Epoch:38, loss: 1.45682, loss_1: 4.71728, human_acc: 23.5756, object_acc: 23.5756, lr: 0.000950, time: 8.432 s/iter
+Epoch:39, loss: 1.45643, loss_1: 4.71277, human_acc: 23.5756, object_acc: 23.5756, lr: 0.000950, time: 7.660 s/iter
+Epoch:40, loss: 1.45592, loss_1: 4.70684, human_acc: 23.5756, object_acc: 23.5756, lr: 0.000902, time: 7.747 s/iter
+Epoch:41, loss: 1.45524, loss_1: 4.69870, human_acc: 23.5756, object_acc: 23.5756, lr: 0.000902, time: 7.920 s/iter
+Epoch:42, loss: 1.45428, loss_1: 4.68714, human_acc: 23.5756, object_acc: 23.5756, lr: 0.000902, time: 8.940 s/iter
+Epoch:00, loss: 1.46282, loss_1: 4.78411, human_acc: 21.7092, object_acc: 22.8880, lr: 0.005000, time: 7.896 s/iter
+Epoch:01, loss: 1.46215, loss_1: 4.77695, human_acc: 23.5756, object_acc: 23.5756, lr: 0.005000, time: 7.072 s/iter
+Epoch:02, loss: 1.46147, loss_1: 4.76952, human_acc: 23.5756, object_acc: 23.5756, lr: 0.005000, time: 7.072 s/iter
+Epoch:03, loss: 1.46077, loss_1: 4.76180, human_acc: 23.5756, object_acc: 23.5756, lr: 0.005000, time: 6.986 s/iter
+Epoch:04, loss: 1.46003, loss_1: 4.75370, human_acc: 23.5756, object_acc: 23.5756, lr: 0.005000, time: 7.002 s/iter
+Epoch:05, loss: 1.45926, loss_1: 4.74505, human_acc: 23.5756, object_acc: 23.5756, lr: 0.005000, time: 7.371 s/iter
+Epoch:06, loss: 1.45840, loss_1: 4.73539, human_acc: 23.5756, object_acc: 23.5756, lr: 0.005000, time: 7.023 s/iter
+Epoch:07, loss: 1.45733, loss_1: 4.72320, human_acc: 23.5756, object_acc: 23.5756, lr: 0.005000, time: 6.785 s/iter
+Epoch:08, loss: 1.45528, loss_1: 4.69923, human_acc: 23.5756, object_acc: 23.5756, lr: 0.005000, time: 7.506 s/iter
+Epoch:09, loss: 1.44769, loss_1: 4.60001, human_acc: 27.9961, object_acc: 26.3261, lr: 0.005000, time: 6.700 s/iter
+Epoch:10, loss: 1.42558, loss_1: 4.29800, human_acc: 42.4361, object_acc: 40.9627, lr: 0.005000, time: 6.942 s/iter
+Epoch:11, loss: 1.42029, loss_1: 4.22526, human_acc: 43.5167, object_acc: 42.8291, lr: 0.005000, time: 6.797 s/iter
+Epoch:12, loss: 1.41955, loss_1: 4.21607, human_acc: 44.0079, object_acc: 43.6149, lr: 0.005000, time: 6.970 s/iter
+Epoch:13, loss: 1.41900, loss_1: 4.20875, human_acc: 44.4990, object_acc: 44.1061, lr: 0.005000, time: 7.094 s/iter
+Epoch:14, loss: 1.41847, loss_1: 4.20223, human_acc: 44.4990, object_acc: 44.4008, lr: 0.005000, time: 6.394 s/iter
+Epoch:15, loss: 1.41807, loss_1: 4.19671, human_acc: 44.7937, object_acc: 44.4008, lr: 0.005000, time: 6.095 s/iter
+Epoch:16, loss: 1.41784, loss_1: 4.19293, human_acc: 45.2849, object_acc: 44.6955, lr: 0.005000, time: 6.213 s/iter
+Epoch:17, loss: 1.41748, loss_1: 4.18814, human_acc: 44.8919, object_acc: 44.7937, lr: 0.005000, time: 5.824 s/iter
+Epoch:18, loss: 1.41738, loss_1: 4.18596, human_acc: 45.1866, object_acc: 44.9902, lr: 0.005000, time: 5.343 s/iter
+Epoch:19, loss: 1.41709, loss_1: 4.18242, human_acc: 45.2849, object_acc: 44.9902, lr: 0.005000, time: 6.150 s/iter
+Epoch:20, loss: 1.41695, loss_1: 4.18015, human_acc: 45.1866, object_acc: 44.8919, lr: 0.004750, time: 5.898 s/iter
+Epoch:21, loss: 1.41652, loss_1: 4.17531, human_acc: 45.5796, object_acc: 45.1866, lr: 0.004750, time: 6.410 s/iter
+Epoch:22, loss: 1.41662, loss_1: 4.17620, human_acc: 45.5796, object_acc: 45.2849, lr: 0.004750, time: 6.195 s/iter
+Epoch:23, loss: 1.41677, loss_1: 4.17753, human_acc: 45.4813, object_acc: 45.2849, lr: 0.004750, time: 6.134 s/iter
+Epoch:24, loss: 1.41657, loss_1: 4.17499, human_acc: 45.5796, object_acc: 45.1866, lr: 0.004750, time: 6.502 s/iter
+Epoch:25, loss: 1.41642, loss_1: 4.17475, human_acc: 45.7760, object_acc: 45.5796, lr: 0.004750, time: 6.783 s/iter
+Epoch:26, loss: 1.41604, loss_1: 4.17035, human_acc: 45.8743, object_acc: 45.5796, lr: 0.004750, time: 7.930 s/iter
+Epoch:27, loss: 1.41602, loss_1: 4.17034, human_acc: 45.8743, object_acc: 45.5796, lr: 0.004750, time: 8.002 s/iter
+Epoch:28, loss: 1.41568, loss_1: 4.16682, human_acc: 46.1690, object_acc: 45.5796, lr: 0.004750, time: 8.054 s/iter
+Epoch:29, loss: 1.41586, loss_1: 4.16957, human_acc: 45.5796, object_acc: 45.4813, lr: 0.004750, time: 7.846 s/iter
+Epoch:30, loss: 1.41571, loss_1: 4.16813, human_acc: 45.4813, object_acc: 45.3831, lr: 0.004750, time: 7.925 s/iter
+Epoch:31, loss: 1.41566, loss_1: 4.16655, human_acc: 45.8743, object_acc: 45.7760, lr: 0.004750, time: 8.184 s/iter
+Epoch:32, loss: 1.41578, loss_1: 4.16848, human_acc: 45.6778, object_acc: 45.6778, lr: 0.004750, time: 7.939 s/iter
+Epoch:33, loss: 1.41571, loss_1: 4.16721, human_acc: 45.5796, object_acc: 45.6778, lr: 0.004750, time: 7.696 s/iter
+Epoch:34, loss: 1.41585, loss_1: 4.16959, human_acc: 45.5796, object_acc: 45.2849, lr: 0.004750, time: 7.958 s/iter
+Epoch:35, loss: 1.41553, loss_1: 4.16679, human_acc: 45.5796, object_acc: 45.2849, lr: 0.004750, time: 7.976 s/iter
+Epoch:36, loss: 1.41546, loss_1: 4.16580, human_acc: 45.7760, object_acc: 45.6778, lr: 0.004750, time: 7.148 s/iter
+Epoch:37, loss: 1.41522, loss_1: 4.16334, human_acc: 45.9725, object_acc: 45.4813, lr: 0.004750, time: 7.859 s/iter
+Epoch:38, loss: 1.41530, loss_1: 4.16471, human_acc: 46.0707, object_acc: 45.4813, lr: 0.004750, time: 6.853 s/iter
+Epoch:39, loss: 1.41498, loss_1: 4.16132, human_acc: 46.3654, object_acc: 45.9725, lr: 0.004750, time: 6.994 s/iter
+Epoch:40, loss: 1.41489, loss_1: 4.16038, human_acc: 46.2672, object_acc: 45.5796, lr: 0.004513, time: 7.082 s/iter
+Epoch:41, loss: 1.41500, loss_1: 4.16162, human_acc: 45.5796, object_acc: 45.5796, lr: 0.004513, time: 6.545 s/iter
+Epoch:42, loss: 1.41469, loss_1: 4.15866, human_acc: 45.9725, object_acc: 45.9725, lr: 0.004513, time: 7.159 s/iter
+Epoch:43, loss: 1.41448, loss_1: 4.15656, human_acc: 46.2672, object_acc: 45.6778, lr: 0.004513, time: 7.380 s/iter
+Epoch:44, loss: 1.41459, loss_1: 4.15790, human_acc: 45.8743, object_acc: 45.7760, lr: 0.004513, time: 7.393 s/iter
+Epoch:45, loss: 1.41398, loss_1: 4.15195, human_acc: 46.4637, object_acc: 45.8743, lr: 0.004513, time: 7.257 s/iter
+Epoch:46, loss: 1.41381, loss_1: 4.14989, human_acc: 46.5619, object_acc: 46.0707, lr: 0.004513, time: 6.622 s/iter
+Epoch:47, loss: 1.41396, loss_1: 4.15116, human_acc: 46.1690, object_acc: 45.7760, lr: 0.004513, time: 6.010 s/iter
+Epoch:48, loss: 1.41381, loss_1: 4.15026, human_acc: 46.5619, object_acc: 45.4813, lr: 0.004513, time: 5.647 s/iter
+Epoch:49, loss: 1.41371, loss_1: 4.14859, human_acc: 46.4637, object_acc: 45.8743, lr: 0.004513, time: 6.047 s/iter
+Epoch:50, loss: 1.41353, loss_1: 4.14686, human_acc: 47.0530, object_acc: 46.3654, lr: 0.004513, time: 6.135 s/iter
+Epoch:51, loss: 1.41330, loss_1: 4.14453, human_acc: 47.0530, object_acc: 45.9725, lr: 0.004513, time: 6.118 s/iter
+Epoch:52, loss: 1.41315, loss_1: 4.14249, human_acc: 47.4460, object_acc: 45.9725, lr: 0.004513, time: 5.907 s/iter
+Epoch:53, loss: 1.41276, loss_1: 4.13827, human_acc: 47.8389, object_acc: 46.5619, lr: 0.004513, time: 6.264 s/iter
+Epoch:54, loss: 1.41252, loss_1: 4.13479, human_acc: 47.5442, object_acc: 46.6601, lr: 0.004513, time: 6.372 s/iter
+Epoch:55, loss: 1.41275, loss_1: 4.13788, human_acc: 47.4460, object_acc: 46.5619, lr: 0.004513, time: 8.142 s/iter
+Epoch:56, loss: 1.41367, loss_1: 4.14679, human_acc: 47.2495, object_acc: 46.2672, lr: 0.004513, time: 8.271 s/iter
+Epoch:57, loss: 1.41270, loss_1: 4.13669, human_acc: 47.3477, object_acc: 46.4637, lr: 0.004513, time: 8.645 s/iter
+Epoch:58, loss: 1.41259, loss_1: 4.13551, human_acc: 47.8389, object_acc: 46.5619, lr: 0.004513, time: 8.782 s/iter
+Epoch:59, loss: 1.41256, loss_1: 4.13487, human_acc: 47.7407, object_acc: 46.9548, lr: 0.004513, time: 9.345 s/iter
+Epoch:60, loss: 1.41223, loss_1: 4.13146, human_acc: 47.7407, object_acc: 46.5619, lr: 0.004287, time: 9.661 s/iter
+Epoch:61, loss: 1.41185, loss_1: 4.12710, human_acc: 47.7407, object_acc: 47.0530, lr: 0.004287, time: 9.467 s/iter
+Epoch:62, loss: 1.41206, loss_1: 4.12900, human_acc: 47.7407, object_acc: 46.7583, lr: 0.004287, time: 8.594 s/iter
+Epoch:63, loss: 1.41200, loss_1: 4.12846, human_acc: 47.5442, object_acc: 46.5619, lr: 0.004287, time: 9.205 s/iter
+Epoch:64, loss: 1.41213, loss_1: 4.13000, human_acc: 47.7407, object_acc: 47.0530, lr: 0.004287, time: 8.958 s/iter
+Epoch:65, loss: 1.41226, loss_1: 4.13133, human_acc: 47.5442, object_acc: 46.5619, lr: 0.004287, time: 8.884 s/iter
+Epoch:66, loss: 1.41216, loss_1: 4.13007, human_acc: 47.6424, object_acc: 46.6601, lr: 0.004287, time: 9.458 s/iter
+Epoch:67, loss: 1.41188, loss_1: 4.12685, human_acc: 48.2318, object_acc: 46.5619, lr: 0.004287, time: 9.489 s/iter
+Epoch:68, loss: 1.41263, loss_1: 4.13519, human_acc: 47.2495, object_acc: 46.1690, lr: 0.004287, time: 9.803 s/iter
+Epoch:69, loss: 1.41190, loss_1: 4.12646, human_acc: 48.0354, object_acc: 46.7583, lr: 0.004287, time: 10.282 s/iter
+Epoch:70, loss: 1.41323, loss_1: 4.14040, human_acc: 47.4460, object_acc: 46.3654, lr: 0.004287, time: 8.865 s/iter
+Epoch:71, loss: 1.41305, loss_1: 4.13779, human_acc: 47.7407, object_acc: 46.1690, lr: 0.004287, time: 9.024 s/iter
+Epoch:72, loss: 1.41214, loss_1: 4.12925, human_acc: 47.9371, object_acc: 46.5619, lr: 0.004287, time: 8.834 s/iter
+Epoch:73, loss: 1.41175, loss_1: 4.12492, human_acc: 48.3301, object_acc: 47.0530, lr: 0.004287, time: 9.237 s/iter
+Epoch:74, loss: 1.41248, loss_1: 4.13234, human_acc: 47.5442, object_acc: 46.6601, lr: 0.004287, time: 8.771 s/iter
+Epoch:75, loss: 1.41261, loss_1: 4.13376, human_acc: 47.9371, object_acc: 46.4637, lr: 0.004287, time: 8.601 s/iter
+Epoch:76, loss: 1.41181, loss_1: 4.12498, human_acc: 48.2318, object_acc: 46.9548, lr: 0.004287, time: 7.574 s/iter
+Epoch:77, loss: 1.41253, loss_1: 4.13256, human_acc: 47.5442, object_acc: 46.5619, lr: 0.004287, time: 8.434 s/iter
+Epoch:78, loss: 1.41140, loss_1: 4.12030, human_acc: 48.8212, object_acc: 47.3477, lr: 0.004287, time: 8.715 s/iter
+Epoch:79, loss: 1.41138, loss_1: 4.11976, human_acc: 48.4283, object_acc: 47.3477, lr: 0.004287, time: 7.888 s/iter
+Epoch:80, loss: 1.41201, loss_1: 4.12672, human_acc: 48.1336, object_acc: 47.0530, lr: 0.004073, time: 8.135 s/iter
+Epoch:81, loss: 1.41123, loss_1: 4.11851, human_acc: 47.8389, object_acc: 47.2495, lr: 0.004073, time: 8.461 s/iter
+Epoch:82, loss: 1.41191, loss_1: 4.12542, human_acc: 48.0354, object_acc: 47.2495, lr: 0.004073, time: 8.152 s/iter
+Epoch:83, loss: 1.41171, loss_1: 4.12350, human_acc: 47.9371, object_acc: 47.2495, lr: 0.004073, time: 8.204 s/iter
+Epoch:84, loss: 1.41215, loss_1: 4.12912, human_acc: 48.6248, object_acc: 46.4637, lr: 0.004073, time: 9.706 s/iter
+Epoch:85, loss: 1.41146, loss_1: 4.12081, human_acc: 48.4283, object_acc: 47.4460, lr: 0.004073, time: 8.039 s/iter
+Epoch:86, loss: 1.41171, loss_1: 4.12376, human_acc: 48.1336, object_acc: 46.9548, lr: 0.004073, time: 8.791 s/iter
+Epoch:87, loss: 1.41124, loss_1: 4.11876, human_acc: 48.2318, object_acc: 47.4460, lr: 0.004073, time: 8.585 s/iter
+Epoch:88, loss: 1.41257, loss_1: 4.13282, human_acc: 47.9371, object_acc: 46.4637, lr: 0.004073, time: 8.896 s/iter
+Epoch:89, loss: 1.41273, loss_1: 4.13315, human_acc: 47.3477, object_acc: 46.7583, lr: 0.004073, time: 8.601 s/iter
+Epoch:90, loss: 1.41210, loss_1: 4.12786, human_acc: 48.1336, object_acc: 46.7583, lr: 0.004073, time: 9.136 s/iter
+Epoch:91, loss: 1.41137, loss_1: 4.11979, human_acc: 48.3301, object_acc: 47.7407, lr: 0.004073, time: 9.125 s/iter
+Epoch:92, loss: 1.41251, loss_1: 4.13245, human_acc: 47.7407, object_acc: 46.6601, lr: 0.004073, time: 9.111 s/iter
+Epoch:93, loss: 1.41106, loss_1: 4.11579, human_acc: 48.4283, object_acc: 47.3477, lr: 0.004073, time: 8.346 s/iter
+Epoch:94, loss: 1.41145, loss_1: 4.11920, human_acc: 48.2318, object_acc: 47.4460, lr: 0.004073, time: 9.366 s/iter
+Epoch:95, loss: 1.41224, loss_1: 4.12854, human_acc: 47.6424, object_acc: 46.8566, lr: 0.004073, time: 7.802 s/iter
+Epoch:96, loss: 1.41243, loss_1: 4.13090, human_acc: 48.3301, object_acc: 46.8566, lr: 0.004073, time: 8.209 s/iter
+Epoch:97, loss: 1.41133, loss_1: 4.11865, human_acc: 48.6248, object_acc: 47.4460, lr: 0.004073, time: 8.450 s/iter
+Epoch:98, loss: 1.41193, loss_1: 4.12546, human_acc: 48.2318, object_acc: 47.3477, lr: 0.004073, time: 8.219 s/iter
+Epoch:99, loss: 1.41242, loss_1: 4.13038, human_acc: 47.0530, object_acc: 46.8566, lr: 0.004073, time: 7.789 s/iter
+Epoch:100, loss: 1.41084, loss_1: 4.11313, human_acc: 48.8212, object_acc: 47.5442, lr: 0.003869, time: 8.609 s/iter
+Epoch:101, loss: 1.41215, loss_1: 4.12785, human_acc: 47.3477, object_acc: 46.8566, lr: 0.003869, time: 8.500 s/iter
+Epoch:102, loss: 1.41153, loss_1: 4.12095, human_acc: 48.8212, object_acc: 46.8566, lr: 0.003869, time: 8.984 s/iter
+Epoch:103, loss: 1.41181, loss_1: 4.12471, human_acc: 48.6248, object_acc: 46.6601, lr: 0.003869, time: 8.680 s/iter
+Epoch:104, loss: 1.41289, loss_1: 4.13579, human_acc: 47.8389, object_acc: 46.6601, lr: 0.003869, time: 9.452 s/iter
+Epoch:105, loss: 1.41213, loss_1: 4.12721, human_acc: 48.3301, object_acc: 46.8566, lr: 0.003869, time: 9.276 s/iter
+Epoch:106, loss: 1.41341, loss_1: 4.13998, human_acc: 47.5442, object_acc: 46.9548, lr: 0.003869, time: 8.895 s/iter
+Epoch:107, loss: 1.41272, loss_1: 4.13365, human_acc: 47.4460, object_acc: 47.1513, lr: 0.003869, time: 8.285 s/iter
+Epoch:108, loss: 1.41171, loss_1: 4.12283, human_acc: 47.8389, object_acc: 47.2495, lr: 0.003869, time: 8.178 s/iter
+Epoch:109, loss: 1.41140, loss_1: 4.11927, human_acc: 48.7230, object_acc: 47.3477, lr: 0.003869, time: 9.083 s/iter
+Epoch:110, loss: 1.41140, loss_1: 4.11900, human_acc: 48.6248, object_acc: 47.3477, lr: 0.003869, time: 8.888 s/iter
+Epoch:111, loss: 1.41121, loss_1: 4.11721, human_acc: 48.6248, object_acc: 46.9548, lr: 0.003869, time: 9.258 s/iter
+Epoch:112, loss: 1.41077, loss_1: 4.11244, human_acc: 48.8212, object_acc: 47.4460, lr: 0.003869, time: 8.795 s/iter
+Epoch:113, loss: 1.41066, loss_1: 4.11171, human_acc: 49.2141, object_acc: 47.5442, lr: 0.003869, time: 8.213 s/iter
+Epoch:114, loss: 1.41084, loss_1: 4.11280, human_acc: 48.9194, object_acc: 47.8389, lr: 0.003869, time: 8.520 s/iter
+Epoch:115, loss: 1.41209, loss_1: 4.12696, human_acc: 47.9371, object_acc: 47.3477, lr: 0.003869, time: 8.029 s/iter
+Epoch:116, loss: 1.41416, loss_1: 4.14904, human_acc: 46.3654, object_acc: 46.0707, lr: 0.003869, time: 9.407 s/iter
+Epoch:117, loss: 1.41103, loss_1: 4.11529, human_acc: 49.1159, object_acc: 47.3477, lr: 0.003869, time: 7.775 s/iter
+Epoch:118, loss: 1.41151, loss_1: 4.12095, human_acc: 48.7230, object_acc: 46.9548, lr: 0.003869, time: 9.342 s/iter
+Epoch:119, loss: 1.41343, loss_1: 4.14018, human_acc: 47.3477, object_acc: 46.2672, lr: 0.003869, time: 8.502 s/iter
+Epoch:120, loss: 1.42701, loss_1: 4.27453, human_acc: 32.5147, object_acc: 47.6424, lr: 0.003675, time: 9.377 s/iter
+Epoch:121, loss: 1.42720, loss_1: 4.27598, human_acc: 32.4165, object_acc: 47.7407, lr: 0.003675, time: 8.593 s/iter
+Epoch:122, loss: 1.42699, loss_1: 4.27378, human_acc: 32.4165, object_acc: 47.8389, lr: 0.003675, time: 8.414 s/iter
+Epoch:123, loss: 1.42704, loss_1: 4.27463, human_acc: 32.7112, object_acc: 47.5442, lr: 0.003675, time: 8.668 s/iter
+Epoch:124, loss: 1.42747, loss_1: 4.28006, human_acc: 32.4165, object_acc: 47.0530, lr: 0.003675, time: 8.317 s/iter
+Epoch:125, loss: 1.42784, loss_1: 4.28361, human_acc: 31.7289, object_acc: 47.3477, lr: 0.003675, time: 9.027 s/iter
+Epoch:126, loss: 1.42685, loss_1: 4.27253, human_acc: 32.5147, object_acc: 47.8389, lr: 0.003675, time: 9.184 s/iter
+Epoch:127, loss: 1.42684, loss_1: 4.27221, human_acc: 33.3006, object_acc: 47.9371, lr: 0.003675, time: 8.178 s/iter
+Epoch:128, loss: 1.42754, loss_1: 4.27981, human_acc: 32.6130, object_acc: 47.1513, lr: 0.003675, time: 8.754 s/iter
+Epoch:129, loss: 1.42742, loss_1: 4.27850, human_acc: 32.2200, object_acc: 47.3477, lr: 0.003675, time: 8.772 s/iter
+Epoch:130, loss: 1.42646, loss_1: 4.26793, human_acc: 33.1041, object_acc: 47.7407, lr: 0.003675, time: 8.585 s/iter
+Epoch:131, loss: 1.42720, loss_1: 4.27632, human_acc: 32.5147, object_acc: 47.7407, lr: 0.003675, time: 8.868 s/iter
+Epoch:132, loss: 1.42636, loss_1: 4.26717, human_acc: 33.3006, object_acc: 48.4283, lr: 0.003675, time: 8.626 s/iter
+Epoch:133, loss: 1.42698, loss_1: 4.27344, human_acc: 32.6130, object_acc: 47.4460, lr: 0.003675, time: 8.580 s/iter
+Epoch:134, loss: 1.42664, loss_1: 4.27025, human_acc: 33.1041, object_acc: 47.8389, lr: 0.003675, time: 9.464 s/iter
+Epoch:135, loss: 1.42671, loss_1: 4.27088, human_acc: 32.9077, object_acc: 47.9371, lr: 0.003675, time: 8.394 s/iter
+Epoch:136, loss: 1.42672, loss_1: 4.27041, human_acc: 32.6130, object_acc: 47.8389, lr: 0.003675, time: 8.151 s/iter
+Epoch:137, loss: 1.42632, loss_1: 4.26624, human_acc: 33.0059, object_acc: 47.8389, lr: 0.003675, time: 8.888 s/iter
+Epoch:138, loss: 1.42625, loss_1: 4.26606, human_acc: 33.3006, object_acc: 47.9371, lr: 0.003675, time: 7.852 s/iter
+Epoch:139, loss: 1.42712, loss_1: 4.27549, human_acc: 32.6130, object_acc: 47.7407, lr: 0.003675, time: 8.720 s/iter
+Epoch:140, loss: 1.42699, loss_1: 4.27409, human_acc: 32.6130, object_acc: 47.9371, lr: 0.003492, time: 8.395 s/iter
+Epoch:141, loss: 1.42646, loss_1: 4.26806, human_acc: 32.9077, object_acc: 47.6424, lr: 0.003492, time: 8.798 s/iter
+Epoch:142, loss: 1.42637, loss_1: 4.26732, human_acc: 32.6130, object_acc: 47.6424, lr: 0.003492, time: 9.060 s/iter
+Epoch:143, loss: 1.42678, loss_1: 4.27158, human_acc: 32.7112, object_acc: 48.0354, lr: 0.003492, time: 8.224 s/iter
+Epoch:144, loss: 1.42676, loss_1: 4.27117, human_acc: 33.0059, object_acc: 47.7407, lr: 0.003492, time: 8.981 s/iter
+Epoch:145, loss: 1.42625, loss_1: 4.26571, human_acc: 33.3988, object_acc: 48.1336, lr: 0.003492, time: 10.096 s/iter
+Epoch:146, loss: 1.42594, loss_1: 4.26309, human_acc: 33.5953, object_acc: 48.2318, lr: 0.003492, time: 7.866 s/iter
+Epoch:147, loss: 1.42614, loss_1: 4.26501, human_acc: 33.1041, object_acc: 48.0354, lr: 0.003492, time: 7.526 s/iter
+Epoch:148, loss: 1.42633, loss_1: 4.26704, human_acc: 33.3988, object_acc: 47.9371, lr: 0.003492, time: 6.903 s/iter
+Epoch:149, loss: 1.42657, loss_1: 4.27014, human_acc: 32.8094, object_acc: 48.4283, lr: 0.003492, time: 7.117 s/iter
+Epoch:150, loss: 1.42799, loss_1: 4.28310, human_acc: 31.9253, object_acc: 47.6424, lr: 0.003492, time: 6.565 s/iter
+Epoch:151, loss: 1.42612, loss_1: 4.26444, human_acc: 32.9077, object_acc: 48.4283, lr: 0.003492, time: 6.922 s/iter
+Epoch:152, loss: 1.42598, loss_1: 4.26250, human_acc: 33.1041, object_acc: 48.3301, lr: 0.003492, time: 7.840 s/iter
+Epoch:153, loss: 1.42673, loss_1: 4.27085, human_acc: 32.9077, object_acc: 48.3301, lr: 0.003492, time: 6.699 s/iter
+Epoch:154, loss: 1.42679, loss_1: 4.27137, human_acc: 33.1041, object_acc: 47.8389, lr: 0.003492, time: 6.980 s/iter
+Epoch:155, loss: 1.42624, loss_1: 4.26516, human_acc: 33.1041, object_acc: 48.2318, lr: 0.003492, time: 7.612 s/iter
+Epoch:156, loss: 1.42793, loss_1: 4.28323, human_acc: 32.0236, object_acc: 47.1513, lr: 0.003492, time: 7.575 s/iter
+Epoch:157, loss: 1.42745, loss_1: 4.27826, human_acc: 32.2200, object_acc: 47.6424, lr: 0.003492, time: 8.673 s/iter
+Epoch:158, loss: 1.43950, loss_1: 4.42436, human_acc: 33.0059, object_acc: 32.3183, lr: 0.003492, time: 8.732 s/iter
+Epoch:159, loss: 1.44054, loss_1: 4.43576, human_acc: 32.4165, object_acc: 31.9253, lr: 0.003492, time: 8.848 s/iter
+Epoch:160, loss: 1.43960, loss_1: 4.42463, human_acc: 33.1041, object_acc: 32.3183, lr: 0.003317, time: 9.355 s/iter
+Epoch:00, loss: 1.46290, loss_1: 4.78502, human_acc: 20.6287, object_acc: 22.3969, lr: 0.005000, time: 11.787 s/iter
+Epoch:01, loss: 1.46242, loss_1: 4.77979, human_acc: 23.5756, object_acc: 23.5756, lr: 0.005000, time: 7.542 s/iter
+Epoch:02, loss: 1.46192, loss_1: 4.77442, human_acc: 23.5756, object_acc: 23.5756, lr: 0.005000, time: 7.722 s/iter
+Epoch:03, loss: 1.46141, loss_1: 4.76890, human_acc: 23.5756, object_acc: 23.5756, lr: 0.005000, time: 7.439 s/iter
+Epoch:04, loss: 1.46090, loss_1: 4.76324, human_acc: 23.5756, object_acc: 23.5756, lr: 0.005000, time: 7.398 s/iter
+Epoch:05, loss: 1.46036, loss_1: 4.75738, human_acc: 23.5756, object_acc: 23.5756, lr: 0.005000, time: 6.877 s/iter
+Epoch:06, loss: 1.45982, loss_1: 4.75130, human_acc: 23.5756, object_acc: 23.5756, lr: 0.005000, time: 6.342 s/iter
+Epoch:07, loss: 1.45925, loss_1: 4.74494, human_acc: 23.5756, object_acc: 23.5756, lr: 0.005000, time: 7.147 s/iter
+Epoch:08, loss: 1.45864, loss_1: 4.73813, human_acc: 23.5756, object_acc: 23.5756, lr: 0.005000, time: 7.269 s/iter
+Epoch:09, loss: 1.45798, loss_1: 4.73060, human_acc: 23.5756, object_acc: 23.5756, lr: 0.005000, time: 7.462 s/iter
+Epoch:10, loss: 1.45719, loss_1: 4.72157, human_acc: 23.5756, object_acc: 23.5756, lr: 0.005000, time: 7.213 s/iter
+Epoch:11, loss: 1.45605, loss_1: 4.70832, human_acc: 23.8703, object_acc: 23.5756, lr: 0.005000, time: 6.958 s/iter
+Epoch:12, loss: 1.45339, loss_1: 4.67654, human_acc: 35.1670, object_acc: 27.7014, lr: 0.005000, time: 8.335 s/iter
+Epoch:13, loss: 1.44050, loss_1: 4.50804, human_acc: 38.5069, object_acc: 36.8369, lr: 0.005000, time: 9.348 s/iter
+Epoch:14, loss: 1.42223, loss_1: 4.25161, human_acc: 43.1238, object_acc: 42.5344, lr: 0.005000, time: 9.925 s/iter
+Epoch:15, loss: 1.42048, loss_1: 4.22815, human_acc: 43.4185, object_acc: 42.6326, lr: 0.005000, time: 8.814 s/iter
+Epoch:16, loss: 1.41953, loss_1: 4.21777, human_acc: 44.3026, object_acc: 43.4185, lr: 0.005000, time: 9.025 s/iter
+Epoch:17, loss: 1.41915, loss_1: 4.21188, human_acc: 44.3026, object_acc: 43.8114, lr: 0.005000, time: 9.327 s/iter
+Epoch:18, loss: 1.41887, loss_1: 4.20749, human_acc: 44.4990, object_acc: 44.0079, lr: 0.005000, time: 9.727 s/iter
+Epoch:19, loss: 1.41844, loss_1: 4.20244, human_acc: 44.6955, object_acc: 44.4990, lr: 0.005000, time: 8.932 s/iter
+Epoch:20, loss: 1.41796, loss_1: 4.19605, human_acc: 45.0884, object_acc: 44.7937, lr: 0.005000, time: 9.006 s/iter
+Epoch:21, loss: 1.41793, loss_1: 4.19524, human_acc: 44.6955, object_acc: 44.4990, lr: 0.005000, time: 8.557 s/iter
+Epoch:22, loss: 1.41767, loss_1: 4.19102, human_acc: 44.9902, object_acc: 44.5972, lr: 0.005000, time: 8.823 s/iter
+Epoch:23, loss: 1.41728, loss_1: 4.18613, human_acc: 45.3831, object_acc: 44.9902, lr: 0.005000, time: 8.267 s/iter
+Epoch:24, loss: 1.41742, loss_1: 4.18803, human_acc: 45.0884, object_acc: 44.8919, lr: 0.005000, time: 9.982 s/iter
+Epoch:25, loss: 1.41709, loss_1: 4.18295, human_acc: 45.3831, object_acc: 44.9902, lr: 0.005000, time: 9.231 s/iter
+Epoch:26, loss: 1.41705, loss_1: 4.18281, human_acc: 45.1866, object_acc: 44.7937, lr: 0.005000, time: 9.493 s/iter
+Epoch:27, loss: 1.41687, loss_1: 4.18029, human_acc: 45.3831, object_acc: 45.1866, lr: 0.005000, time: 9.056 s/iter
+Epoch:28, loss: 1.41668, loss_1: 4.17776, human_acc: 45.6778, object_acc: 45.2849, lr: 0.005000, time: 7.659 s/iter
+Epoch:29, loss: 1.41665, loss_1: 4.17730, human_acc: 45.5796, object_acc: 45.2849, lr: 0.005000, time: 9.228 s/iter
+Epoch:30, loss: 1.41649, loss_1: 4.17619, human_acc: 45.6778, object_acc: 45.2849, lr: 0.005000, time: 8.572 s/iter
+Epoch:31, loss: 1.41658, loss_1: 4.17688, human_acc: 45.5796, object_acc: 45.2849, lr: 0.005000, time: 8.691 s/iter
+Epoch:32, loss: 1.41635, loss_1: 4.17446, human_acc: 45.5796, object_acc: 45.3831, lr: 0.005000, time: 8.863 s/iter
+Epoch:33, loss: 1.41624, loss_1: 4.17338, human_acc: 45.6778, object_acc: 45.5796, lr: 0.005000, time: 8.195 s/iter
+Epoch:34, loss: 1.41594, loss_1: 4.17063, human_acc: 45.9725, object_acc: 45.6778, lr: 0.005000, time: 8.175 s/iter
+Epoch:35, loss: 1.41594, loss_1: 4.17074, human_acc: 45.9725, object_acc: 45.5796, lr: 0.005000, time: 8.678 s/iter
+Epoch:36, loss: 1.41589, loss_1: 4.16955, human_acc: 45.8743, object_acc: 45.6778, lr: 0.005000, time: 9.425 s/iter
+Epoch:37, loss: 1.41598, loss_1: 4.17138, human_acc: 45.6778, object_acc: 45.4813, lr: 0.005000, time: 10.025 s/iter
+Epoch:38, loss: 1.41563, loss_1: 4.16804, human_acc: 45.8743, object_acc: 45.6778, lr: 0.005000, time: 7.979 s/iter
+Epoch:39, loss: 1.41563, loss_1: 4.16824, human_acc: 45.9725, object_acc: 45.4813, lr: 0.005000, time: 8.330 s/iter
+Epoch:40, loss: 1.41542, loss_1: 4.16582, human_acc: 46.0707, object_acc: 45.7760, lr: 0.005000, time: 8.808 s/iter
+Epoch:41, loss: 1.41558, loss_1: 4.16719, human_acc: 45.4813, object_acc: 45.5796, lr: 0.005000, time: 8.346 s/iter
+Epoch:42, loss: 1.41528, loss_1: 4.16470, human_acc: 45.5796, object_acc: 45.5796, lr: 0.005000, time: 11.009 s/iter
+Epoch:43, loss: 1.41514, loss_1: 4.16348, human_acc: 46.1690, object_acc: 45.4813, lr: 0.005000, time: 8.866 s/iter
+Epoch:44, loss: 1.41555, loss_1: 4.16790, human_acc: 45.2849, object_acc: 45.2849, lr: 0.005000, time: 9.836 s/iter
+Epoch:45, loss: 1.41548, loss_1: 4.16702, human_acc: 45.7760, object_acc: 45.4813, lr: 0.005000, time: 8.500 s/iter
+Epoch:46, loss: 1.41505, loss_1: 4.16275, human_acc: 45.6778, object_acc: 45.5796, lr: 0.005000, time: 8.949 s/iter
+Epoch:00, loss: 1.46290, loss_1: 4.78499, human_acc: 21.3163, object_acc: 22.2986, lr: 0.005000, time: 10.293 s/iter
+Epoch:01, loss: 1.46241, loss_1: 4.77974, human_acc: 23.5756, object_acc: 23.5756, lr: 0.005000, time: 7.815 s/iter
+Epoch:02, loss: 1.46191, loss_1: 4.77435, human_acc: 23.5756, object_acc: 23.5756, lr: 0.005000, time: 7.752 s/iter
+Epoch:03, loss: 1.46140, loss_1: 4.76881, human_acc: 23.5756, object_acc: 23.5756, lr: 0.005000, time: 8.297 s/iter
+Epoch:04, loss: 1.46088, loss_1: 4.76310, human_acc: 23.5756, object_acc: 23.5756, lr: 0.005000, time: 9.434 s/iter
+Epoch:05, loss: 1.46035, loss_1: 4.75718, human_acc: 23.5756, object_acc: 23.5756, lr: 0.005000, time: 9.246 s/iter
+Epoch:06, loss: 1.45979, loss_1: 4.75102, human_acc: 23.5756, object_acc: 23.5756, lr: 0.005000, time: 7.552 s/iter
+Epoch:07, loss: 1.45921, loss_1: 4.74451, human_acc: 23.5756, object_acc: 23.5756, lr: 0.005000, time: 8.378 s/iter
+Epoch:08, loss: 1.45858, loss_1: 4.73741, human_acc: 23.5756, object_acc: 23.5756, lr: 0.005000, time: 8.232 s/iter
+Epoch:09, loss: 1.45786, loss_1: 4.72932, human_acc: 23.5756, object_acc: 23.5756, lr: 0.005000, time: 7.766 s/iter
+Epoch:10, loss: 1.45695, loss_1: 4.71883, human_acc: 23.5756, object_acc: 23.5756, lr: 0.005000, time: 8.757 s/iter
+Epoch:11, loss: 1.45534, loss_1: 4.70004, human_acc: 28.9784, object_acc: 23.5756, lr: 0.005000, time: 8.487 s/iter
+Epoch:12, loss: 1.45033, loss_1: 4.63768, human_acc: 32.9077, object_acc: 31.1395, lr: 0.005000, time: 8.089 s/iter
+Epoch:13, loss: 1.43125, loss_1: 4.37998, human_acc: 42.6326, object_acc: 40.7662, lr: 0.005000, time: 8.994 s/iter
+Epoch:14, loss: 1.42110, loss_1: 4.23519, human_acc: 43.1238, object_acc: 42.4361, lr: 0.005000, time: 9.956 s/iter
+Epoch:15, loss: 1.42018, loss_1: 4.22507, human_acc: 43.7132, object_acc: 43.0255, lr: 0.005000, time: 8.074 s/iter
+Epoch:16, loss: 1.41945, loss_1: 4.21661, human_acc: 44.1061, object_acc: 43.6149, lr: 0.005000, time: 8.992 s/iter
+Epoch:17, loss: 1.41895, loss_1: 4.20932, human_acc: 44.3026, object_acc: 44.1061, lr: 0.005000, time: 9.127 s/iter
+Epoch:18, loss: 1.41847, loss_1: 4.20310, human_acc: 44.7937, object_acc: 44.4990, lr: 0.005000, time: 8.742 s/iter
+Epoch:19, loss: 1.41814, loss_1: 4.19903, human_acc: 44.8919, object_acc: 44.4990, lr: 0.005000, time: 9.351 s/iter
+Epoch:20, loss: 1.41784, loss_1: 4.19445, human_acc: 44.9902, object_acc: 44.6955, lr: 0.005000, time: 8.875 s/iter
+Epoch:21, loss: 1.41774, loss_1: 4.19175, human_acc: 45.2849, object_acc: 44.8919, lr: 0.005000, time: 7.346 s/iter
+Epoch:22, loss: 1.41756, loss_1: 4.18932, human_acc: 45.2849, object_acc: 44.9902, lr: 0.005000, time: 9.078 s/iter
+Epoch:23, loss: 1.41735, loss_1: 4.18633, human_acc: 44.9902, object_acc: 44.7937, lr: 0.005000, time: 7.127 s/iter
+Epoch:24, loss: 1.41688, loss_1: 4.18106, human_acc: 45.4813, object_acc: 45.0884, lr: 0.005000, time: 9.142 s/iter
+Epoch:25, loss: 1.41706, loss_1: 4.18230, human_acc: 45.1866, object_acc: 44.8919, lr: 0.005000, time: 8.867 s/iter
+Epoch:26, loss: 1.41668, loss_1: 4.17823, human_acc: 45.4813, object_acc: 45.0884, lr: 0.003500, time: 7.899 s/iter
+Epoch:27, loss: 1.41675, loss_1: 4.17864, human_acc: 45.4813, object_acc: 45.1866, lr: 0.003500, time: 8.380 s/iter
+Epoch:28, loss: 1.41657, loss_1: 4.17743, human_acc: 45.4813, object_acc: 45.1866, lr: 0.003500, time: 7.570 s/iter
+Epoch:29, loss: 1.41646, loss_1: 4.17570, human_acc: 45.6778, object_acc: 45.3831, lr: 0.003500, time: 7.330 s/iter
+Epoch:30, loss: 1.41640, loss_1: 4.17557, human_acc: 45.5796, object_acc: 45.4813, lr: 0.003500, time: 7.659 s/iter
+Epoch:31, loss: 1.41630, loss_1: 4.17426, human_acc: 45.6778, object_acc: 45.2849, lr: 0.003500, time: 8.588 s/iter
+Epoch:32, loss: 1.41599, loss_1: 4.17177, human_acc: 45.6778, object_acc: 45.4813, lr: 0.003500, time: 7.120 s/iter
+Epoch:33, loss: 1.41606, loss_1: 4.17233, human_acc: 45.6778, object_acc: 45.4813, lr: 0.003500, time: 8.778 s/iter
+Epoch:34, loss: 1.41589, loss_1: 4.17018, human_acc: 46.1690, object_acc: 45.7760, lr: 0.003500, time: 7.881 s/iter
+Epoch:35, loss: 1.41582, loss_1: 4.16857, human_acc: 45.9725, object_acc: 45.6778, lr: 0.003500, time: 7.987 s/iter
+Epoch:36, loss: 1.41578, loss_1: 4.16889, human_acc: 45.7760, object_acc: 45.5796, lr: 0.003500, time: 9.875 s/iter
+Epoch:37, loss: 1.41568, loss_1: 4.16698, human_acc: 45.9725, object_acc: 45.8743, lr: 0.003500, time: 8.692 s/iter
+Epoch:38, loss: 1.41551, loss_1: 4.16650, human_acc: 45.6778, object_acc: 45.5796, lr: 0.003500, time: 8.870 s/iter
+Epoch:39, loss: 1.41562, loss_1: 4.16643, human_acc: 45.8743, object_acc: 45.7760, lr: 0.003500, time: 8.974 s/iter
+Epoch:40, loss: 1.41551, loss_1: 4.16682, human_acc: 45.7760, object_acc: 45.5796, lr: 0.003500, time: 8.901 s/iter
+Epoch:41, loss: 1.41551, loss_1: 4.16667, human_acc: 45.3831, object_acc: 45.5796, lr: 0.003500, time: 8.691 s/iter
+Epoch:42, loss: 1.41551, loss_1: 4.16671, human_acc: 45.6778, object_acc: 45.4813, lr: 0.003500, time: 8.956 s/iter
+Epoch:43, loss: 1.41551, loss_1: 4.16632, human_acc: 46.0707, object_acc: 45.5796, lr: 0.003500, time: 8.660 s/iter
+Epoch:44, loss: 1.41546, loss_1: 4.16628, human_acc: 45.7760, object_acc: 45.4813, lr: 0.003500, time: 7.143 s/iter
+Epoch:45, loss: 1.41537, loss_1: 4.16552, human_acc: 45.9725, object_acc: 45.6778, lr: 0.003500, time: 9.388 s/iter
+Epoch:46, loss: 1.41542, loss_1: 4.16633, human_acc: 45.4813, object_acc: 45.3831, lr: 0.003500, time: 8.687 s/iter
+Epoch:47, loss: 1.41516, loss_1: 4.16383, human_acc: 45.7760, object_acc: 45.5796, lr: 0.003500, time: 8.149 s/iter
+Epoch:48, loss: 1.41507, loss_1: 4.16355, human_acc: 45.9725, object_acc: 45.5796, lr: 0.003500, time: 8.352 s/iter
+Epoch:49, loss: 1.41513, loss_1: 4.16412, human_acc: 45.5796, object_acc: 45.7760, lr: 0.003500, time: 8.930 s/iter
+Epoch:50, loss: 1.41463, loss_1: 4.15900, human_acc: 46.2672, object_acc: 45.9725, lr: 0.003500, time: 8.341 s/iter
+Epoch:51, loss: 1.41435, loss_1: 4.15633, human_acc: 46.1690, object_acc: 45.8743, lr: 0.003500, time: 8.262 s/iter
+Epoch:52, loss: 1.41454, loss_1: 4.15784, human_acc: 46.1690, object_acc: 45.9725, lr: 0.003500, time: 8.059 s/iter
+Epoch:53, loss: 1.41457, loss_1: 4.15829, human_acc: 46.0707, object_acc: 45.7760, lr: 0.003500, time: 7.306 s/iter
+Epoch:54, loss: 1.41406, loss_1: 4.15353, human_acc: 45.7760, object_acc: 45.8743, lr: 0.003500, time: 7.883 s/iter
+Epoch:55, loss: 1.41386, loss_1: 4.15121, human_acc: 46.6601, object_acc: 46.1690, lr: 0.003500, time: 8.614 s/iter
+Epoch:56, loss: 1.41386, loss_1: 4.15140, human_acc: 46.7583, object_acc: 45.2849, lr: 0.003500, time: 7.642 s/iter
+Epoch:57, loss: 1.41350, loss_1: 4.14730, human_acc: 46.8566, object_acc: 46.5619, lr: 0.003500, time: 8.121 s/iter
+Epoch:58, loss: 1.41316, loss_1: 4.14398, human_acc: 47.3477, object_acc: 46.3654, lr: 0.003500, time: 8.387 s/iter
+Epoch:59, loss: 1.41385, loss_1: 4.15058, human_acc: 46.4637, object_acc: 45.6778, lr: 0.003500, time: 7.772 s/iter
+Epoch:60, loss: 1.41289, loss_1: 4.14032, human_acc: 47.1513, object_acc: 46.5619, lr: 0.003500, time: 6.856 s/iter
+Epoch:61, loss: 1.41283, loss_1: 4.13975, human_acc: 47.7407, object_acc: 46.6601, lr: 0.003500, time: 7.749 s/iter
+Epoch:62, loss: 1.41290, loss_1: 4.13994, human_acc: 47.1513, object_acc: 46.7583, lr: 0.003500, time: 7.648 s/iter
+Epoch:00, loss: 1.46290, loss_1: 4.78497, human_acc: 22.2986, object_acc: 21.8075, lr: 0.005000, time: 8.374 s/iter
+Epoch:01, loss: 1.46241, loss_1: 4.77973, human_acc: 23.5756, object_acc: 23.5756, lr: 0.005000, time: 7.725 s/iter
+Epoch:02, loss: 1.46191, loss_1: 4.77437, human_acc: 23.5756, object_acc: 23.5756, lr: 0.005000, time: 7.670 s/iter
+Epoch:03, loss: 1.46141, loss_1: 4.76884, human_acc: 23.5756, object_acc: 23.5756, lr: 0.005000, time: 7.985 s/iter
+Epoch:04, loss: 1.46089, loss_1: 4.76315, human_acc: 23.5756, object_acc: 23.5756, lr: 0.005000, time: 8.335 s/iter
+Epoch:05, loss: 1.46035, loss_1: 4.75725, human_acc: 23.5756, object_acc: 23.5756, lr: 0.005000, time: 8.486 s/iter
+Epoch:06, loss: 1.45980, loss_1: 4.75108, human_acc: 23.5756, object_acc: 23.5756, lr: 0.005000, time: 7.687 s/iter
+Epoch:07, loss: 1.45921, loss_1: 4.74456, human_acc: 23.5756, object_acc: 23.5756, lr: 0.005000, time: 7.758 s/iter
+Epoch:08, loss: 1.45858, loss_1: 4.73746, human_acc: 23.5756, object_acc: 23.5756, lr: 0.005000, time: 7.712 s/iter
+Epoch:09, loss: 1.45786, loss_1: 4.72923, human_acc: 23.5756, object_acc: 23.5756, lr: 0.005000, time: 8.112 s/iter
+Epoch:10, loss: 1.45689, loss_1: 4.71817, human_acc: 23.5756, object_acc: 23.5756, lr: 0.005000, time: 7.655 s/iter
+Epoch:11, loss: 1.45507, loss_1: 4.69680, human_acc: 23.5756, object_acc: 23.5756, lr: 0.005000, time: 7.796 s/iter
+Epoch:12, loss: 1.44951, loss_1: 4.62579, human_acc: 29.1749, object_acc: 27.1120, lr: 0.005000, time: 7.573 s/iter
+Epoch:13, loss: 1.43362, loss_1: 4.41172, human_acc: 39.0963, object_acc: 38.0157, lr: 0.005000, time: 8.287 s/iter
+Epoch:14, loss: 1.42116, loss_1: 4.23724, human_acc: 43.0255, object_acc: 42.2397, lr: 0.005000, time: 7.945 s/iter
+Epoch:15, loss: 1.42000, loss_1: 4.22339, human_acc: 43.6149, object_acc: 42.9273, lr: 0.005000, time: 8.429 s/iter
+Epoch:16, loss: 1.41946, loss_1: 4.21613, human_acc: 44.1061, object_acc: 43.4185, lr: 0.005000, time: 8.301 s/iter
+Epoch:17, loss: 1.41911, loss_1: 4.21097, human_acc: 44.4008, object_acc: 44.2043, lr: 0.005000, time: 7.164 s/iter
+Epoch:18, loss: 1.41846, loss_1: 4.20300, human_acc: 44.6955, object_acc: 44.3026, lr: 0.005000, time: 8.023 s/iter
+Epoch:19, loss: 1.41829, loss_1: 4.19986, human_acc: 44.6955, object_acc: 44.4990, lr: 0.005000, time: 8.747 s/iter
+Epoch:20, loss: 1.41791, loss_1: 4.19467, human_acc: 44.9902, object_acc: 44.7937, lr: 0.005000, time: 7.046 s/iter
+Epoch:21, loss: 1.41766, loss_1: 4.19170, human_acc: 45.0884, object_acc: 44.8919, lr: 0.005000, time: 8.426 s/iter
+Epoch:22, loss: 1.41741, loss_1: 4.18797, human_acc: 44.9902, object_acc: 44.8919, lr: 0.005000, time: 8.098 s/iter
+Epoch:23, loss: 1.41739, loss_1: 4.18709, human_acc: 45.2849, object_acc: 44.8919, lr: 0.005000, time: 7.353 s/iter
+Epoch:24, loss: 1.41707, loss_1: 4.18227, human_acc: 45.4813, object_acc: 45.1866, lr: 0.005000, time: 6.874 s/iter
+Epoch:25, loss: 1.41709, loss_1: 4.18319, human_acc: 45.3831, object_acc: 45.0884, lr: 0.005000, time: 7.147 s/iter
+Epoch:26, loss: 1.41670, loss_1: 4.17853, human_acc: 45.3831, object_acc: 45.1866, lr: 0.003500, time: 7.282 s/iter
+Epoch:27, loss: 1.41677, loss_1: 4.17820, human_acc: 45.4813, object_acc: 45.2849, lr: 0.003500, time: 6.610 s/iter
+Epoch:28, loss: 1.41668, loss_1: 4.17703, human_acc: 45.4813, object_acc: 45.1866, lr: 0.003500, time: 6.409 s/iter
+Epoch:29, loss: 1.41654, loss_1: 4.17605, human_acc: 45.5796, object_acc: 45.1866, lr: 0.003500, time: 6.541 s/iter
+Epoch:30, loss: 1.41650, loss_1: 4.17556, human_acc: 45.4813, object_acc: 45.1866, lr: 0.003500, time: 6.543 s/iter
+Epoch:31, loss: 1.41647, loss_1: 4.17582, human_acc: 45.4813, object_acc: 45.3831, lr: 0.003500, time: 6.802 s/iter
+Epoch:32, loss: 1.41625, loss_1: 4.17379, human_acc: 45.7760, object_acc: 45.5796, lr: 0.003500, time: 6.946 s/iter
+Epoch:33, loss: 1.41610, loss_1: 4.17112, human_acc: 45.8743, object_acc: 45.5796, lr: 0.003500, time: 6.291 s/iter
+Epoch:34, loss: 1.41613, loss_1: 4.17195, human_acc: 45.6778, object_acc: 45.6778, lr: 0.003500, time: 7.016 s/iter
+Epoch:35, loss: 1.41588, loss_1: 4.16981, human_acc: 45.8743, object_acc: 45.7760, lr: 0.003500, time: 6.148 s/iter
+Epoch:36, loss: 1.41578, loss_1: 4.16928, human_acc: 45.8743, object_acc: 45.7760, lr: 0.003500, time: 7.042 s/iter
+Epoch:37, loss: 1.41574, loss_1: 4.16873, human_acc: 45.8743, object_acc: 45.6778, lr: 0.003500, time: 7.026 s/iter
+Epoch:38, loss: 1.41570, loss_1: 4.16823, human_acc: 45.3831, object_acc: 45.5796, lr: 0.003500, time: 6.849 s/iter
+Epoch:39, loss: 1.41567, loss_1: 4.16833, human_acc: 45.5796, object_acc: 45.6778, lr: 0.003500, time: 6.814 s/iter
+Epoch:40, loss: 1.41552, loss_1: 4.16661, human_acc: 45.7760, object_acc: 45.7760, lr: 0.003500, time: 7.691 s/iter
+Epoch:41, loss: 1.41560, loss_1: 4.16645, human_acc: 45.7760, object_acc: 45.5796, lr: 0.003500, time: 8.401 s/iter
+Epoch:42, loss: 1.41556, loss_1: 4.16659, human_acc: 45.6778, object_acc: 45.7760, lr: 0.003500, time: 9.057 s/iter
+Epoch:43, loss: 1.41539, loss_1: 4.16577, human_acc: 45.6778, object_acc: 45.5796, lr: 0.003500, time: 8.326 s/iter
+Epoch:44, loss: 1.41537, loss_1: 4.16587, human_acc: 45.7760, object_acc: 45.4813, lr: 0.003500, time: 8.976 s/iter
+Epoch:45, loss: 1.41532, loss_1: 4.16424, human_acc: 45.7760, object_acc: 45.6778, lr: 0.003500, time: 8.428 s/iter
+Epoch:46, loss: 1.41514, loss_1: 4.16370, human_acc: 45.6778, object_acc: 45.5796, lr: 0.003500, time: 9.267 s/iter
+Epoch:47, loss: 1.41514, loss_1: 4.16295, human_acc: 45.9725, object_acc: 45.4813, lr: 0.003500, time: 8.308 s/iter
+Epoch:48, loss: 1.41504, loss_1: 4.16189, human_acc: 46.0707, object_acc: 45.7760, lr: 0.003500, time: 7.794 s/iter
+Epoch:49, loss: 1.41470, loss_1: 4.15885, human_acc: 45.9725, object_acc: 45.6778, lr: 0.003500, time: 7.306 s/iter
+Epoch:50, loss: 1.41501, loss_1: 4.16236, human_acc: 45.2849, object_acc: 45.2849, lr: 0.003500, time: 7.712 s/iter
+Epoch:51, loss: 1.41465, loss_1: 4.15861, human_acc: 46.5619, object_acc: 46.2672, lr: 0.003500, time: 6.314 s/iter
+Epoch:52, loss: 1.41444, loss_1: 4.15647, human_acc: 46.2672, object_acc: 45.9725, lr: 0.003500, time: 8.004 s/iter
+Epoch:53, loss: 1.41460, loss_1: 4.15832, human_acc: 45.7760, object_acc: 45.8743, lr: 0.003500, time: 8.238 s/iter
+Epoch:54, loss: 1.41458, loss_1: 4.15847, human_acc: 45.4813, object_acc: 45.6778, lr: 0.003500, time: 8.035 s/iter
+Epoch:55, loss: 1.41412, loss_1: 4.15348, human_acc: 46.1690, object_acc: 46.2672, lr: 0.003500, time: 7.951 s/iter
+Epoch:56, loss: 1.41407, loss_1: 4.15279, human_acc: 46.2672, object_acc: 46.1690, lr: 0.003500, time: 8.080 s/iter
+Epoch:57, loss: 1.41368, loss_1: 4.14989, human_acc: 46.3654, object_acc: 45.8743, lr: 0.003500, time: 7.124 s/iter
+Epoch:58, loss: 1.41373, loss_1: 4.14992, human_acc: 46.9548, object_acc: 45.9725, lr: 0.003500, time: 6.813 s/iter
+Epoch:59, loss: 1.41365, loss_1: 4.14903, human_acc: 46.6601, object_acc: 45.8743, lr: 0.003500, time: 8.524 s/iter
+Epoch:60, loss: 1.41336, loss_1: 4.14625, human_acc: 46.6601, object_acc: 46.0707, lr: 0.003500, time: 7.933 s/iter
+Epoch:61, loss: 1.41312, loss_1: 4.14277, human_acc: 47.0530, object_acc: 46.3654, lr: 0.003500, time: 7.555 s/iter
+Epoch:62, loss: 1.41283, loss_1: 4.13990, human_acc: 47.3477, object_acc: 46.2672, lr: 0.003500, time: 7.846 s/iter
+Epoch:63, loss: 1.41310, loss_1: 4.14266, human_acc: 46.9548, object_acc: 46.4637, lr: 0.003500, time: 8.338 s/iter
+Epoch:64, loss: 1.41304, loss_1: 4.14209, human_acc: 48.0354, object_acc: 46.6601, lr: 0.003500, time: 6.942 s/iter
+Epoch:65, loss: 1.41263, loss_1: 4.13726, human_acc: 47.3477, object_acc: 46.5619, lr: 0.003500, time: 7.317 s/iter
+Epoch:66, loss: 1.41255, loss_1: 4.13625, human_acc: 47.6424, object_acc: 46.5619, lr: 0.003500, time: 8.092 s/iter
+Epoch:67, loss: 1.41235, loss_1: 4.13372, human_acc: 48.0354, object_acc: 46.8566, lr: 0.003500, time: 8.980 s/iter
+Epoch:68, loss: 1.41221, loss_1: 4.13195, human_acc: 48.1336, object_acc: 47.0530, lr: 0.003500, time: 7.880 s/iter
+Epoch:69, loss: 1.41237, loss_1: 4.13393, human_acc: 47.3477, object_acc: 46.3654, lr: 0.003500, time: 7.512 s/iter
+Epoch:70, loss: 1.41272, loss_1: 4.13755, human_acc: 47.5442, object_acc: 46.5619, lr: 0.003500, time: 7.923 s/iter
+Epoch:71, loss: 1.41224, loss_1: 4.13167, human_acc: 47.9371, object_acc: 46.7583, lr: 0.003500, time: 7.597 s/iter
+Epoch:72, loss: 1.41290, loss_1: 4.13882, human_acc: 47.3477, object_acc: 46.3654, lr: 0.003500, time: 8.406 s/iter
+Epoch:73, loss: 1.41225, loss_1: 4.13186, human_acc: 47.8389, object_acc: 46.5619, lr: 0.003500, time: 7.626 s/iter
+Epoch:74, loss: 1.41260, loss_1: 4.13525, human_acc: 47.3477, object_acc: 45.8743, lr: 0.003500, time: 7.790 s/iter
+Epoch:75, loss: 1.41235, loss_1: 4.13265, human_acc: 47.5442, object_acc: 46.6601, lr: 0.003500, time: 7.531 s/iter
+Epoch:76, loss: 1.41216, loss_1: 4.13089, human_acc: 47.8389, object_acc: 46.3654, lr: 0.003500, time: 8.180 s/iter
+Epoch:77, loss: 1.41178, loss_1: 4.12591, human_acc: 48.2318, object_acc: 46.9548, lr: 0.003500, time: 7.565 s/iter
+Epoch:78, loss: 1.41217, loss_1: 4.13010, human_acc: 47.9371, object_acc: 47.1513, lr: 0.003500, time: 8.268 s/iter
+Epoch:79, loss: 1.41190, loss_1: 4.12712, human_acc: 48.1336, object_acc: 47.1513, lr: 0.003500, time: 7.948 s/iter
+Epoch:80, loss: 1.41192, loss_1: 4.12783, human_acc: 48.2318, object_acc: 46.6601, lr: 0.003500, time: 7.940 s/iter
+Epoch:81, loss: 1.41251, loss_1: 4.13340, human_acc: 48.0354, object_acc: 46.2672, lr: 0.003500, time: 7.127 s/iter
+Epoch:82, loss: 1.41221, loss_1: 4.13018, human_acc: 48.3301, object_acc: 46.8566, lr: 0.003500, time: 6.699 s/iter
+Epoch:83, loss: 1.41200, loss_1: 4.12815, human_acc: 48.0354, object_acc: 47.0530, lr: 0.003500, time: 6.589 s/iter
+Epoch:84, loss: 1.41164, loss_1: 4.12417, human_acc: 48.5265, object_acc: 47.4460, lr: 0.003500, time: 6.506 s/iter
+Epoch:85, loss: 1.41159, loss_1: 4.12347, human_acc: 48.7230, object_acc: 47.3477, lr: 0.003500, time: 6.732 s/iter
+Epoch:86, loss: 1.41130, loss_1: 4.12023, human_acc: 48.9194, object_acc: 47.1513, lr: 0.003500, time: 6.781 s/iter
+Epoch:87, loss: 1.41149, loss_1: 4.12216, human_acc: 47.9371, object_acc: 46.9548, lr: 0.003500, time: 7.330 s/iter
+Epoch:88, loss: 1.41192, loss_1: 4.12649, human_acc: 48.0354, object_acc: 46.6601, lr: 0.003500, time: 6.931 s/iter
+Epoch:89, loss: 1.41218, loss_1: 4.12964, human_acc: 47.5442, object_acc: 46.3654, lr: 0.003500, time: 8.183 s/iter
+Epoch:90, loss: 1.41149, loss_1: 4.12223, human_acc: 48.6248, object_acc: 47.6424, lr: 0.003500, time: 9.018 s/iter
+Epoch:91, loss: 1.41219, loss_1: 4.12967, human_acc: 47.8389, object_acc: 47.2495, lr: 0.003500, time: 10.303 s/iter

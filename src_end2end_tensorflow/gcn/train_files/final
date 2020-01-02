@@ -1,0 +1,20 @@
+Previous experiment:
+
+Testing : 
+Epoch:179, test_human_subactivity_acc: 30.543933, test_object_subactivity_acc: 46.861925, test_combined_subactivity_acc: 37.656904
+
+
+Removing Combined High level activity predicion:
+
+Testing :
+Epoch:662, test_human_subactivity_acc: 33.472803, test_object_subactivity_acc: 61.087866
+
+
+
+Using GPNN input features:
+
+Training Accuracy :
+Epoch:189, human_acc: 99.097065, object_acc: 99.247555
+
+Testing Accuracy:
+Epoch:189, test_human_subactivity_acc: 82.264957, test_object_subactivity_acc: 84.401709

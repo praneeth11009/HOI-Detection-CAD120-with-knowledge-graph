@@ -1,0 +1,1334 @@
+Epoch:00, time=5.336 s/iter, eval_loss=4.78722, test_final_data_len=100, len_val=100, test_human_subactivity_acc: 19.000000, test_object_subactivity_acc: 18.000000
+Epoch:01, time=1.419 s/iter, eval_loss=4.78669, test_final_data_len=100, len_val=100, test_human_subactivity_acc: 19.000000, test_object_subactivity_acc: 18.000000
+Epoch:02, time=1.690 s/iter, eval_loss=4.78615, test_final_data_len=100, len_val=100, test_human_subactivity_acc: 19.000000, test_object_subactivity_acc: 18.000000
+Epoch:03, time=1.681 s/iter, eval_loss=4.78561, test_final_data_len=100, len_val=100, test_human_subactivity_acc: 19.000000, test_object_subactivity_acc: 18.000000
+Epoch:04, time=1.698 s/iter, eval_loss=4.78506, test_final_data_len=100, len_val=100, test_human_subactivity_acc: 19.000000, test_object_subactivity_acc: 18.000000
+Epoch:05, time=1.732 s/iter, eval_loss=4.78451, test_final_data_len=100, len_val=100, test_human_subactivity_acc: 31.000000, test_object_subactivity_acc: 18.000000
+Epoch:06, time=1.856 s/iter, eval_loss=4.78396, test_final_data_len=100, len_val=100, test_human_subactivity_acc: 29.000000, test_object_subactivity_acc: 18.000000
+Epoch:07, time=1.882 s/iter, eval_loss=4.78340, test_final_data_len=100, len_val=100, test_human_subactivity_acc: 29.000000, test_object_subactivity_acc: 25.000000
+Epoch:08, time=1.731 s/iter, eval_loss=4.78284, test_final_data_len=100, len_val=100, test_human_subactivity_acc: 29.000000, test_object_subactivity_acc: 30.000000
+Epoch:09, time=1.667 s/iter, eval_loss=4.78228, test_final_data_len=100, len_val=100, test_human_subactivity_acc: 29.000000, test_object_subactivity_acc: 29.000000
+Epoch:10, time=1.526 s/iter, eval_loss=4.78171, test_final_data_len=100, len_val=100, test_human_subactivity_acc: 29.000000, test_object_subactivity_acc: 29.000000
+Epoch:11, time=1.631 s/iter, eval_loss=4.78114, test_final_data_len=100, len_val=100, test_human_subactivity_acc: 29.000000, test_object_subactivity_acc: 29.000000
+Epoch:12, time=1.785 s/iter, eval_loss=4.78057, test_final_data_len=100, len_val=100, test_human_subactivity_acc: 29.000000, test_object_subactivity_acc: 29.000000
+Epoch:13, time=1.507 s/iter, eval_loss=4.78000, test_final_data_len=100, len_val=100, test_human_subactivity_acc: 29.000000, test_object_subactivity_acc: 29.000000
+Epoch:00, time=2.233 s/iter, eval_loss=4.78697, test_final_data_len=100, len_val=100, test_human_subactivity_acc: 19.000000, test_object_subactivity_acc: 21.000000
+Epoch:01, time=1.393 s/iter, eval_loss=4.78643, test_final_data_len=100, len_val=100, test_human_subactivity_acc: 18.000000, test_object_subactivity_acc: 32.000000
+Epoch:02, time=1.527 s/iter, eval_loss=4.78590, test_final_data_len=100, len_val=100, test_human_subactivity_acc: 18.000000, test_object_subactivity_acc: 29.000000
+Epoch:03, time=1.403 s/iter, eval_loss=4.78535, test_final_data_len=100, len_val=100, test_human_subactivity_acc: 29.000000, test_object_subactivity_acc: 29.000000
+Epoch:04, time=1.352 s/iter, eval_loss=4.78481, test_final_data_len=100, len_val=100, test_human_subactivity_acc: 29.000000, test_object_subactivity_acc: 29.000000
+Epoch:05, time=1.291 s/iter, eval_loss=4.78426, test_final_data_len=100, len_val=100, test_human_subactivity_acc: 29.000000, test_object_subactivity_acc: 29.000000
+Epoch:06, time=1.491 s/iter, eval_loss=4.78371, test_final_data_len=100, len_val=100, test_human_subactivity_acc: 29.000000, test_object_subactivity_acc: 29.000000
+Epoch:07, time=1.608 s/iter, eval_loss=4.78315, test_final_data_len=100, len_val=100, test_human_subactivity_acc: 29.000000, test_object_subactivity_acc: 29.000000
+Epoch:08, time=1.894 s/iter, eval_loss=4.78259, test_final_data_len=100, len_val=100, test_human_subactivity_acc: 29.000000, test_object_subactivity_acc: 29.000000
+Epoch:09, time=1.402 s/iter, eval_loss=4.78203, test_final_data_len=100, len_val=100, test_human_subactivity_acc: 29.000000, test_object_subactivity_acc: 29.000000
+Epoch:10, time=1.763 s/iter, eval_loss=4.78147, test_final_data_len=100, len_val=100, test_human_subactivity_acc: 29.000000, test_object_subactivity_acc: 29.000000
+Epoch:11, time=1.796 s/iter, eval_loss=4.78090, test_final_data_len=100, len_val=100, test_human_subactivity_acc: 29.000000, test_object_subactivity_acc: 29.000000
+Epoch:12, time=1.866 s/iter, eval_loss=4.78032, test_final_data_len=100, len_val=100, test_human_subactivity_acc: 29.000000, test_object_subactivity_acc: 29.000000
+Epoch:00, time=2.028 s/iter, eval_loss=4.78261, test_final_data_len=100, len_val=100, test_human_subactivity_acc: 29.000000, test_object_subactivity_acc: 29.000000
+Epoch:01, time=1.672 s/iter, eval_loss=4.77683, test_final_data_len=100, len_val=100, test_human_subactivity_acc: 29.000000, test_object_subactivity_acc: 29.000000
+Epoch:02, time=1.673 s/iter, eval_loss=4.77061, test_final_data_len=100, len_val=100, test_human_subactivity_acc: 29.000000, test_object_subactivity_acc: 29.000000
+Epoch:03, time=1.484 s/iter, eval_loss=4.76368, test_final_data_len=100, len_val=100, test_human_subactivity_acc: 29.000000, test_object_subactivity_acc: 29.000000
+Epoch:04, time=1.718 s/iter, eval_loss=4.75526, test_final_data_len=100, len_val=100, test_human_subactivity_acc: 29.000000, test_object_subactivity_acc: 29.000000
+Epoch:05, time=1.727 s/iter, eval_loss=4.74185, test_final_data_len=100, len_val=100, test_human_subactivity_acc: 29.000000, test_object_subactivity_acc: 29.000000
+Epoch:06, time=1.787 s/iter, eval_loss=4.66426, test_final_data_len=100, len_val=100, test_human_subactivity_acc: 29.000000, test_object_subactivity_acc: 29.000000
+Epoch:07, time=1.663 s/iter, eval_loss=4.51662, test_final_data_len=100, len_val=100, test_human_subactivity_acc: 29.000000, test_object_subactivity_acc: 29.000000
+Epoch:08, time=1.782 s/iter, eval_loss=4.50738, test_final_data_len=100, len_val=100, test_human_subactivity_acc: 29.000000, test_object_subactivity_acc: 29.000000
+Epoch:09, time=1.843 s/iter, eval_loss=4.38076, test_final_data_len=100, len_val=100, test_human_subactivity_acc: 36.000000, test_object_subactivity_acc: 35.000000
+Epoch:10, time=1.591 s/iter, eval_loss=4.37110, test_final_data_len=100, len_val=100, test_human_subactivity_acc: 36.000000, test_object_subactivity_acc: 35.000000
+Epoch:11, time=1.582 s/iter, eval_loss=4.36918, test_final_data_len=100, len_val=100, test_human_subactivity_acc: 36.000000, test_object_subactivity_acc: 35.000000
+Epoch:12, time=1.739 s/iter, eval_loss=4.36805, test_final_data_len=100, len_val=100, test_human_subactivity_acc: 36.000000, test_object_subactivity_acc: 35.000000
+Epoch:13, time=1.931 s/iter, eval_loss=4.36629, test_final_data_len=100, len_val=100, test_human_subactivity_acc: 36.000000, test_object_subactivity_acc: 35.000000
+Epoch:14, time=1.522 s/iter, eval_loss=4.35480, test_final_data_len=100, len_val=100, test_human_subactivity_acc: 37.000000, test_object_subactivity_acc: 36.000000
+Epoch:15, time=1.346 s/iter, eval_loss=4.35584, test_final_data_len=100, len_val=100, test_human_subactivity_acc: 37.000000, test_object_subactivity_acc: 36.000000
+Epoch:16, time=1.419 s/iter, eval_loss=4.35264, test_final_data_len=100, len_val=100, test_human_subactivity_acc: 37.000000, test_object_subactivity_acc: 36.000000
+Epoch:17, time=1.616 s/iter, eval_loss=4.35069, test_final_data_len=100, len_val=100, test_human_subactivity_acc: 37.000000, test_object_subactivity_acc: 36.000000
+Epoch:18, time=1.728 s/iter, eval_loss=4.35726, test_final_data_len=100, len_val=100, test_human_subactivity_acc: 37.000000, test_object_subactivity_acc: 36.000000
+Epoch:19, time=1.451 s/iter, eval_loss=4.35583, test_final_data_len=100, len_val=100, test_human_subactivity_acc: 37.000000, test_object_subactivity_acc: 36.000000
+Epoch:20, time=1.662 s/iter, eval_loss=4.35548, test_final_data_len=100, len_val=100, test_human_subactivity_acc: 37.000000, test_object_subactivity_acc: 36.000000
+Epoch:21, time=1.318 s/iter, eval_loss=4.35303, test_final_data_len=100, len_val=100, test_human_subactivity_acc: 37.000000, test_object_subactivity_acc: 36.000000
+Epoch:22, time=1.593 s/iter, eval_loss=4.35305, test_final_data_len=100, len_val=100, test_human_subactivity_acc: 37.000000, test_object_subactivity_acc: 36.000000
+Epoch:23, time=1.497 s/iter, eval_loss=4.35293, test_final_data_len=100, len_val=100, test_human_subactivity_acc: 37.000000, test_object_subactivity_acc: 36.000000
+Epoch:24, time=1.708 s/iter, eval_loss=4.35282, test_final_data_len=100, len_val=100, test_human_subactivity_acc: 37.000000, test_object_subactivity_acc: 36.000000
+Epoch:25, time=1.755 s/iter, eval_loss=4.35371, test_final_data_len=100, len_val=100, test_human_subactivity_acc: 37.000000, test_object_subactivity_acc: 36.000000
+Epoch:00, time=7.171 s/iter, eval_loss=4.77315, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:01, time=4.367 s/iter, eval_loss=4.75774, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:02, time=4.261 s/iter, eval_loss=4.74154, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:03, time=4.474 s/iter, eval_loss=4.72481, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:04, time=4.652 s/iter, eval_loss=4.70786, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:05, time=4.452 s/iter, eval_loss=4.69098, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:06, time=4.210 s/iter, eval_loss=4.67450, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:07, time=4.626 s/iter, eval_loss=4.65865, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:08, time=4.260 s/iter, eval_loss=4.64364, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:09, time=5.075 s/iter, eval_loss=4.62959, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:10, time=4.339 s/iter, eval_loss=4.61656, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:11, time=4.047 s/iter, eval_loss=4.60455, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:12, time=3.782 s/iter, eval_loss=4.59354, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:13, time=3.867 s/iter, eval_loss=4.58346, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:14, time=3.686 s/iter, eval_loss=4.57424, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:15, time=3.729 s/iter, eval_loss=4.56584, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:16, time=3.669 s/iter, eval_loss=4.55819, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:17, time=3.707 s/iter, eval_loss=4.55126, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:18, time=3.177 s/iter, eval_loss=4.54502, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:19, time=3.784 s/iter, eval_loss=4.53945, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:20, time=3.746 s/iter, eval_loss=4.53454, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:21, time=3.363 s/iter, eval_loss=4.53026, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:22, time=3.240 s/iter, eval_loss=4.52658, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:23, time=3.620 s/iter, eval_loss=4.52345, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:24, time=3.402 s/iter, eval_loss=4.52082, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:25, time=3.834 s/iter, eval_loss=4.51862, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:26, time=3.228 s/iter, eval_loss=4.51678, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:27, time=3.499 s/iter, eval_loss=4.51525, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:28, time=3.834 s/iter, eval_loss=4.51394, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:29, time=3.558 s/iter, eval_loss=4.51283, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:30, time=3.253 s/iter, eval_loss=4.51186, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:31, time=3.784 s/iter, eval_loss=4.51101, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:32, time=3.638 s/iter, eval_loss=4.51026, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:33, time=3.860 s/iter, eval_loss=4.50958, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:34, time=3.534 s/iter, eval_loss=4.50898, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:35, time=3.337 s/iter, eval_loss=4.50844, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:36, time=3.953 s/iter, eval_loss=4.50796, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:37, time=3.418 s/iter, eval_loss=4.50752, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:38, time=3.416 s/iter, eval_loss=4.50714, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:39, time=3.609 s/iter, eval_loss=4.50679, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:40, time=3.557 s/iter, eval_loss=4.50649, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:41, time=3.804 s/iter, eval_loss=4.50622, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:42, time=3.632 s/iter, eval_loss=4.50599, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:43, time=3.472 s/iter, eval_loss=4.50578, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:44, time=3.823 s/iter, eval_loss=4.50559, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:45, time=3.909 s/iter, eval_loss=4.50543, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:46, time=3.391 s/iter, eval_loss=4.50529, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:47, time=3.318 s/iter, eval_loss=4.50516, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:48, time=3.691 s/iter, eval_loss=4.50504, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:49, time=3.897 s/iter, eval_loss=4.50494, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:50, time=3.530 s/iter, eval_loss=4.50484, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:51, time=3.285 s/iter, eval_loss=4.50475, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:52, time=3.778 s/iter, eval_loss=4.50466, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:53, time=3.531 s/iter, eval_loss=4.50458, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:54, time=3.278 s/iter, eval_loss=4.50450, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:55, time=3.336 s/iter, eval_loss=4.50442, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:56, time=3.397 s/iter, eval_loss=4.50435, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:57, time=3.354 s/iter, eval_loss=4.50428, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:58, time=3.877 s/iter, eval_loss=4.50421, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:59, time=3.939 s/iter, eval_loss=4.50415, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:60, time=4.450 s/iter, eval_loss=4.50409, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:61, time=3.998 s/iter, eval_loss=4.50403, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:62, time=4.752 s/iter, eval_loss=4.50397, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:63, time=4.682 s/iter, eval_loss=4.50392, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:64, time=5.374 s/iter, eval_loss=4.50386, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 31.750000
+Epoch:65, time=4.409 s/iter, eval_loss=4.50382, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 31.750000
+Epoch:66, time=4.437 s/iter, eval_loss=4.50377, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 31.750000
+Epoch:67, time=4.594 s/iter, eval_loss=4.50373, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 31.750000
+Epoch:68, time=4.269 s/iter, eval_loss=4.50368, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 31.750000
+Epoch:69, time=4.630 s/iter, eval_loss=4.50364, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 31.750000
+Epoch:70, time=5.121 s/iter, eval_loss=4.50361, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 31.750000
+Epoch:71, time=5.253 s/iter, eval_loss=4.50357, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 31.750000
+Epoch:72, time=5.268 s/iter, eval_loss=4.50354, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 31.750000
+Epoch:73, time=5.959 s/iter, eval_loss=4.50350, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 31.750000
+Epoch:74, time=5.529 s/iter, eval_loss=4.50347, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 31.750000
+Epoch:75, time=4.898 s/iter, eval_loss=4.50345, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 31.750000
+Epoch:76, time=5.183 s/iter, eval_loss=4.50342, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 31.750000
+Epoch:77, time=5.165 s/iter, eval_loss=4.50339, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 31.750000
+Epoch:78, time=4.119 s/iter, eval_loss=4.50337, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 31.750000
+Epoch:79, time=4.674 s/iter, eval_loss=4.50334, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 31.750000
+Epoch:80, time=4.955 s/iter, eval_loss=4.50332, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 31.750000
+Epoch:81, time=4.484 s/iter, eval_loss=4.50330, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 31.750000
+Epoch:82, time=3.989 s/iter, eval_loss=4.50328, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 31.750000
+Epoch:83, time=4.834 s/iter, eval_loss=4.50326, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 31.750000
+Epoch:84, time=4.331 s/iter, eval_loss=4.50324, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 31.750000
+Epoch:85, time=4.113 s/iter, eval_loss=4.50322, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 31.750000
+Epoch:86, time=4.634 s/iter, eval_loss=4.50320, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 31.750000
+Epoch:87, time=4.444 s/iter, eval_loss=4.50319, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 31.750000
+Epoch:88, time=4.895 s/iter, eval_loss=4.50317, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 31.750000
+Epoch:89, time=3.820 s/iter, eval_loss=4.50316, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 31.750000
+Epoch:90, time=4.715 s/iter, eval_loss=4.50314, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 31.750000
+Epoch:91, time=5.316 s/iter, eval_loss=4.50313, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 31.750000
+Epoch:92, time=4.675 s/iter, eval_loss=4.50311, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 31.750000
+Epoch:93, time=4.082 s/iter, eval_loss=4.50310, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 31.750000
+Epoch:94, time=4.619 s/iter, eval_loss=4.50309, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 31.750000
+Epoch:95, time=4.255 s/iter, eval_loss=4.50307, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 31.750000
+Epoch:96, time=5.280 s/iter, eval_loss=4.50306, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 31.750000
+Epoch:97, time=3.771 s/iter, eval_loss=4.50305, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 31.750000
+Epoch:98, time=4.975 s/iter, eval_loss=4.50304, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 31.750000
+Epoch:99, time=4.936 s/iter, eval_loss=4.50303, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 31.750000
+Epoch:100, time=5.547 s/iter, eval_loss=4.50302, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 31.750000
+Epoch:101, time=5.348 s/iter, eval_loss=4.50301, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 31.750000
+Epoch:102, time=5.749 s/iter, eval_loss=4.50300, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 31.750000
+Epoch:103, time=4.992 s/iter, eval_loss=4.50299, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 31.750000
+Epoch:104, time=5.026 s/iter, eval_loss=4.50298, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 31.750000
+Epoch:105, time=4.178 s/iter, eval_loss=4.50297, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 31.750000
+Epoch:106, time=4.283 s/iter, eval_loss=4.50296, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 31.750000
+Epoch:107, time=3.823 s/iter, eval_loss=4.50295, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 31.750000
+Epoch:108, time=4.322 s/iter, eval_loss=4.50294, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 31.750000
+Epoch:109, time=3.772 s/iter, eval_loss=4.50293, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 31.750000
+Epoch:110, time=4.403 s/iter, eval_loss=4.50293, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 31.750000
+Epoch:111, time=5.000 s/iter, eval_loss=4.50292, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 31.750000
+Epoch:112, time=5.497 s/iter, eval_loss=4.50291, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 31.750000
+Epoch:113, time=5.103 s/iter, eval_loss=4.50290, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 31.750000
+Epoch:114, time=4.593 s/iter, eval_loss=4.50289, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 31.750000
+Epoch:115, time=6.298 s/iter, eval_loss=4.50289, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 31.750000
+Epoch:116, time=4.885 s/iter, eval_loss=4.50288, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 31.750000
+Epoch:117, time=5.441 s/iter, eval_loss=4.50287, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 31.750000
+Epoch:118, time=4.343 s/iter, eval_loss=4.50286, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 31.750000
+Epoch:119, time=3.629 s/iter, eval_loss=4.50286, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 31.750000
+Epoch:120, time=4.813 s/iter, eval_loss=4.50285, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 31.750000
+Epoch:121, time=4.464 s/iter, eval_loss=4.50284, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 31.750000
+Epoch:122, time=5.233 s/iter, eval_loss=4.50283, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 31.750000
+Epoch:123, time=4.923 s/iter, eval_loss=4.50283, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 31.750000
+Epoch:124, time=5.018 s/iter, eval_loss=4.50282, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 31.750000
+Epoch:125, time=5.659 s/iter, eval_loss=4.50281, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 31.750000
+Epoch:126, time=4.099 s/iter, eval_loss=4.50281, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 31.750000
+Epoch:127, time=4.386 s/iter, eval_loss=4.50280, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 31.750000
+Epoch:128, time=4.649 s/iter, eval_loss=4.50279, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 31.750000
+Epoch:129, time=4.302 s/iter, eval_loss=4.50279, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 31.750000
+Epoch:130, time=4.620 s/iter, eval_loss=4.50278, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 31.750000
+Epoch:131, time=5.067 s/iter, eval_loss=4.50278, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 31.750000
+Epoch:132, time=4.245 s/iter, eval_loss=4.50277, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 31.750000
+Epoch:133, time=4.620 s/iter, eval_loss=4.50276, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 31.750000
+Epoch:134, time=5.517 s/iter, eval_loss=4.50276, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 31.750000
+Epoch:135, time=4.277 s/iter, eval_loss=4.50275, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 31.750000
+Epoch:136, time=5.337 s/iter, eval_loss=4.50274, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 31.750000
+Epoch:137, time=4.497 s/iter, eval_loss=4.50274, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 31.750000
+Epoch:138, time=4.766 s/iter, eval_loss=4.50273, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 31.750000
+Epoch:139, time=3.607 s/iter, eval_loss=4.50273, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 31.750000
+Epoch:140, time=4.926 s/iter, eval_loss=4.50272, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 31.750000
+Epoch:141, time=4.590 s/iter, eval_loss=4.50271, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 31.750000
+Epoch:142, time=5.758 s/iter, eval_loss=4.50271, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 31.750000
+Epoch:143, time=5.166 s/iter, eval_loss=4.50270, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 31.750000
+Epoch:144, time=4.130 s/iter, eval_loss=4.50270, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 31.750000
+Epoch:145, time=5.147 s/iter, eval_loss=4.50269, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 31.750000
+Epoch:146, time=4.134 s/iter, eval_loss=4.50268, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 31.750000
+Epoch:147, time=4.870 s/iter, eval_loss=4.50268, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 31.750000
+Epoch:148, time=4.591 s/iter, eval_loss=4.50267, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 31.750000
+Epoch:149, time=4.816 s/iter, eval_loss=4.50267, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 31.750000
+Epoch:150, time=4.472 s/iter, eval_loss=4.50266, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 31.750000
+Epoch:151, time=4.695 s/iter, eval_loss=4.50266, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 31.750000
+Epoch:152, time=4.925 s/iter, eval_loss=4.50265, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 31.750000
+Epoch:00, time=275.055 s/iter, eval_loss=4.77822, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:01, time=40.307 s/iter, eval_loss=4.76928, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:02, time=6.147 s/iter, eval_loss=4.76096, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:03, time=4.024 s/iter, eval_loss=4.75341, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:04, time=3.301 s/iter, eval_loss=4.74673, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:05, time=3.159 s/iter, eval_loss=4.74094, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:06, time=3.423 s/iter, eval_loss=4.73602, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:07, time=3.210 s/iter, eval_loss=4.73192, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:08, time=195.801 s/iter, eval_loss=4.72858, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:09, time=7.571 s/iter, eval_loss=4.72593, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:10, time=6.520 s/iter, eval_loss=4.72389, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:11, time=6.047 s/iter, eval_loss=4.72243, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:12, time=6.297 s/iter, eval_loss=4.72152, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:13, time=7.441 s/iter, eval_loss=4.72121, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:14, time=7.774 s/iter, eval_loss=4.72157, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:15, time=5.813 s/iter, eval_loss=4.72273, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:16, time=6.181 s/iter, eval_loss=4.72480, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:17, time=6.713 s/iter, eval_loss=4.72784, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:18, time=5.740 s/iter, eval_loss=4.73175, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:19, time=6.128 s/iter, eval_loss=4.73634, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:20, time=5.795 s/iter, eval_loss=4.74128, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:21, time=4.289 s/iter, eval_loss=4.74626, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:22, time=4.329 s/iter, eval_loss=4.75102, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:23, time=4.477 s/iter, eval_loss=4.75539, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:24, time=5.192 s/iter, eval_loss=4.75931, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:25, time=4.918 s/iter, eval_loss=4.76275, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:26, time=4.215 s/iter, eval_loss=4.76574, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:27, time=5.123 s/iter, eval_loss=4.76832, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:28, time=6.186 s/iter, eval_loss=4.77055, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:29, time=6.498 s/iter, eval_loss=4.77246, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:30, time=6.989 s/iter, eval_loss=4.77412, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:31, time=6.212 s/iter, eval_loss=4.77555, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:32, time=6.056 s/iter, eval_loss=4.77679, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:33, time=6.602 s/iter, eval_loss=4.77786, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:34, time=6.254 s/iter, eval_loss=4.77880, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:35, time=6.430 s/iter, eval_loss=4.77962, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:36, time=6.845 s/iter, eval_loss=4.78034, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:37, time=7.403 s/iter, eval_loss=4.78097, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:38, time=7.241 s/iter, eval_loss=4.78153, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:39, time=6.398 s/iter, eval_loss=4.78202, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:40, time=6.410 s/iter, eval_loss=4.78246, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:41, time=6.045 s/iter, eval_loss=4.78285, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:42, time=5.405 s/iter, eval_loss=4.78320, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:43, time=5.840 s/iter, eval_loss=4.78351, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:44, time=4.908 s/iter, eval_loss=4.78379, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:45, time=6.004 s/iter, eval_loss=4.78404, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:46, time=6.659 s/iter, eval_loss=4.78427, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:47, time=6.805 s/iter, eval_loss=4.78448, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:48, time=6.316 s/iter, eval_loss=4.78466, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:49, time=7.422 s/iter, eval_loss=4.78483, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:50, time=7.174 s/iter, eval_loss=4.78499, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:51, time=5.820 s/iter, eval_loss=4.78513, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:52, time=5.267 s/iter, eval_loss=4.78526, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:53, time=5.832 s/iter, eval_loss=4.78538, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:54, time=7.176 s/iter, eval_loss=4.78549, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:55, time=6.546 s/iter, eval_loss=4.78559, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:56, time=6.879 s/iter, eval_loss=4.78569, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:57, time=5.905 s/iter, eval_loss=4.78578, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:58, time=5.636 s/iter, eval_loss=4.78586, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:59, time=5.667 s/iter, eval_loss=4.78593, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:60, time=5.886 s/iter, eval_loss=4.78600, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:61, time=6.099 s/iter, eval_loss=4.78607, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:62, time=5.820 s/iter, eval_loss=4.78613, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:63, time=6.586 s/iter, eval_loss=4.78618, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:64, time=5.637 s/iter, eval_loss=4.78624, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:65, time=5.750 s/iter, eval_loss=4.78629, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:66, time=6.372 s/iter, eval_loss=4.78633, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:67, time=4.936 s/iter, eval_loss=4.78638, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:68, time=6.888 s/iter, eval_loss=4.78642, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:69, time=6.565 s/iter, eval_loss=4.78646, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:70, time=6.385 s/iter, eval_loss=4.78649, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:71, time=5.714 s/iter, eval_loss=4.78653, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:72, time=6.398 s/iter, eval_loss=4.78656, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:73, time=4.799 s/iter, eval_loss=4.78659, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:74, time=6.657 s/iter, eval_loss=4.78662, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:75, time=6.053 s/iter, eval_loss=4.78665, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:76, time=5.531 s/iter, eval_loss=4.78668, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:77, time=6.367 s/iter, eval_loss=4.78670, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:78, time=6.418 s/iter, eval_loss=4.78673, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:79, time=5.851 s/iter, eval_loss=4.78675, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:80, time=6.893 s/iter, eval_loss=4.78677, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:81, time=5.810 s/iter, eval_loss=4.78679, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:82, time=6.224 s/iter, eval_loss=4.78681, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:83, time=5.131 s/iter, eval_loss=4.78683, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:84, time=7.063 s/iter, eval_loss=4.78685, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:85, time=5.969 s/iter, eval_loss=4.78687, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:86, time=5.774 s/iter, eval_loss=4.78688, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:87, time=5.859 s/iter, eval_loss=4.78690, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:88, time=6.843 s/iter, eval_loss=4.78691, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:00, time=9.999 s/iter, eval_loss=4.77822, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:01, time=5.709 s/iter, eval_loss=4.76928, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:02, time=5.893 s/iter, eval_loss=4.76096, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:03, time=4.564 s/iter, eval_loss=4.75342, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:04, time=4.247 s/iter, eval_loss=4.74673, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:05, time=4.404 s/iter, eval_loss=4.74094, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:06, time=4.060 s/iter, eval_loss=4.73602, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:07, time=3.186 s/iter, eval_loss=4.73193, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:08, time=4.664 s/iter, eval_loss=4.72859, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:09, time=5.452 s/iter, eval_loss=4.72593, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:10, time=4.986 s/iter, eval_loss=4.72389, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:11, time=4.324 s/iter, eval_loss=4.72243, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:12, time=4.486 s/iter, eval_loss=4.72153, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:13, time=6.398 s/iter, eval_loss=4.72125, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:14, time=6.033 s/iter, eval_loss=4.72166, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:15, time=6.772 s/iter, eval_loss=4.72291, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:16, time=6.543 s/iter, eval_loss=4.72509, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:17, time=6.731 s/iter, eval_loss=4.72826, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:18, time=7.192 s/iter, eval_loss=4.73230, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:19, time=6.904 s/iter, eval_loss=4.73700, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:20, time=7.082 s/iter, eval_loss=4.74201, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:21, time=32.402 s/iter, eval_loss=4.74701, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:22, time=64.376 s/iter, eval_loss=4.75176, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:23, time=8.884 s/iter, eval_loss=4.75611, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:24, time=9.750 s/iter, eval_loss=4.75998, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:25, time=159.404 s/iter, eval_loss=4.76337, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:26, time=3.934 s/iter, eval_loss=4.76631, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:27, time=3.234 s/iter, eval_loss=4.76884, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:28, time=4.842 s/iter, eval_loss=4.77103, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:29, time=6.419 s/iter, eval_loss=4.77291, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:30, time=4.090 s/iter, eval_loss=4.77453, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:31, time=2.606 s/iter, eval_loss=4.77592, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:00, time=14.834 s/iter, eval_loss=1.82843, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:01, time=4.095 s/iter, eval_loss=1.80107, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:02, time=3.911 s/iter, eval_loss=1.77494, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:03, time=3.911 s/iter, eval_loss=1.75022, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:04, time=4.556 s/iter, eval_loss=1.72700, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:05, time=4.239 s/iter, eval_loss=1.70530, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:06, time=3.973 s/iter, eval_loss=1.68508, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:07, time=4.075 s/iter, eval_loss=1.66622, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:08, time=4.496 s/iter, eval_loss=1.64857, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:09, time=4.834 s/iter, eval_loss=1.63193, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:10, time=4.784 s/iter, eval_loss=1.61603, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:11, time=5.565 s/iter, eval_loss=1.60061, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:12, time=4.801 s/iter, eval_loss=1.58534, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:13, time=57.832 s/iter, eval_loss=1.56997, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:14, time=5.991 s/iter, eval_loss=1.55426, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:15, time=5.349 s/iter, eval_loss=1.53815, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:16, time=8.062 s/iter, eval_loss=1.52178, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:17, time=6.342 s/iter, eval_loss=1.50547, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:18, time=8.340 s/iter, eval_loss=1.48973, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:19, time=3.570 s/iter, eval_loss=1.47507, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:20, time=3.330 s/iter, eval_loss=1.46188, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:21, time=12.190 s/iter, eval_loss=1.45037, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:22, time=4.394 s/iter, eval_loss=1.44057, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:23, time=4.706 s/iter, eval_loss=1.43234, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:24, time=12.256 s/iter, eval_loss=1.42551, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:25, time=3.697 s/iter, eval_loss=1.41984, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:26, time=3.689 s/iter, eval_loss=1.41514, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:27, time=6.944 s/iter, eval_loss=1.41124, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:28, time=5.471 s/iter, eval_loss=1.40798, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:29, time=3.647 s/iter, eval_loss=1.40525, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:30, time=7.873 s/iter, eval_loss=1.40295, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:31, time=9.700 s/iter, eval_loss=1.40099, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:32, time=58.074 s/iter, eval_loss=1.39933, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:33, time=4.474 s/iter, eval_loss=1.39791, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:34, time=4.454 s/iter, eval_loss=1.39669, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:35, time=5.332 s/iter, eval_loss=1.39564, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:36, time=5.487 s/iter, eval_loss=1.39472, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:37, time=35.291 s/iter, eval_loss=1.39393, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:38, time=3.808 s/iter, eval_loss=1.39323, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:39, time=3.705 s/iter, eval_loss=1.39262, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:40, time=3.266 s/iter, eval_loss=1.39209, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:41, time=3.193 s/iter, eval_loss=1.39161, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:42, time=3.195 s/iter, eval_loss=1.39119, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:43, time=3.327 s/iter, eval_loss=1.39082, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:44, time=4.261 s/iter, eval_loss=1.39048, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:45, time=4.009 s/iter, eval_loss=1.39018, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:46, time=4.157 s/iter, eval_loss=1.38992, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:47, time=4.906 s/iter, eval_loss=1.38967, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:48, time=4.510 s/iter, eval_loss=1.38945, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:49, time=4.963 s/iter, eval_loss=1.38926, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:50, time=4.842 s/iter, eval_loss=1.38908, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:51, time=38.095 s/iter, eval_loss=1.38891, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:52, time=3.422 s/iter, eval_loss=1.38876, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:53, time=3.648 s/iter, eval_loss=1.38862, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:54, time=3.978 s/iter, eval_loss=1.38850, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:55, time=6.089 s/iter, eval_loss=1.38838, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:56, time=38.533 s/iter, eval_loss=1.38828, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:57, time=3.060 s/iter, eval_loss=1.38818, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:58, time=3.195 s/iter, eval_loss=1.38809, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:59, time=3.490 s/iter, eval_loss=1.38800, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:60, time=3.298 s/iter, eval_loss=1.38792, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:61, time=2.970 s/iter, eval_loss=1.38785, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:00, time=9.683 s/iter, eval_loss=0.56109, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 19.750000
+Epoch:01, time=3.264 s/iter, eval_loss=0.50412, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 19.750000
+Epoch:02, time=3.454 s/iter, eval_loss=0.50170, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 19.750000
+Epoch:03, time=3.651 s/iter, eval_loss=0.50140, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 19.750000
+Epoch:04, time=3.339 s/iter, eval_loss=0.50128, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 19.750000
+Epoch:05, time=3.288 s/iter, eval_loss=0.50119, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 19.750000
+Epoch:06, time=3.930 s/iter, eval_loss=0.50112, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 19.750000
+Epoch:07, time=4.992 s/iter, eval_loss=0.50106, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 19.750000
+Epoch:08, time=5.448 s/iter, eval_loss=0.50100, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 19.750000
+Epoch:09, time=5.322 s/iter, eval_loss=0.50095, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 19.750000
+Epoch:10, time=5.112 s/iter, eval_loss=0.50090, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 19.750000
+Epoch:11, time=5.139 s/iter, eval_loss=0.50086, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 19.750000
+Epoch:12, time=4.973 s/iter, eval_loss=0.50082, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 19.750000
+Epoch:13, time=5.119 s/iter, eval_loss=0.50078, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 19.750000
+Epoch:14, time=5.005 s/iter, eval_loss=0.50075, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 19.750000
+Epoch:15, time=12.851 s/iter, eval_loss=0.50072, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 19.750000
+Epoch:16, time=113.886 s/iter, eval_loss=0.50069, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 19.750000
+Epoch:17, time=38.152 s/iter, eval_loss=0.50067, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 19.750000
+Epoch:18, time=3.197 s/iter, eval_loss=0.50064, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 19.750000
+Epoch:19, time=4.468 s/iter, eval_loss=0.50062, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 19.750000
+Epoch:20, time=3.272 s/iter, eval_loss=0.50060, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 19.750000
+Epoch:21, time=3.284 s/iter, eval_loss=0.50057, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 19.750000
+Epoch:22, time=3.044 s/iter, eval_loss=0.50055, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 19.750000
+Epoch:23, time=3.617 s/iter, eval_loss=0.50054, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 19.750000
+Epoch:24, time=3.347 s/iter, eval_loss=0.50052, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 19.750000
+Epoch:25, time=3.013 s/iter, eval_loss=0.50050, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 19.750000
+Epoch:26, time=3.074 s/iter, eval_loss=0.50049, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 19.750000
+Epoch:27, time=3.159 s/iter, eval_loss=0.50047, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 19.750000
+Epoch:28, time=3.074 s/iter, eval_loss=0.50045, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 19.750000
+Epoch:29, time=3.339 s/iter, eval_loss=0.50044, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 19.750000
+Epoch:30, time=3.330 s/iter, eval_loss=0.50043, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 19.750000
+Epoch:31, time=3.382 s/iter, eval_loss=0.50041, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 19.750000
+Epoch:32, time=3.232 s/iter, eval_loss=0.50040, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 19.750000
+Epoch:33, time=2.983 s/iter, eval_loss=0.50039, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 19.750000
+Epoch:34, time=3.219 s/iter, eval_loss=0.50038, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 19.750000
+Epoch:35, time=3.231 s/iter, eval_loss=0.50037, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 19.750000
+Epoch:36, time=3.438 s/iter, eval_loss=0.50036, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 19.750000
+Epoch:37, time=3.219 s/iter, eval_loss=0.50034, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 19.750000
+Epoch:38, time=3.181 s/iter, eval_loss=0.50033, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 19.750000
+Epoch:39, time=3.122 s/iter, eval_loss=0.50032, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 19.750000
+Epoch:40, time=3.688 s/iter, eval_loss=0.50031, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 19.750000
+Epoch:41, time=94.035 s/iter, eval_loss=0.50030, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 19.750000
+Epoch:42, time=3.975 s/iter, eval_loss=0.50030, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 19.750000
+Epoch:43, time=4.080 s/iter, eval_loss=0.50029, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 19.750000
+Epoch:44, time=3.233 s/iter, eval_loss=0.50028, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 19.750000
+Epoch:45, time=3.184 s/iter, eval_loss=0.50027, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 19.750000
+Epoch:46, time=2.887 s/iter, eval_loss=0.50026, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 19.750000
+Epoch:47, time=2.618 s/iter, eval_loss=0.50025, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 19.750000
+Epoch:48, time=3.173 s/iter, eval_loss=0.50024, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 19.750000
+Epoch:49, time=3.154 s/iter, eval_loss=0.50024, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 19.750000
+Epoch:50, time=3.080 s/iter, eval_loss=0.50023, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 19.750000
+Epoch:51, time=3.283 s/iter, eval_loss=0.50022, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 19.750000
+Epoch:52, time=3.524 s/iter, eval_loss=0.50021, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 19.750000
+Epoch:53, time=3.120 s/iter, eval_loss=0.50020, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 19.750000
+Epoch:54, time=2.933 s/iter, eval_loss=0.50020, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 19.750000
+Epoch:55, time=13.494 s/iter, eval_loss=0.50019, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 19.750000
+Epoch:00, time=7.465 s/iter, eval_loss=1.15849, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:01, time=5.227 s/iter, eval_loss=1.00134, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:02, time=4.669 s/iter, eval_loss=0.89085, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:03, time=4.437 s/iter, eval_loss=0.80932, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:04, time=4.683 s/iter, eval_loss=0.74497, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:05, time=4.541 s/iter, eval_loss=0.69034, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:06, time=4.918 s/iter, eval_loss=0.64224, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:07, time=4.371 s/iter, eval_loss=0.60142, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:08, time=4.858 s/iter, eval_loss=0.56980, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:09, time=4.818 s/iter, eval_loss=0.54742, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:10, time=4.627 s/iter, eval_loss=0.53237, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:11, time=4.253 s/iter, eval_loss=0.52236, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:12, time=4.599 s/iter, eval_loss=0.51563, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 31.750000
+Epoch:13, time=4.662 s/iter, eval_loss=0.51103, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 31.750000
+Epoch:14, time=4.472 s/iter, eval_loss=0.50784, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 31.750000
+Epoch:15, time=4.528 s/iter, eval_loss=0.50560, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 31.750000
+Epoch:16, time=5.459 s/iter, eval_loss=0.50400, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 31.750000
+Epoch:17, time=4.898 s/iter, eval_loss=0.50286, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 31.750000
+Epoch:18, time=4.421 s/iter, eval_loss=0.50203, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 31.750000
+Epoch:19, time=4.605 s/iter, eval_loss=0.50142, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 31.750000
+Epoch:20, time=4.358 s/iter, eval_loss=0.50096, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 31.750000
+Epoch:21, time=3.982 s/iter, eval_loss=0.50062, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 31.750000
+Epoch:22, time=4.982 s/iter, eval_loss=0.50036, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 31.750000
+Epoch:23, time=4.276 s/iter, eval_loss=0.50016, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 31.750000
+Epoch:24, time=5.334 s/iter, eval_loss=0.50000, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 31.750000
+Epoch:25, time=4.898 s/iter, eval_loss=0.49988, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 31.750000
+Epoch:26, time=5.335 s/iter, eval_loss=0.49978, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 31.750000
+Epoch:27, time=4.360 s/iter, eval_loss=0.49970, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 31.750000
+Epoch:28, time=4.354 s/iter, eval_loss=0.49964, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 31.750000
+Epoch:29, time=3.901 s/iter, eval_loss=0.49959, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 31.750000
+Epoch:30, time=3.527 s/iter, eval_loss=0.49954, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 31.750000
+Epoch:31, time=3.876 s/iter, eval_loss=0.49951, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 31.750000
+Epoch:00, time=4.570 s/iter, eval_loss=3.96007, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 19.750000
+Epoch:01, time=4.109 s/iter, eval_loss=3.77430, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 19.750000
+Epoch:02, time=4.271 s/iter, eval_loss=3.71740, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 19.750000
+Epoch:03, time=4.329 s/iter, eval_loss=3.69523, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 19.750000
+Epoch:04, time=3.644 s/iter, eval_loss=3.68524, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 19.750000
+Epoch:05, time=3.174 s/iter, eval_loss=3.68029, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 19.750000
+Epoch:06, time=3.189 s/iter, eval_loss=3.67766, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 19.750000
+Epoch:07, time=3.699 s/iter, eval_loss=3.67616, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 19.750000
+Epoch:08, time=3.664 s/iter, eval_loss=3.67525, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 19.750000
+Epoch:09, time=3.722 s/iter, eval_loss=3.67466, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 19.750000
+Epoch:10, time=3.523 s/iter, eval_loss=3.67424, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 19.750000
+Epoch:11, time=2.907 s/iter, eval_loss=3.67392, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 19.750000
+Epoch:12, time=2.946 s/iter, eval_loss=3.67367, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 19.750000
+Epoch:13, time=2.798 s/iter, eval_loss=3.67346, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 19.750000
+Epoch:14, time=2.149 s/iter, eval_loss=3.67327, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 19.750000
+Epoch:15, time=2.839 s/iter, eval_loss=3.67310, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 19.750000
+Epoch:16, time=2.815 s/iter, eval_loss=3.67295, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 19.750000
+Epoch:17, time=2.648 s/iter, eval_loss=3.67281, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 19.750000
+Epoch:18, time=3.031 s/iter, eval_loss=3.67267, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 19.750000
+Epoch:19, time=2.283 s/iter, eval_loss=3.67255, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 19.750000
+Epoch:20, time=2.916 s/iter, eval_loss=3.67243, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 19.750000
+Epoch:21, time=2.854 s/iter, eval_loss=3.67232, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 19.750000
+Epoch:22, time=2.591 s/iter, eval_loss=3.67221, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 19.750000
+Epoch:23, time=2.349 s/iter, eval_loss=3.67211, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 19.750000
+Epoch:00, time=3.145 s/iter, eval_loss=3.73345, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 19.750000
+Epoch:01, time=2.963 s/iter, eval_loss=3.73044, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 19.750000
+Epoch:02, time=2.915 s/iter, eval_loss=3.72940, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 19.750000
+Epoch:03, time=2.791 s/iter, eval_loss=3.72897, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 19.750000
+Epoch:04, time=2.163 s/iter, eval_loss=3.72878, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 19.750000
+Epoch:05, time=2.334 s/iter, eval_loss=3.72859, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 19.750000
+Epoch:06, time=2.511 s/iter, eval_loss=3.72834, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 19.750000
+Epoch:07, time=3.025 s/iter, eval_loss=3.72810, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 19.750000
+Epoch:08, time=2.902 s/iter, eval_loss=3.72796, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 19.750000
+Epoch:09, time=2.801 s/iter, eval_loss=3.72789, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 19.750000
+Epoch:10, time=2.808 s/iter, eval_loss=3.72785, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 19.750000
+Epoch:11, time=2.733 s/iter, eval_loss=3.72778, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 19.750000
+Epoch:12, time=3.171 s/iter, eval_loss=3.72770, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 19.750000
+Epoch:13, time=2.541 s/iter, eval_loss=3.72764, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 19.750000
+Epoch:14, time=3.075 s/iter, eval_loss=3.72759, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 19.750000
+Epoch:15, time=3.156 s/iter, eval_loss=3.72757, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 19.750000
+Epoch:16, time=2.109 s/iter, eval_loss=3.72754, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 19.750000
+Epoch:17, time=3.161 s/iter, eval_loss=3.72750, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 19.750000
+Epoch:18, time=3.210 s/iter, eval_loss=3.72747, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 19.750000
+Epoch:19, time=2.880 s/iter, eval_loss=3.72744, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 19.750000
+Epoch:20, time=2.971 s/iter, eval_loss=3.72742, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 19.750000
+Epoch:21, time=2.984 s/iter, eval_loss=3.72740, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 19.750000
+Epoch:22, time=4.097 s/iter, eval_loss=3.72738, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 19.750000
+Epoch:23, time=3.912 s/iter, eval_loss=3.72737, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 19.750000
+Epoch:24, time=3.992 s/iter, eval_loss=3.72735, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 19.750000
+Epoch:25, time=3.334 s/iter, eval_loss=3.72733, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 19.750000
+Epoch:26, time=2.884 s/iter, eval_loss=3.72732, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 19.750000
+Epoch:27, time=3.900 s/iter, eval_loss=3.72731, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 19.750000
+Epoch:28, time=3.964 s/iter, eval_loss=3.72729, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 19.750000
+Epoch:29, time=3.230 s/iter, eval_loss=3.72728, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 19.750000
+Epoch:30, time=2.866 s/iter, eval_loss=3.72727, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 19.750000
+Epoch:31, time=3.167 s/iter, eval_loss=3.72726, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 19.750000
+Epoch:32, time=3.249 s/iter, eval_loss=3.72725, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 19.750000
+Epoch:33, time=2.478 s/iter, eval_loss=3.72725, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 19.750000
+Epoch:34, time=2.974 s/iter, eval_loss=3.72724, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 19.750000
+Epoch:35, time=3.532 s/iter, eval_loss=3.72723, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 19.750000
+Epoch:36, time=3.198 s/iter, eval_loss=3.72722, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 19.750000
+Epoch:37, time=3.185 s/iter, eval_loss=3.72721, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 19.750000
+Epoch:38, time=2.786 s/iter, eval_loss=3.72721, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 19.750000
+Epoch:39, time=2.986 s/iter, eval_loss=3.72720, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 19.750000
+Epoch:40, time=3.855 s/iter, eval_loss=3.72720, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 19.750000
+Epoch:41, time=3.575 s/iter, eval_loss=3.72719, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 19.750000
+Epoch:42, time=3.559 s/iter, eval_loss=3.72719, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 19.750000
+Epoch:43, time=3.752 s/iter, eval_loss=3.72718, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 19.750000
+Epoch:44, time=3.183 s/iter, eval_loss=3.72718, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 19.750000
+Epoch:45, time=3.737 s/iter, eval_loss=3.72717, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 19.750000
+Epoch:46, time=2.654 s/iter, eval_loss=3.72717, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 19.750000
+Epoch:47, time=2.486 s/iter, eval_loss=3.72716, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 19.750000
+Epoch:48, time=3.078 s/iter, eval_loss=3.72716, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 19.750000
+Epoch:49, time=3.597 s/iter, eval_loss=3.72715, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 19.750000
+Epoch:50, time=3.397 s/iter, eval_loss=3.72715, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 19.750000
+Epoch:51, time=3.222 s/iter, eval_loss=3.72715, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 19.750000
+Epoch:52, time=3.288 s/iter, eval_loss=3.72714, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 19.750000
+Epoch:53, time=3.036 s/iter, eval_loss=3.72714, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 19.750000
+Epoch:54, time=3.744 s/iter, eval_loss=3.72714, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 19.750000
+Epoch:55, time=3.069 s/iter, eval_loss=3.72713, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 19.750000
+Epoch:56, time=3.385 s/iter, eval_loss=3.72713, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 19.750000
+Epoch:57, time=3.185 s/iter, eval_loss=3.72713, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 19.750000
+Epoch:58, time=3.079 s/iter, eval_loss=3.72712, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 19.750000
+Epoch:59, time=2.732 s/iter, eval_loss=3.72712, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 19.750000
+Epoch:60, time=3.563 s/iter, eval_loss=3.72712, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 19.750000
+Epoch:61, time=3.094 s/iter, eval_loss=3.72712, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 19.750000
+Epoch:62, time=3.003 s/iter, eval_loss=3.72711, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 19.750000
+Epoch:63, time=2.947 s/iter, eval_loss=3.72711, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 19.750000
+Epoch:64, time=3.064 s/iter, eval_loss=3.72711, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 19.750000
+Epoch:65, time=3.409 s/iter, eval_loss=3.72711, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 19.750000
+Epoch:66, time=3.425 s/iter, eval_loss=3.72710, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 19.750000
+Epoch:67, time=3.275 s/iter, eval_loss=3.72710, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 19.750000
+Epoch:68, time=3.252 s/iter, eval_loss=3.72710, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 19.750000
+Epoch:69, time=3.869 s/iter, eval_loss=3.72710, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 19.750000
+Epoch:70, time=3.004 s/iter, eval_loss=3.72710, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 19.750000
+Epoch:71, time=2.764 s/iter, eval_loss=3.72709, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 19.750000
+Epoch:72, time=2.988 s/iter, eval_loss=3.72709, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 19.750000
+Epoch:73, time=2.985 s/iter, eval_loss=3.72709, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 19.750000
+Epoch:74, time=3.394 s/iter, eval_loss=3.72709, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 19.750000
+Epoch:75, time=3.414 s/iter, eval_loss=3.72709, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 19.750000
+Epoch:76, time=3.335 s/iter, eval_loss=3.72709, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 19.750000
+Epoch:77, time=3.173 s/iter, eval_loss=3.72708, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 19.750000
+Epoch:78, time=3.707 s/iter, eval_loss=3.72708, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 19.750000
+Epoch:79, time=3.256 s/iter, eval_loss=3.72708, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 19.750000
+Epoch:80, time=2.715 s/iter, eval_loss=3.72708, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 19.750000
+Epoch:81, time=3.431 s/iter, eval_loss=3.72708, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 19.750000
+Epoch:82, time=2.369 s/iter, eval_loss=3.72708, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 19.750000
+Epoch:83, time=2.448 s/iter, eval_loss=3.72708, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 19.750000
+Epoch:00, time=3.486 s/iter, eval_loss=4.63222, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:01, time=2.820 s/iter, eval_loss=4.54663, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:02, time=3.506 s/iter, eval_loss=4.52479, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 19.750000
+Epoch:03, time=3.102 s/iter, eval_loss=4.52044, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 19.750000
+Epoch:04, time=3.332 s/iter, eval_loss=4.51835, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 19.750000
+Epoch:05, time=3.972 s/iter, eval_loss=4.51709, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 19.750000
+Epoch:06, time=3.793 s/iter, eval_loss=4.51608, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 19.750000
+Epoch:07, time=2.726 s/iter, eval_loss=4.51523, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 19.750000
+Epoch:08, time=3.216 s/iter, eval_loss=4.51453, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 19.750000
+Epoch:09, time=3.250 s/iter, eval_loss=4.51393, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 19.750000
+Epoch:10, time=3.432 s/iter, eval_loss=4.51343, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 19.750000
+Epoch:11, time=3.355 s/iter, eval_loss=4.51300, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 19.750000
+Epoch:12, time=3.015 s/iter, eval_loss=4.51262, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 19.750000
+Epoch:13, time=3.011 s/iter, eval_loss=4.51229, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 19.750000
+Epoch:14, time=3.013 s/iter, eval_loss=4.51199, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 19.750000
+Epoch:00, time=3.221 s/iter, eval_loss=4.77315, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:01, time=3.730 s/iter, eval_loss=4.75774, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:02, time=3.691 s/iter, eval_loss=4.74154, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:03, time=2.727 s/iter, eval_loss=4.72481, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:04, time=2.959 s/iter, eval_loss=4.70786, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:05, time=3.477 s/iter, eval_loss=4.69099, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:06, time=2.981 s/iter, eval_loss=4.67450, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:07, time=3.227 s/iter, eval_loss=4.65865, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:08, time=2.929 s/iter, eval_loss=4.64365, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:09, time=3.161 s/iter, eval_loss=4.62960, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:10, time=3.342 s/iter, eval_loss=4.61657, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:11, time=2.884 s/iter, eval_loss=4.60457, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:12, time=3.149 s/iter, eval_loss=4.59355, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:13, time=2.275 s/iter, eval_loss=4.58348, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:14, time=2.588 s/iter, eval_loss=4.57427, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:15, time=2.770 s/iter, eval_loss=4.56587, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:16, time=3.007 s/iter, eval_loss=4.55823, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:17, time=2.454 s/iter, eval_loss=4.55130, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:18, time=3.457 s/iter, eval_loss=4.54506, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:19, time=2.871 s/iter, eval_loss=4.53949, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:20, time=2.763 s/iter, eval_loss=4.53458, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:21, time=2.664 s/iter, eval_loss=4.53030, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:22, time=3.043 s/iter, eval_loss=4.52661, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:23, time=3.103 s/iter, eval_loss=4.52348, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:24, time=2.405 s/iter, eval_loss=4.52084, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:25, time=2.924 s/iter, eval_loss=4.51864, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:26, time=2.580 s/iter, eval_loss=4.51680, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:27, time=2.718 s/iter, eval_loss=4.51526, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:28, time=2.858 s/iter, eval_loss=4.51395, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:29, time=3.251 s/iter, eval_loss=4.51284, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:30, time=3.066 s/iter, eval_loss=4.51187, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:31, time=2.900 s/iter, eval_loss=4.51102, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:32, time=2.838 s/iter, eval_loss=4.51027, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:33, time=2.613 s/iter, eval_loss=4.50959, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:34, time=2.863 s/iter, eval_loss=4.50899, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:35, time=2.327 s/iter, eval_loss=4.50845, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:36, time=2.529 s/iter, eval_loss=4.50796, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:37, time=2.888 s/iter, eval_loss=4.50753, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:38, time=2.773 s/iter, eval_loss=4.50714, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:39, time=3.134 s/iter, eval_loss=4.50680, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:40, time=2.505 s/iter, eval_loss=4.50649, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:41, time=2.851 s/iter, eval_loss=4.50622, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:42, time=2.658 s/iter, eval_loss=4.50598, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:43, time=3.057 s/iter, eval_loss=4.50578, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:44, time=2.778 s/iter, eval_loss=4.50559, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:45, time=2.687 s/iter, eval_loss=4.50543, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:46, time=2.709 s/iter, eval_loss=4.50528, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:47, time=3.000 s/iter, eval_loss=4.50515, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:48, time=2.897 s/iter, eval_loss=4.50504, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:49, time=2.630 s/iter, eval_loss=4.50493, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:50, time=2.448 s/iter, eval_loss=4.50483, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:51, time=2.940 s/iter, eval_loss=4.50474, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:52, time=2.941 s/iter, eval_loss=4.50465, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:53, time=2.844 s/iter, eval_loss=4.50457, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:54, time=2.652 s/iter, eval_loss=4.50449, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:55, time=3.109 s/iter, eval_loss=4.50442, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:56, time=2.886 s/iter, eval_loss=4.50435, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:57, time=3.162 s/iter, eval_loss=4.50428, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:58, time=3.065 s/iter, eval_loss=4.50421, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:59, time=2.719 s/iter, eval_loss=4.50414, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:60, time=3.039 s/iter, eval_loss=4.50408, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:61, time=2.886 s/iter, eval_loss=4.50402, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:62, time=2.950 s/iter, eval_loss=4.50397, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 31.750000, test_object_subactivity_acc: 31.750000
+Epoch:63, time=2.915 s/iter, eval_loss=4.50391, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 31.750000
+Epoch:64, time=2.766 s/iter, eval_loss=4.50386, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 31.750000
+Epoch:65, time=2.886 s/iter, eval_loss=4.50381, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 31.750000
+Epoch:66, time=2.620 s/iter, eval_loss=4.50377, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 31.750000
+Epoch:67, time=2.609 s/iter, eval_loss=4.50372, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 31.750000
+Epoch:68, time=2.343 s/iter, eval_loss=4.50368, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 31.750000
+Epoch:69, time=2.530 s/iter, eval_loss=4.50364, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 31.750000
+Epoch:70, time=2.850 s/iter, eval_loss=4.50360, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 31.750000
+Epoch:71, time=3.241 s/iter, eval_loss=4.50357, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 31.750000
+Epoch:72, time=3.062 s/iter, eval_loss=4.50354, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 31.750000
+Epoch:73, time=2.997 s/iter, eval_loss=4.50350, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 31.750000
+Epoch:74, time=2.984 s/iter, eval_loss=4.50347, test_final_data_len=400, len_val=400, test_human_subactivity_acc: 20.000000, test_object_subactivity_acc: 31.750000
+Epoch:00, time=2.890 s/iter, eval_loss=4.44180, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 32.534247, test_object_subactivity_acc: 32.534247
+Epoch:01, time=3.015 s/iter, eval_loss=4.43543, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 32.534247, test_object_subactivity_acc: 32.534247
+Epoch:02, time=2.825 s/iter, eval_loss=4.43033, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 32.534247, test_object_subactivity_acc: 32.534247
+Epoch:03, time=2.581 s/iter, eval_loss=4.43053, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 32.534247, test_object_subactivity_acc: 32.534247
+Epoch:04, time=3.126 s/iter, eval_loss=4.43004, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 32.534247, test_object_subactivity_acc: 32.534247
+Epoch:05, time=3.567 s/iter, eval_loss=4.42971, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 32.534247, test_object_subactivity_acc: 32.534247
+Epoch:06, time=3.184 s/iter, eval_loss=4.42978, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 32.534247, test_object_subactivity_acc: 32.534247
+Epoch:07, time=2.908 s/iter, eval_loss=4.43014, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 32.534247, test_object_subactivity_acc: 32.534247
+Epoch:08, time=2.854 s/iter, eval_loss=4.43065, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 32.534247, test_object_subactivity_acc: 32.534247
+Epoch:09, time=2.479 s/iter, eval_loss=4.43115, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 32.534247, test_object_subactivity_acc: 32.534247
+Epoch:10, time=2.927 s/iter, eval_loss=4.43120, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 32.534247, test_object_subactivity_acc: 32.534247
+Epoch:11, time=2.459 s/iter, eval_loss=4.42899, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 32.534247, test_object_subactivity_acc: 32.534247
+Epoch:12, time=2.843 s/iter, eval_loss=4.41674, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 32.534247, test_object_subactivity_acc: 32.534247
+Epoch:13, time=2.804 s/iter, eval_loss=4.35709, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 32.534247, test_object_subactivity_acc: 32.534247
+Epoch:14, time=2.297 s/iter, eval_loss=4.18430, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 50.000000, test_object_subactivity_acc: 50.000000
+Epoch:15, time=2.540 s/iter, eval_loss=4.12909, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 50.000000, test_object_subactivity_acc: 50.000000
+Epoch:16, time=2.376 s/iter, eval_loss=4.10983, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 50.000000, test_object_subactivity_acc: 50.000000
+Epoch:17, time=3.095 s/iter, eval_loss=4.10068, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 50.000000, test_object_subactivity_acc: 50.000000
+Epoch:18, time=2.344 s/iter, eval_loss=4.09561, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 50.000000, test_object_subactivity_acc: 50.000000
+Epoch:19, time=3.026 s/iter, eval_loss=4.09252, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 50.000000, test_object_subactivity_acc: 50.000000
+Epoch:20, time=2.243 s/iter, eval_loss=4.09048, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 50.000000, test_object_subactivity_acc: 50.000000
+Epoch:21, time=2.407 s/iter, eval_loss=4.08903, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 50.342466, test_object_subactivity_acc: 50.342466
+Epoch:22, time=2.182 s/iter, eval_loss=4.08792, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 50.342466, test_object_subactivity_acc: 50.342466
+Epoch:23, time=2.978 s/iter, eval_loss=4.08702, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 50.342466, test_object_subactivity_acc: 50.342466
+Epoch:24, time=2.882 s/iter, eval_loss=4.08626, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 50.342466, test_object_subactivity_acc: 50.342466
+Epoch:25, time=3.043 s/iter, eval_loss=4.08561, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 50.342466, test_object_subactivity_acc: 50.342466
+Epoch:26, time=2.793 s/iter, eval_loss=4.08504, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 50.342466, test_object_subactivity_acc: 50.342466
+Epoch:27, time=2.806 s/iter, eval_loss=4.08455, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 50.342466, test_object_subactivity_acc: 50.342466
+Epoch:28, time=2.999 s/iter, eval_loss=4.08413, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 50.342466, test_object_subactivity_acc: 50.342466
+Epoch:29, time=2.687 s/iter, eval_loss=4.08376, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 50.342466, test_object_subactivity_acc: 50.342466
+Epoch:30, time=2.640 s/iter, eval_loss=4.08346, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 50.000000, test_object_subactivity_acc: 50.342466
+Epoch:31, time=2.828 s/iter, eval_loss=4.08321, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 50.000000, test_object_subactivity_acc: 50.000000
+Epoch:32, time=2.739 s/iter, eval_loss=4.08300, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 50.000000, test_object_subactivity_acc: 50.000000
+Epoch:33, time=2.572 s/iter, eval_loss=4.08285, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 50.000000, test_object_subactivity_acc: 50.000000
+Epoch:34, time=2.940 s/iter, eval_loss=4.08275, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 50.000000, test_object_subactivity_acc: 50.000000
+Epoch:35, time=2.797 s/iter, eval_loss=4.08269, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 50.000000, test_object_subactivity_acc: 50.000000
+Epoch:36, time=2.690 s/iter, eval_loss=4.08270, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 50.000000, test_object_subactivity_acc: 50.000000
+Epoch:37, time=2.402 s/iter, eval_loss=4.08275, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 50.000000, test_object_subactivity_acc: 50.000000
+Epoch:38, time=3.172 s/iter, eval_loss=4.08287, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 50.000000, test_object_subactivity_acc: 50.000000
+Epoch:39, time=2.812 s/iter, eval_loss=4.08306, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 50.000000, test_object_subactivity_acc: 50.000000
+Epoch:40, time=2.977 s/iter, eval_loss=4.08339, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 50.000000, test_object_subactivity_acc: 50.000000
+Epoch:41, time=3.362 s/iter, eval_loss=4.08385, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 50.000000, test_object_subactivity_acc: 50.000000
+Epoch:42, time=2.521 s/iter, eval_loss=4.08486, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 50.000000, test_object_subactivity_acc: 50.000000
+Epoch:43, time=3.238 s/iter, eval_loss=4.08551, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 50.000000, test_object_subactivity_acc: 50.000000
+Epoch:44, time=2.556 s/iter, eval_loss=4.08586, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 50.000000, test_object_subactivity_acc: 50.000000
+Epoch:45, time=3.138 s/iter, eval_loss=4.08575, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 50.000000, test_object_subactivity_acc: 50.000000
+Epoch:46, time=2.232 s/iter, eval_loss=4.08583, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 50.000000, test_object_subactivity_acc: 50.000000
+Epoch:47, time=2.949 s/iter, eval_loss=4.08559, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 50.000000, test_object_subactivity_acc: 50.000000
+Epoch:48, time=2.502 s/iter, eval_loss=4.08566, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 50.000000, test_object_subactivity_acc: 50.000000
+Epoch:49, time=2.697 s/iter, eval_loss=4.08543, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 50.000000, test_object_subactivity_acc: 50.000000
+Epoch:50, time=3.033 s/iter, eval_loss=4.08556, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 50.000000, test_object_subactivity_acc: 50.000000
+Epoch:51, time=3.058 s/iter, eval_loss=4.08538, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 50.000000, test_object_subactivity_acc: 50.000000
+Epoch:52, time=2.760 s/iter, eval_loss=4.08556, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 50.000000, test_object_subactivity_acc: 50.000000
+Epoch:53, time=2.820 s/iter, eval_loss=4.08544, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 50.000000, test_object_subactivity_acc: 50.000000
+Epoch:54, time=2.071 s/iter, eval_loss=4.08568, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 50.000000, test_object_subactivity_acc: 50.000000
+Epoch:55, time=2.976 s/iter, eval_loss=4.08561, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 49.657534, test_object_subactivity_acc: 50.000000
+Epoch:56, time=2.116 s/iter, eval_loss=4.08588, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 49.657534, test_object_subactivity_acc: 49.657534
+Epoch:57, time=3.108 s/iter, eval_loss=4.08584, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 49.657534, test_object_subactivity_acc: 49.657534
+Epoch:58, time=3.063 s/iter, eval_loss=4.08614, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 49.657534, test_object_subactivity_acc: 49.657534
+Epoch:59, time=2.920 s/iter, eval_loss=4.08613, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 49.657534, test_object_subactivity_acc: 49.657534
+Epoch:60, time=3.186 s/iter, eval_loss=4.08641, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 49.657534, test_object_subactivity_acc: 49.657534
+Epoch:61, time=2.944 s/iter, eval_loss=4.08640, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 49.657534, test_object_subactivity_acc: 49.657534
+Epoch:62, time=2.618 s/iter, eval_loss=4.08669, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 49.657534, test_object_subactivity_acc: 49.657534
+Epoch:63, time=3.090 s/iter, eval_loss=4.08667, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 49.657534, test_object_subactivity_acc: 49.657534
+Epoch:64, time=3.026 s/iter, eval_loss=4.08692, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 49.657534, test_object_subactivity_acc: 49.657534
+Epoch:65, time=2.748 s/iter, eval_loss=4.08689, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 49.657534, test_object_subactivity_acc: 49.657534
+Epoch:66, time=2.325 s/iter, eval_loss=4.08712, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 49.657534, test_object_subactivity_acc: 49.657534
+Epoch:67, time=3.179 s/iter, eval_loss=4.08709, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 49.657534, test_object_subactivity_acc: 49.657534
+Epoch:00, time=4.444 s/iter, eval_loss=4.76944, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 32.534247, test_object_subactivity_acc: 32.534247
+Epoch:01, time=4.310 s/iter, eval_loss=4.74896, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 32.534247, test_object_subactivity_acc: 32.534247
+Epoch:02, time=3.555 s/iter, eval_loss=4.72402, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 32.534247, test_object_subactivity_acc: 32.534247
+Epoch:03, time=4.143 s/iter, eval_loss=4.64752, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 32.534247, test_object_subactivity_acc: 32.534247
+Epoch:04, time=4.252 s/iter, eval_loss=4.08726, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 50.342466, test_object_subactivity_acc: 49.657534
+Epoch:05, time=4.154 s/iter, eval_loss=4.08260, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 50.000000, test_object_subactivity_acc: 50.000000
+Epoch:06, time=4.120 s/iter, eval_loss=4.09078, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 49.657534, test_object_subactivity_acc: 49.657534
+Epoch:07, time=3.583 s/iter, eval_loss=4.07893, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 49.657534, test_object_subactivity_acc: 49.657534
+Epoch:08, time=3.681 s/iter, eval_loss=4.07118, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 50.342466, test_object_subactivity_acc: 50.342466
+Epoch:09, time=3.149 s/iter, eval_loss=4.22859, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 50.342466, test_object_subactivity_acc: 34.589041
+Epoch:10, time=3.386 s/iter, eval_loss=4.38752, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 34.589041, test_object_subactivity_acc: 34.589041
+Epoch:11, time=3.171 s/iter, eval_loss=4.38725, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 34.589041, test_object_subactivity_acc: 34.589041
+Epoch:12, time=3.101 s/iter, eval_loss=4.38743, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 34.589041, test_object_subactivity_acc: 34.589041
+Epoch:13, time=2.751 s/iter, eval_loss=4.38737, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 34.589041, test_object_subactivity_acc: 34.589041
+Epoch:00, time=4.766 s/iter, eval_loss=4.78578, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 34.931507, test_object_subactivity_acc: 31.506849
+Epoch:01, time=4.675 s/iter, eval_loss=4.78401, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 32.534247, test_object_subactivity_acc: 32.534247
+Epoch:02, time=4.834 s/iter, eval_loss=4.78223, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 32.534247, test_object_subactivity_acc: 32.534247
+Epoch:03, time=4.802 s/iter, eval_loss=4.78042, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 32.534247, test_object_subactivity_acc: 32.534247
+Epoch:04, time=4.842 s/iter, eval_loss=4.77861, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 32.534247, test_object_subactivity_acc: 32.534247
+Epoch:05, time=4.909 s/iter, eval_loss=4.77677, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 32.534247, test_object_subactivity_acc: 32.534247
+Epoch:06, time=4.969 s/iter, eval_loss=4.77491, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 32.534247, test_object_subactivity_acc: 32.534247
+Epoch:07, time=5.177 s/iter, eval_loss=4.77303, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 32.534247, test_object_subactivity_acc: 32.534247
+Epoch:08, time=3.955 s/iter, eval_loss=4.77112, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 32.534247, test_object_subactivity_acc: 32.534247
+Epoch:09, time=4.102 s/iter, eval_loss=4.76921, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 32.534247, test_object_subactivity_acc: 32.534247
+Epoch:10, time=4.209 s/iter, eval_loss=4.76726, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 32.534247, test_object_subactivity_acc: 32.534247
+Epoch:11, time=3.580 s/iter, eval_loss=4.76530, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 32.534247, test_object_subactivity_acc: 32.534247
+Epoch:12, time=3.302 s/iter, eval_loss=4.76331, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 32.534247, test_object_subactivity_acc: 32.534247
+Epoch:13, time=3.819 s/iter, eval_loss=4.76130, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 32.534247, test_object_subactivity_acc: 32.534247
+Epoch:14, time=3.915 s/iter, eval_loss=4.75924, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 32.534247, test_object_subactivity_acc: 32.534247
+Epoch:15, time=3.329 s/iter, eval_loss=4.75717, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 32.534247, test_object_subactivity_acc: 32.534247
+Epoch:16, time=3.776 s/iter, eval_loss=4.75509, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 32.534247, test_object_subactivity_acc: 32.534247
+Epoch:17, time=3.451 s/iter, eval_loss=4.75295, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 32.534247, test_object_subactivity_acc: 32.534247
+Epoch:18, time=3.621 s/iter, eval_loss=4.75079, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 32.534247, test_object_subactivity_acc: 32.534247
+Epoch:19, time=4.258 s/iter, eval_loss=4.74860, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 32.534247, test_object_subactivity_acc: 32.534247
+Epoch:20, time=3.778 s/iter, eval_loss=4.74637, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 32.534247, test_object_subactivity_acc: 32.534247
+Epoch:21, time=3.273 s/iter, eval_loss=4.74409, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 32.534247, test_object_subactivity_acc: 32.534247
+Epoch:22, time=3.371 s/iter, eval_loss=4.74177, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 32.534247, test_object_subactivity_acc: 32.534247
+Epoch:23, time=4.376 s/iter, eval_loss=4.73940, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 32.534247, test_object_subactivity_acc: 32.534247
+Epoch:24, time=3.642 s/iter, eval_loss=4.73695, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 32.534247, test_object_subactivity_acc: 32.534247
+Epoch:25, time=4.251 s/iter, eval_loss=4.73445, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 32.534247, test_object_subactivity_acc: 32.534247
+Epoch:26, time=4.256 s/iter, eval_loss=4.73192, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 32.534247, test_object_subactivity_acc: 32.534247
+Epoch:27, time=3.334 s/iter, eval_loss=4.72927, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 32.534247, test_object_subactivity_acc: 32.534247
+Epoch:28, time=3.030 s/iter, eval_loss=4.72648, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 32.534247, test_object_subactivity_acc: 32.534247
+Epoch:29, time=3.703 s/iter, eval_loss=4.72362, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 32.534247, test_object_subactivity_acc: 32.534247
+Epoch:30, time=4.455 s/iter, eval_loss=4.72056, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 32.534247, test_object_subactivity_acc: 32.534247
+Epoch:31, time=3.467 s/iter, eval_loss=4.71737, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 32.534247, test_object_subactivity_acc: 32.534247
+Epoch:32, time=3.761 s/iter, eval_loss=4.71385, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 32.534247, test_object_subactivity_acc: 32.534247
+Epoch:33, time=4.120 s/iter, eval_loss=4.70994, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 32.534247, test_object_subactivity_acc: 32.534247
+Epoch:34, time=4.232 s/iter, eval_loss=4.70554, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 32.534247, test_object_subactivity_acc: 32.534247
+Epoch:35, time=4.066 s/iter, eval_loss=4.70037, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 32.534247, test_object_subactivity_acc: 32.534247
+Epoch:36, time=4.027 s/iter, eval_loss=4.69380, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 32.534247, test_object_subactivity_acc: 32.534247
+Epoch:37, time=3.963 s/iter, eval_loss=4.68530, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 32.534247, test_object_subactivity_acc: 32.534247
+Epoch:38, time=3.266 s/iter, eval_loss=4.67255, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 32.534247, test_object_subactivity_acc: 32.534247
+Epoch:39, time=2.952 s/iter, eval_loss=4.65142, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 32.534247, test_object_subactivity_acc: 32.534247
+Epoch:40, time=3.460 s/iter, eval_loss=4.61194, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 32.534247, test_object_subactivity_acc: 32.534247
+Epoch:41, time=3.539 s/iter, eval_loss=4.54364, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 32.534247, test_object_subactivity_acc: 32.534247
+Epoch:42, time=3.994 s/iter, eval_loss=4.48497, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 32.534247, test_object_subactivity_acc: 32.534247
+Epoch:43, time=3.992 s/iter, eval_loss=4.46214, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 32.534247, test_object_subactivity_acc: 32.534247
+Epoch:44, time=4.295 s/iter, eval_loss=4.44243, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 42.123288, test_object_subactivity_acc: 32.876712
+Epoch:45, time=4.383 s/iter, eval_loss=4.32049, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 49.315068, test_object_subactivity_acc: 48.630137
+Epoch:46, time=4.058 s/iter, eval_loss=4.13738, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 50.000000, test_object_subactivity_acc: 49.657534
+Epoch:47, time=3.928 s/iter, eval_loss=4.10197, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 49.657534, test_object_subactivity_acc: 49.657534
+Epoch:48, time=3.285 s/iter, eval_loss=4.09164, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 50.342466, test_object_subactivity_acc: 50.342466
+Epoch:49, time=4.136 s/iter, eval_loss=4.08650, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 50.000000, test_object_subactivity_acc: 50.000000
+Epoch:50, time=3.853 s/iter, eval_loss=4.08414, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 50.342466, test_object_subactivity_acc: 50.342466
+Epoch:51, time=3.715 s/iter, eval_loss=4.08717, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 50.000000, test_object_subactivity_acc: 50.000000
+Epoch:52, time=3.645 s/iter, eval_loss=4.08478, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 50.000000, test_object_subactivity_acc: 50.000000
+Epoch:53, time=3.477 s/iter, eval_loss=4.08367, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 50.342466, test_object_subactivity_acc: 50.342466
+Epoch:54, time=3.635 s/iter, eval_loss=4.08348, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 50.342466, test_object_subactivity_acc: 50.342466
+Epoch:55, time=3.318 s/iter, eval_loss=4.08512, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 50.342466, test_object_subactivity_acc: 50.000000
+Epoch:56, time=4.695 s/iter, eval_loss=4.08342, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 50.342466, test_object_subactivity_acc: 50.342466
+Epoch:57, time=3.945 s/iter, eval_loss=4.08310, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 50.342466, test_object_subactivity_acc: 50.342466
+Epoch:58, time=3.691 s/iter, eval_loss=4.08575, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 50.342466, test_object_subactivity_acc: 50.000000
+Epoch:59, time=3.959 s/iter, eval_loss=4.08179, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 50.342466, test_object_subactivity_acc: 50.342466
+Epoch:60, time=4.428 s/iter, eval_loss=4.08097, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 51.027397, test_object_subactivity_acc: 50.342466
+Epoch:00, time=4.009 s/iter, eval_loss=1.463123871, eval_loss_1=4.787383050, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 23.630137, test_object_subactivity_acc: 20.205479
+Epoch:01, time=3.606 s/iter, eval_loss=1.463109000, eval_loss_1=4.787224453, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 22.260274, test_object_subactivity_acc: 20.890411
+Epoch:02, time=3.906 s/iter, eval_loss=1.463094321, eval_loss_1=4.787067271, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 21.917808, test_object_subactivity_acc: 20.547945
+Epoch:03, time=3.828 s/iter, eval_loss=1.463078914, eval_loss_1=4.786902447, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 21.917808, test_object_subactivity_acc: 19.863014
+Epoch:04, time=3.890 s/iter, eval_loss=1.463063723, eval_loss_1=4.786739518, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 21.232877, test_object_subactivity_acc: 20.205479
+Epoch:05, time=3.949 s/iter, eval_loss=1.463048705, eval_loss_1=4.786579709, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 20.547945, test_object_subactivity_acc: 20.205479
+Epoch:06, time=3.799 s/iter, eval_loss=1.463034022, eval_loss_1=4.786422356, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 23.287671, test_object_subactivity_acc: 18.150685
+Epoch:07, time=3.784 s/iter, eval_loss=1.463017845, eval_loss_1=4.786249002, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 25.000000, test_object_subactivity_acc: 26.712329
+Epoch:08, time=4.189 s/iter, eval_loss=1.463003191, eval_loss_1=4.786092103, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 24.657534, test_object_subactivity_acc: 25.000000
+Epoch:09, time=3.843 s/iter, eval_loss=1.462987945, eval_loss_1=4.785929125, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 27.054795, test_object_subactivity_acc: 22.945205
+Epoch:10, time=3.498 s/iter, eval_loss=1.462973070, eval_loss_1=4.785769943, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 27.397260, test_object_subactivity_acc: 27.397260
+Epoch:11, time=3.351 s/iter, eval_loss=1.462957683, eval_loss_1=4.785605303, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 31.506849, test_object_subactivity_acc: 24.657534
+Epoch:00, time=3.813 s/iter, eval_loss=1.462988101, eval_loss_1=4.785930327, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 30.821918, test_object_subactivity_acc: 32.534247
+Epoch:01, time=3.779 s/iter, eval_loss=1.462835553, eval_loss_1=4.784295864, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 32.534247, test_object_subactivity_acc: 32.534247
+Epoch:02, time=3.707 s/iter, eval_loss=1.462682791, eval_loss_1=4.782656995, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 32.534247, test_object_subactivity_acc: 32.534247
+Epoch:03, time=3.659 s/iter, eval_loss=1.462528980, eval_loss_1=4.781004592, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 32.534247, test_object_subactivity_acc: 32.534247
+Epoch:04, time=3.733 s/iter, eval_loss=1.462374196, eval_loss_1=4.779339652, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 32.534247, test_object_subactivity_acc: 32.534247
+Epoch:05, time=4.041 s/iter, eval_loss=1.462218278, eval_loss_1=4.777660465, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 32.534247, test_object_subactivity_acc: 32.534247
+Epoch:06, time=3.830 s/iter, eval_loss=1.462060993, eval_loss_1=4.775964242, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 32.534247, test_object_subactivity_acc: 32.534247
+Epoch:07, time=3.762 s/iter, eval_loss=1.461903243, eval_loss_1=4.774260415, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 32.534247, test_object_subactivity_acc: 32.534247
+Epoch:08, time=3.738 s/iter, eval_loss=1.461743777, eval_loss_1=4.772535821, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 32.534247, test_object_subactivity_acc: 32.534247
+Epoch:09, time=3.612 s/iter, eval_loss=1.461584143, eval_loss_1=4.770806853, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 32.534247, test_object_subactivity_acc: 32.534247
+Epoch:10, time=3.555 s/iter, eval_loss=1.461422507, eval_loss_1=4.769054432, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 32.534247, test_object_subactivity_acc: 32.534247
+Epoch:11, time=3.741 s/iter, eval_loss=1.461259825, eval_loss_1=4.767288086, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 32.534247, test_object_subactivity_acc: 32.534247
+Epoch:12, time=3.867 s/iter, eval_loss=1.461095650, eval_loss_1=4.765502254, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 32.534247, test_object_subactivity_acc: 32.534247
+Epoch:13, time=3.455 s/iter, eval_loss=1.460931622, eval_loss_1=4.763715640, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 32.534247, test_object_subactivity_acc: 32.534247
+Epoch:14, time=4.046 s/iter, eval_loss=1.460766079, eval_loss_1=4.761910992, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 32.534247, test_object_subactivity_acc: 32.534247
+Epoch:15, time=3.920 s/iter, eval_loss=1.460597982, eval_loss_1=4.760074387, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 32.534247, test_object_subactivity_acc: 32.534247
+Epoch:16, time=3.840 s/iter, eval_loss=1.460429337, eval_loss_1=4.758229889, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 32.534247, test_object_subactivity_acc: 32.534247
+Epoch:17, time=3.621 s/iter, eval_loss=1.460259527, eval_loss_1=4.756369204, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 32.534247, test_object_subactivity_acc: 32.534247
+Epoch:18, time=3.747 s/iter, eval_loss=1.460088694, eval_loss_1=4.754494796, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 32.534247, test_object_subactivity_acc: 32.534247
+Epoch:19, time=3.839 s/iter, eval_loss=1.459916885, eval_loss_1=4.752605623, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 32.534247, test_object_subactivity_acc: 32.534247
+Epoch:20, time=3.812 s/iter, eval_loss=1.459741159, eval_loss_1=4.750672531, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 32.534247, test_object_subactivity_acc: 32.534247
+Epoch:21, time=3.697 s/iter, eval_loss=1.459566263, eval_loss_1=4.748744406, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 32.534247, test_object_subactivity_acc: 32.534247
+Epoch:22, time=3.889 s/iter, eval_loss=1.459386156, eval_loss_1=4.746757148, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 32.534247, test_object_subactivity_acc: 32.534247
+Epoch:23, time=4.030 s/iter, eval_loss=1.459206330, eval_loss_1=4.744767793, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 32.534247, test_object_subactivity_acc: 32.534247
+Epoch:24, time=3.718 s/iter, eval_loss=1.459026571, eval_loss_1=4.742774462, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 32.534247, test_object_subactivity_acc: 32.534247
+Epoch:25, time=3.716 s/iter, eval_loss=1.458840985, eval_loss_1=4.740717122, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 32.534247, test_object_subactivity_acc: 32.534247
+Epoch:26, time=3.796 s/iter, eval_loss=1.458655043, eval_loss_1=4.738650776, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 32.534247, test_object_subactivity_acc: 32.534247
+Epoch:27, time=3.788 s/iter, eval_loss=1.458464629, eval_loss_1=4.736529545, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 32.534247, test_object_subactivity_acc: 32.534247
+Epoch:00, time=3.922 s/iter, eval_loss=1.461587026, eval_loss_1=4.770841888, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 32.534247, test_object_subactivity_acc: 32.534247
+Epoch:01, time=3.706 s/iter, eval_loss=1.459904409, eval_loss_1=4.752485635, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 32.534247, test_object_subactivity_acc: 32.534247
+Epoch:02, time=3.627 s/iter, eval_loss=1.458006398, eval_loss_1=4.731455656, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 32.534247, test_object_subactivity_acc: 32.534247
+Epoch:03, time=3.774 s/iter, eval_loss=1.455079232, eval_loss_1=4.698367988, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 32.534247, test_object_subactivity_acc: 32.534247
+Epoch:04, time=3.855 s/iter, eval_loss=1.425473165, eval_loss_1=4.334260383, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 48.287671, test_object_subactivity_acc: 44.178082
+Epoch:05, time=4.023 s/iter, eval_loss=1.408671392, eval_loss_1=4.103993489, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 50.342466, test_object_subactivity_acc: 50.000000
+Epoch:06, time=4.454 s/iter, eval_loss=1.408003387, eval_loss_1=4.087745800, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 50.000000, test_object_subactivity_acc: 49.657534
+Epoch:07, time=4.146 s/iter, eval_loss=1.406846996, eval_loss_1=4.073010262, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 50.684932, test_object_subactivity_acc: 51.027397
+Epoch:08, time=4.273 s/iter, eval_loss=1.406905817, eval_loss_1=4.071811616, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 50.342466, test_object_subactivity_acc: 50.342466
+Epoch:09, time=4.438 s/iter, eval_loss=1.406871467, eval_loss_1=4.070115758, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 50.000000, test_object_subactivity_acc: 50.684932
+Epoch:10, time=4.634 s/iter, eval_loss=1.405494361, eval_loss_1=4.058618402, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 51.369863, test_object_subactivity_acc: 51.369863
+Epoch:11, time=4.384 s/iter, eval_loss=1.405922298, eval_loss_1=4.057542332, test_final_data_len=292, len_val=292, test_human_subactivity_acc: 51.369863, test_object_subactivity_acc: 51.369863
+Test time=5.230 s/iter, eval_loss=1.46159, eval_loss_1=4.77087, test_subact: 32.5342, test_afford: 32.5342
+Test time=4.797 s/iter, eval_loss=1.45991, eval_loss_1=4.75254, test_subact: 32.5342, test_afford: 32.5342
+Test time=4.616 s/iter, eval_loss=1.45801, eval_loss_1=4.73150, test_subact: 32.5342, test_afford: 32.5342
+Test time=4.207 s/iter, eval_loss=1.45506, eval_loss_1=4.69815, test_subact: 32.5342, test_afford: 32.5342
+Test time=3.890 s/iter, eval_loss=1.43781, eval_loss_1=4.47119, test_subact: 32.5342, test_afford: 32.5342
+Test time=4.322 s/iter, eval_loss=1.40922, eval_loss_1=4.11201, test_subact: 50.0000, test_afford: 50.0000
+Test time=4.290 s/iter, eval_loss=1.40731, eval_loss_1=4.08280, test_subact: 51.3699, test_afford: 50.3425
+Test time=4.622 s/iter, eval_loss=1.40711, eval_loss_1=4.07796, test_subact: 51.0274, test_afford: 51.3699
+Test time=4.652 s/iter, eval_loss=1.40658, eval_loss_1=4.07016, test_subact: 50.3425, test_afford: 50.6849
+Test time=4.768 s/iter, eval_loss=1.41998, eval_loss_1=4.22744, test_subact: 50.6849, test_afford: 34.5890
+Test time=5.079 s/iter, eval_loss=1.41981, eval_loss_1=4.22478, test_subact: 51.0274, test_afford: 34.5890
+Test time=4.725 s/iter, eval_loss=1.41968, eval_loss_1=4.22365, test_subact: 51.3699, test_afford: 34.5890
+Test time=4.401 s/iter, eval_loss=1.41939, eval_loss_1=4.21978, test_subact: 51.7123, test_afford: 34.5890
+Test time=4.438 s/iter, eval_loss=1.41968, eval_loss_1=4.22261, test_subact: 51.3699, test_afford: 34.5890
+Test time=4.221 s/iter, eval_loss=1.41947, eval_loss_1=4.22024, test_subact: 51.3699, test_afford: 34.5890
+Test time=4.873 s/iter, eval_loss=1.41904, eval_loss_1=4.21775, test_subact: 51.7123, test_afford: 34.5890
+Test time=4.711 s/iter, eval_loss=1.41871, eval_loss_1=4.21546, test_subact: 51.7123, test_afford: 34.5890
+Test time=4.322 s/iter, eval_loss=1.41895, eval_loss_1=4.21956, test_subact: 51.7123, test_afford: 34.5890
+Test time=4.785 s/iter, eval_loss=1.41874, eval_loss_1=4.21576, test_subact: 51.7123, test_afford: 34.5890
+Test time=4.067 s/iter, eval_loss=1.41844, eval_loss_1=4.21204, test_subact: 52.0548, test_afford: 34.5890
+Test time=4.358 s/iter, eval_loss=1.41842, eval_loss_1=4.21128, test_subact: 52.0548, test_afford: 34.5890
+Test time=4.253 s/iter, eval_loss=1.41833, eval_loss_1=4.21245, test_subact: 51.7123, test_afford: 34.5890
+Test time=4.501 s/iter, eval_loss=1.41844, eval_loss_1=4.21122, test_subact: 52.0548, test_afford: 34.5890
+Test time=4.404 s/iter, eval_loss=1.41810, eval_loss_1=4.20960, test_subact: 51.3699, test_afford: 34.5890
+Test time=4.125 s/iter, eval_loss=1.41767, eval_loss_1=4.20424, test_subact: 52.0548, test_afford: 34.5890
+Test time=4.417 s/iter, eval_loss=1.41793, eval_loss_1=4.20530, test_subact: 52.0548, test_afford: 34.5890
+Test time=4.407 s/iter, eval_loss=1.41789, eval_loss_1=4.20793, test_subact: 52.0548, test_afford: 34.5890
+Test time=4.223 s/iter, eval_loss=1.41779, eval_loss_1=4.20782, test_subact: 51.7123, test_afford: 34.5890
+Test time=4.245 s/iter, eval_loss=1.41810, eval_loss_1=4.20987, test_subact: 52.0548, test_afford: 34.5890
+Test time=4.789 s/iter, eval_loss=1.41861, eval_loss_1=4.21099, test_subact: 51.7123, test_afford: 34.5890
+Test time=4.226 s/iter, eval_loss=1.41812, eval_loss_1=4.20760, test_subact: 52.0548, test_afford: 34.9315
+Test time=4.407 s/iter, eval_loss=1.41736, eval_loss_1=4.20050, test_subact: 52.7397, test_afford: 35.2740
+Test time=4.353 s/iter, eval_loss=1.43628, eval_loss_1=4.38667, test_subact: 34.5890, test_afford: 34.5890
+Test time=4.725 s/iter, eval_loss=1.43490, eval_loss_1=4.37497, test_subact: 35.2740, test_afford: 35.2740
+Test time=4.606 s/iter, eval_loss=1.43537, eval_loss_1=4.37956, test_subact: 34.5890, test_afford: 34.2466
+Test time=4.638 s/iter, eval_loss=1.43458, eval_loss_1=4.37189, test_subact: 35.9589, test_afford: 34.9315
+Test time=4.158 s/iter, eval_loss=1.43542, eval_loss_1=4.37878, test_subact: 34.2466, test_afford: 34.2466
+Test time=4.611 s/iter, eval_loss=1.43402, eval_loss_1=4.36618, test_subact: 35.9589, test_afford: 35.2740
+Test time=4.401 s/iter, eval_loss=1.43488, eval_loss_1=4.38045, test_subact: 33.9041, test_afford: 35.2740
+Test time=4.615 s/iter, eval_loss=1.43447, eval_loss_1=4.37083, test_subact: 36.3014, test_afford: 35.6164
+Test time=4.358 s/iter, eval_loss=1.43347, eval_loss_1=4.36143, test_subact: 36.6438, test_afford: 35.2740
+Test time=4.387 s/iter, eval_loss=1.43419, eval_loss_1=4.36808, test_subact: 36.3014, test_afford: 35.2740
+Test time=4.551 s/iter, eval_loss=1.43437, eval_loss_1=4.37478, test_subact: 35.6164, test_afford: 33.5616
+Test time=5.009 s/iter, eval_loss=1.43432, eval_loss_1=4.36808, test_subact: 35.9589, test_afford: 35.2740
+Test time=4.520 s/iter, eval_loss=1.43266, eval_loss_1=4.35359, test_subact: 37.3288, test_afford: 36.3014
+Test time=4.394 s/iter, eval_loss=1.43523, eval_loss_1=4.37673, test_subact: 34.9315, test_afford: 34.5890
+Test time=4.044 s/iter, eval_loss=1.43374, eval_loss_1=4.36761, test_subact: 36.9863, test_afford: 35.2740
+Test time=3.962 s/iter, eval_loss=1.43468, eval_loss_1=4.37581, test_subact: 35.6164, test_afford: 35.2740
+Test time=4.471 s/iter, eval_loss=1.43510, eval_loss_1=4.38315, test_subact: 35.9589, test_afford: 34.2466
+Test time=4.612 s/iter, eval_loss=1.43399, eval_loss_1=4.36919, test_subact: 36.3014, test_afford: 34.9315
+Test time=4.202 s/iter, eval_loss=1.43398, eval_loss_1=4.36932, test_subact: 35.2740, test_afford: 36.9863
+Test time=4.337 s/iter, eval_loss=1.43343, eval_loss_1=4.36010, test_subact: 36.9863, test_afford: 35.6164
+Test time=4.439 s/iter, eval_loss=1.43384, eval_loss_1=4.36422, test_subact: 36.6438, test_afford: 35.6164
+Test time=4.395 s/iter, eval_loss=1.43478, eval_loss_1=4.37718, test_subact: 35.6164, test_afford: 35.6164
+Test time=4.871 s/iter, eval_loss=1.43617, eval_loss_1=4.39620, test_subact: 34.5890, test_afford: 34.5890
+Test time=4.573 s/iter, eval_loss=1.43442, eval_loss_1=4.37379, test_subact: 34.5890, test_afford: 34.5890
+Test time=4.436 s/iter, eval_loss=1.43384, eval_loss_1=4.36366, test_subact: 36.6438, test_afford: 35.6164
+Test time=4.779 s/iter, eval_loss=1.46298, eval_loss_1=4.78589, test_subact: 32.5342, test_afford: 31.1644
+Test time=4.771 s/iter, eval_loss=1.46283, eval_loss_1=4.78425, test_subact: 32.5342, test_afford: 32.5342
+Test time=4.158 s/iter, eval_loss=1.46268, eval_loss_1=4.78262, test_subact: 32.5342, test_afford: 32.5342
+Test time=4.373 s/iter, eval_loss=1.46252, eval_loss_1=4.78096, test_subact: 32.5342, test_afford: 32.5342
+Test time=4.075 s/iter, eval_loss=1.46237, eval_loss_1=4.77929, test_subact: 32.5342, test_afford: 32.5342
+Test time=4.345 s/iter, eval_loss=1.46221, eval_loss_1=4.77760, test_subact: 32.5342, test_afford: 32.5342
+Test time=4.152 s/iter, eval_loss=1.46206, eval_loss_1=4.77592, test_subact: 32.5342, test_afford: 32.5342
+Test time=4.533 s/iter, eval_loss=1.46190, eval_loss_1=4.77420, test_subact: 32.5342, test_afford: 32.5342
+Test time=4.389 s/iter, eval_loss=1.46174, eval_loss_1=4.77248, test_subact: 32.5342, test_afford: 32.5342
+Test time=4.659 s/iter, eval_loss=1.46158, eval_loss_1=4.77074, test_subact: 32.5342, test_afford: 32.5342
+Test time=4.618 s/iter, eval_loss=1.46142, eval_loss_1=4.76899, test_subact: 32.5342, test_afford: 32.5342
+Test time=4.693 s/iter, eval_loss=1.46125, eval_loss_1=4.76721, test_subact: 32.5342, test_afford: 32.5342
+Test time=4.402 s/iter, eval_loss=1.46109, eval_loss_1=4.76544, test_subact: 32.5342, test_afford: 32.5342
+Test time=4.262 s/iter, eval_loss=1.46092, eval_loss_1=4.76362, test_subact: 32.5342, test_afford: 32.5342
+Test time=4.737 s/iter, eval_loss=1.46076, eval_loss_1=4.76181, test_subact: 32.5342, test_afford: 32.5342
+Test time=4.452 s/iter, eval_loss=1.46059, eval_loss_1=4.75997, test_subact: 32.5342, test_afford: 32.5342
+Test time=4.330 s/iter, eval_loss=1.46042, eval_loss_1=4.75812, test_subact: 32.5342, test_afford: 32.5342
+Test time=4.424 s/iter, eval_loss=1.46025, eval_loss_1=4.75624, test_subact: 32.5342, test_afford: 32.5342
+Test time=4.530 s/iter, eval_loss=1.46007, eval_loss_1=4.75433, test_subact: 32.5342, test_afford: 32.5342
+Test time=4.363 s/iter, eval_loss=1.45990, eval_loss_1=4.75241, test_subact: 32.5342, test_afford: 32.5342
+Test time=4.638 s/iter, eval_loss=1.45972, eval_loss_1=4.75045, test_subact: 32.5342, test_afford: 32.5342
+Test time=3.779 s/iter, eval_loss=1.45954, eval_loss_1=4.74849, test_subact: 32.5342, test_afford: 32.5342
+Test time=4.101 s/iter, eval_loss=1.45936, eval_loss_1=4.74648, test_subact: 32.5342, test_afford: 32.5342
+Test time=4.141 s/iter, eval_loss=1.45918, eval_loss_1=4.74444, test_subact: 32.5342, test_afford: 32.5342
+Test time=4.621 s/iter, eval_loss=1.45899, eval_loss_1=4.74236, test_subact: 32.5342, test_afford: 32.5342
+Test time=4.307 s/iter, eval_loss=1.45880, eval_loss_1=4.74024, test_subact: 32.5342, test_afford: 32.5342
+Test time=4.671 s/iter, eval_loss=1.45860, eval_loss_1=4.73808, test_subact: 32.5342, test_afford: 32.5342
+Test time=4.707 s/iter, eval_loss=1.45840, eval_loss_1=4.73589, test_subact: 32.5342, test_afford: 32.5342
+Test time=4.396 s/iter, eval_loss=1.45820, eval_loss_1=4.73360, test_subact: 32.5342, test_afford: 32.5342
+Test time=4.135 s/iter, eval_loss=1.45799, eval_loss_1=4.73129, test_subact: 32.5342, test_afford: 32.5342
+Test time=4.211 s/iter, eval_loss=1.45777, eval_loss_1=4.72882, test_subact: 32.5342, test_afford: 32.5342
+Test time=4.521 s/iter, eval_loss=1.45754, eval_loss_1=4.72627, test_subact: 32.5342, test_afford: 32.5342
+Test time=4.530 s/iter, eval_loss=1.45731, eval_loss_1=4.72364, test_subact: 32.5342, test_afford: 32.5342
+Test time=3.942 s/iter, eval_loss=1.45705, eval_loss_1=4.72077, test_subact: 32.5342, test_afford: 32.5342
+Test time=4.479 s/iter, eval_loss=1.45678, eval_loss_1=4.71772, test_subact: 32.5342, test_afford: 32.5342
+Test time=3.875 s/iter, eval_loss=1.45648, eval_loss_1=4.71435, test_subact: 32.5342, test_afford: 32.5342
+Test time=3.828 s/iter, eval_loss=1.45615, eval_loss_1=4.71053, test_subact: 32.5342, test_afford: 32.5342
+Test time=4.638 s/iter, eval_loss=1.45578, eval_loss_1=4.70632, test_subact: 32.5342, test_afford: 32.5342
+Test time=4.542 s/iter, eval_loss=1.45532, eval_loss_1=4.70116, test_subact: 32.5342, test_afford: 32.5342
+Test time=4.037 s/iter, eval_loss=1.45476, eval_loss_1=4.69472, test_subact: 32.5342, test_afford: 32.5342
+Test time=4.213 s/iter, eval_loss=1.45402, eval_loss_1=4.68619, test_subact: 32.5342, test_afford: 32.5342
+Test time=4.221 s/iter, eval_loss=1.45302, eval_loss_1=4.67451, test_subact: 32.5342, test_afford: 32.5342
+Test time=4.683 s/iter, eval_loss=1.45143, eval_loss_1=4.65582, test_subact: 32.5342, test_afford: 32.5342
+Test time=4.188 s/iter, eval_loss=1.46238, eval_loss_1=4.77942, test_subact: 32.5342, test_afford: 32.5342
+Test time=3.849 s/iter, eval_loss=1.46159, eval_loss_1=4.77088, test_subact: 32.5342, test_afford: 32.5342
+Test time=3.772 s/iter, eval_loss=1.46077, eval_loss_1=4.76199, test_subact: 32.5342, test_afford: 32.5342
+Test time=3.854 s/iter, eval_loss=1.45992, eval_loss_1=4.75267, test_subact: 32.5342, test_afford: 32.5342
+Test time=3.907 s/iter, eval_loss=1.45903, eval_loss_1=4.74278, test_subact: 32.5342, test_afford: 32.5342
+Test time=3.915 s/iter, eval_loss=1.45806, eval_loss_1=4.73196, test_subact: 32.5342, test_afford: 32.5342
+Test time=3.756 s/iter, eval_loss=1.45694, eval_loss_1=4.71940, test_subact: 32.5342, test_afford: 32.5342
+Test time=3.657 s/iter, eval_loss=1.45536, eval_loss_1=4.70145, test_subact: 32.5342, test_afford: 32.5342
+Test time=3.999 s/iter, eval_loss=1.45085, eval_loss_1=4.64873, test_subact: 32.5342, test_afford: 32.5342
+Test time=3.577 s/iter, eval_loss=1.43302, eval_loss_1=4.42391, test_subact: 45.2055, test_afford: 34.9315
+Test time=3.692 s/iter, eval_loss=1.40939, eval_loss_1=4.11137, test_subact: 50.0000, test_afford: 50.0000
+Test time=3.718 s/iter, eval_loss=1.40908, eval_loss_1=4.10963, test_subact: 49.6575, test_afford: 50.3425
+Test time=3.782 s/iter, eval_loss=1.40807, eval_loss_1=4.09513, test_subact: 50.6849, test_afford: 50.3425
+Test time=3.768 s/iter, eval_loss=1.40815, eval_loss_1=4.09280, test_subact: 50.3425, test_afford: 50.3425
+Test time=3.434 s/iter, eval_loss=1.40709, eval_loss_1=4.07987, test_subact: 50.3425, test_afford: 50.6849
+Test time=3.317 s/iter, eval_loss=1.40780, eval_loss_1=4.08637, test_subact: 50.6849, test_afford: 50.3425
+Test time=3.331 s/iter, eval_loss=1.40746, eval_loss_1=4.08130, test_subact: 50.3425, test_afford: 50.3425
+Test time=3.109 s/iter, eval_loss=1.40640, eval_loss_1=4.06835, test_subact: 51.0274, test_afford: 50.3425
+Test time=2.880 s/iter, eval_loss=1.40652, eval_loss_1=4.06754, test_subact: 50.6849, test_afford: 50.6849
+Test time=3.315 s/iter, eval_loss=1.40574, eval_loss_1=4.05948, test_subact: 51.3699, test_afford: 51.3699
+Test time=3.146 s/iter, eval_loss=1.40573, eval_loss_1=4.05790, test_subact: 51.3699, test_afford: 51.3699
+Test time=3.413 s/iter, eval_loss=1.40579, eval_loss_1=4.05993, test_subact: 51.3699, test_afford: 51.0274
+Test time=3.373 s/iter, eval_loss=1.40538, eval_loss_1=4.05348, test_subact: 51.3699, test_afford: 51.3699
+Test time=3.388 s/iter, eval_loss=1.40544, eval_loss_1=4.05475, test_subact: 51.3699, test_afford: 51.3699
+Test time=3.458 s/iter, eval_loss=1.40505, eval_loss_1=4.04982, test_subact: 51.3699, test_afford: 51.7123
+Test time=3.742 s/iter, eval_loss=1.40496, eval_loss_1=4.05019, test_subact: 51.7123, test_afford: 51.3699
+Test time=4.280 s/iter, eval_loss=1.40431, eval_loss_1=4.04285, test_subact: 52.0548, test_afford: 52.0548
+Test time=4.364 s/iter, eval_loss=1.40457, eval_loss_1=4.04515, test_subact: 51.7123, test_afford: 51.7123
+Test time=4.306 s/iter, eval_loss=1.40429, eval_loss_1=4.04276, test_subact: 52.0548, test_afford: 52.0548
+Test time=4.263 s/iter, eval_loss=1.40453, eval_loss_1=4.04583, test_subact: 51.7123, test_afford: 51.7123
+Test time=4.242 s/iter, eval_loss=1.40407, eval_loss_1=4.04042, test_subact: 52.0548, test_afford: 52.0548
+Test time=4.520 s/iter, eval_loss=1.40436, eval_loss_1=4.04440, test_subact: 52.0548, test_afford: 51.7123
+Test time=4.429 s/iter, eval_loss=1.40422, eval_loss_1=4.04190, test_subact: 51.7123, test_afford: 51.7123
+Test time=4.249 s/iter, eval_loss=1.40422, eval_loss_1=4.04259, test_subact: 52.0548, test_afford: 52.0548
+Test time=4.415 s/iter, eval_loss=1.40426, eval_loss_1=4.04148, test_subact: 52.0548, test_afford: 52.0548
+Test time=4.313 s/iter, eval_loss=1.40400, eval_loss_1=4.03981, test_subact: 52.0548, test_afford: 52.0548
+Test time=3.867 s/iter, eval_loss=1.40406, eval_loss_1=4.04175, test_subact: 52.0548, test_afford: 52.0548
+Test time=4.191 s/iter, eval_loss=1.40322, eval_loss_1=4.03325, test_subact: 52.0548, test_afford: 52.0548
+Test time=3.729 s/iter, eval_loss=1.40312, eval_loss_1=4.03298, test_subact: 52.3973, test_afford: 52.0548
+Test time=3.902 s/iter, eval_loss=1.40338, eval_loss_1=4.03519, test_subact: 51.7123, test_afford: 52.0548
+Test time=3.844 s/iter, eval_loss=1.40304, eval_loss_1=4.03269, test_subact: 52.0548, test_afford: 52.3973
+Test time=3.496 s/iter, eval_loss=1.40315, eval_loss_1=4.03423, test_subact: 53.0822, test_afford: 52.0548
+Test time=3.893 s/iter, eval_loss=1.40326, eval_loss_1=4.03665, test_subact: 52.0548, test_afford: 52.0548
+Test time=3.916 s/iter, eval_loss=1.40305, eval_loss_1=4.03413, test_subact: 52.0548, test_afford: 52.0548
+Test time=3.922 s/iter, eval_loss=1.40261, eval_loss_1=4.02850, test_subact: 54.1096, test_afford: 52.3973
+Test time=3.870 s/iter, eval_loss=1.40296, eval_loss_1=4.03225, test_subact: 53.0822, test_afford: 52.7397
+Test time=3.520 s/iter, eval_loss=1.40210, eval_loss_1=4.02332, test_subact: 55.1370, test_afford: 52.3973
+Test time=3.290 s/iter, eval_loss=1.40243, eval_loss_1=4.02524, test_subact: 53.0822, test_afford: 52.7397
+Test time=3.034 s/iter, eval_loss=1.40240, eval_loss_1=4.02735, test_subact: 52.3973, test_afford: 52.3973
+Test time=3.310 s/iter, eval_loss=1.40272, eval_loss_1=4.02936, test_subact: 53.7671, test_afford: 51.7123
+Test time=3.276 s/iter, eval_loss=1.40225, eval_loss_1=4.02378, test_subact: 53.7671, test_afford: 52.3973
+Test time=3.282 s/iter, eval_loss=1.40187, eval_loss_1=4.02033, test_subact: 53.7671, test_afford: 52.7397
+Test time=3.253 s/iter, eval_loss=1.40235, eval_loss_1=4.02268, test_subact: 53.7671, test_afford: 52.0548
+Test time=3.396 s/iter, eval_loss=1.40216, eval_loss_1=4.02252, test_subact: 53.7671, test_afford: 52.7397
+Test time=3.646 s/iter, eval_loss=1.40224, eval_loss_1=4.02005, test_subact: 53.7671, test_afford: 52.3973
+Test time=4.373 s/iter, eval_loss=1.40172, eval_loss_1=4.01553, test_subact: 53.4247, test_afford: 52.7397
+Test time=4.492 s/iter, eval_loss=1.40219, eval_loss_1=4.02113, test_subact: 53.7671, test_afford: 52.7397
+Test time=4.657 s/iter, eval_loss=1.40218, eval_loss_1=4.02419, test_subact: 53.4247, test_afford: 52.3973
+Test time=4.650 s/iter, eval_loss=1.40171, eval_loss_1=4.01906, test_subact: 53.7671, test_afford: 53.4247
+Test time=4.972 s/iter, eval_loss=1.40229, eval_loss_1=4.02118, test_subact: 53.7671, test_afford: 52.7397
+Test time=5.249 s/iter, eval_loss=1.40189, eval_loss_1=4.02161, test_subact: 54.1096, test_afford: 52.7397
+Test time=5.043 s/iter, eval_loss=1.40187, eval_loss_1=4.01792, test_subact: 53.7671, test_afford: 53.0822
+Test time=4.750 s/iter, eval_loss=1.40186, eval_loss_1=4.01712, test_subact: 53.4247, test_afford: 52.3973
+Test time=4.947 s/iter, eval_loss=1.40168, eval_loss_1=4.01550, test_subact: 53.4247, test_afford: 53.0822
+Test time=4.852 s/iter, eval_loss=1.40191, eval_loss_1=4.01569, test_subact: 53.7671, test_afford: 53.0822
+Test time=4.686 s/iter, eval_loss=1.40253, eval_loss_1=4.02805, test_subact: 52.0548, test_afford: 51.0274
+Test time=5.015 s/iter, eval_loss=1.40183, eval_loss_1=4.01647, test_subact: 53.7671, test_afford: 53.4247
+Test time=5.118 s/iter, eval_loss=1.40149, eval_loss_1=4.01231, test_subact: 54.1096, test_afford: 53.0822
+Test time=5.456 s/iter, eval_loss=1.40222, eval_loss_1=4.02375, test_subact: 52.7397, test_afford: 52.7397
+Test time=5.398 s/iter, eval_loss=1.40119, eval_loss_1=4.00822, test_subact: 54.4521, test_afford: 53.4247
+Test time=4.786 s/iter, eval_loss=1.40222, eval_loss_1=4.01756, test_subact: 53.7671, test_afford: 52.7397
+Test time=4.857 s/iter, eval_loss=1.40157, eval_loss_1=4.01215, test_subact: 53.7671, test_afford: 53.4247
+Test time=4.762 s/iter, eval_loss=1.40216, eval_loss_1=4.02307, test_subact: 53.0822, test_afford: 51.3699
+Test time=4.889 s/iter, eval_loss=1.40151, eval_loss_1=4.01148, test_subact: 53.4247, test_afford: 52.3973
+Test time=4.778 s/iter, eval_loss=1.40304, eval_loss_1=4.02748, test_subact: 53.4247, test_afford: 51.3699
+Test time=4.661 s/iter, eval_loss=1.40352, eval_loss_1=4.04006, test_subact: 52.7397, test_afford: 51.3699
+Test time=4.012 s/iter, eval_loss=1.40157, eval_loss_1=4.01226, test_subact: 54.1096, test_afford: 53.0822
+Test time=4.593 s/iter, eval_loss=1.40140, eval_loss_1=4.01022, test_subact: 53.7671, test_afford: 53.0822
+Test time=4.602 s/iter, eval_loss=1.40182, eval_loss_1=4.01811, test_subact: 53.7671, test_afford: 52.7397
+Test time=4.182 s/iter, eval_loss=1.40169, eval_loss_1=4.01275, test_subact: 54.1096, test_afford: 53.0822
+Test time=4.448 s/iter, eval_loss=1.40195, eval_loss_1=4.01684, test_subact: 53.0822, test_afford: 52.7397
+Test time=4.460 s/iter, eval_loss=1.40162, eval_loss_1=4.01269, test_subact: 53.4247, test_afford: 53.0822
+Test time=4.336 s/iter, eval_loss=1.40216, eval_loss_1=4.01993, test_subact: 51.3699, test_afford: 52.7397
+Test time=4.362 s/iter, eval_loss=1.40230, eval_loss_1=4.01878, test_subact: 53.4247, test_afford: 53.4247
+Test time=5.199 s/iter, eval_loss=1.40153, eval_loss_1=4.01227, test_subact: 53.7671, test_afford: 52.3973
+Test time=4.249 s/iter, eval_loss=1.40167, eval_loss_1=4.01346, test_subact: 53.4247, test_afford: 52.7397
+Test time=4.743 s/iter, eval_loss=1.40306, eval_loss_1=4.03003, test_subact: 52.7397, test_afford: 52.7397
+Test time=4.795 s/iter, eval_loss=1.40172, eval_loss_1=4.01607, test_subact: 53.4247, test_afford: 52.3973
+Test time=4.802 s/iter, eval_loss=1.40153, eval_loss_1=4.01122, test_subact: 53.0822, test_afford: 52.7397
+Test time=4.540 s/iter, eval_loss=1.40162, eval_loss_1=4.01165, test_subact: 54.1096, test_afford: 52.7397
+Test time=4.990 s/iter, eval_loss=1.40168, eval_loss_1=4.01297, test_subact: 53.0822, test_afford: 53.0822
+Test time=4.922 s/iter, eval_loss=1.40210, eval_loss_1=4.01736, test_subact: 53.0822, test_afford: 52.7397
+Test time=4.901 s/iter, eval_loss=1.40203, eval_loss_1=4.02054, test_subact: 54.1096, test_afford: 52.0548
+Test time=4.665 s/iter, eval_loss=1.40247, eval_loss_1=4.02187, test_subact: 53.0822, test_afford: 52.0548
+Test time=4.906 s/iter, eval_loss=1.40242, eval_loss_1=4.02066, test_subact: 53.4247, test_afford: 52.3973
+Test time=4.134 s/iter, eval_loss=1.40174, eval_loss_1=4.01418, test_subact: 53.7671, test_afford: 52.0548
+Test time=4.337 s/iter, eval_loss=1.40284, eval_loss_1=4.02807, test_subact: 53.4247, test_afford: 52.7397
+Test time=4.476 s/iter, eval_loss=1.40209, eval_loss_1=4.01789, test_subact: 53.0822, test_afford: 52.3973
+Test time=4.333 s/iter, eval_loss=1.40208, eval_loss_1=4.01824, test_subact: 53.7671, test_afford: 52.7397
+Test time=4.113 s/iter, eval_loss=1.40190, eval_loss_1=4.01461, test_subact: 53.4247, test_afford: 52.3973
+Test time=4.669 s/iter, eval_loss=1.40208, eval_loss_1=4.01699, test_subact: 53.4247, test_afford: 52.3973
+Test time=4.585 s/iter, eval_loss=1.40215, eval_loss_1=4.01849, test_subact: 53.4247, test_afford: 51.7123
+Test time=4.835 s/iter, eval_loss=1.40227, eval_loss_1=4.01937, test_subact: 52.3973, test_afford: 51.3699
+Test time=4.682 s/iter, eval_loss=1.40287, eval_loss_1=4.02583, test_subact: 53.0822, test_afford: 52.0548
+Test time=5.120 s/iter, eval_loss=1.40312, eval_loss_1=4.03023, test_subact: 52.7397, test_afford: 51.7123
+Test time=4.876 s/iter, eval_loss=1.40149, eval_loss_1=4.01072, test_subact: 54.1096, test_afford: 52.3973
+Test time=4.791 s/iter, eval_loss=1.40287, eval_loss_1=4.02580, test_subact: 52.3973, test_afford: 52.3973
+Test time=4.363 s/iter, eval_loss=1.40234, eval_loss_1=4.02050, test_subact: 53.0822, test_afford: 52.3973
+Test time=4.364 s/iter, eval_loss=1.40134, eval_loss_1=4.00897, test_subact: 54.1096, test_afford: 53.0822
+Test time=4.881 s/iter, eval_loss=1.40262, eval_loss_1=4.02449, test_subact: 53.4247, test_afford: 52.7397
+Test time=4.801 s/iter, eval_loss=1.40195, eval_loss_1=4.01688, test_subact: 53.4247, test_afford: 52.7397
+Test time=4.984 s/iter, eval_loss=1.40127, eval_loss_1=4.00980, test_subact: 53.7671, test_afford: 53.0822
+Test time=4.747 s/iter, eval_loss=1.40218, eval_loss_1=4.02090, test_subact: 54.1096, test_afford: 52.0548
+Test time=4.385 s/iter, eval_loss=1.40165, eval_loss_1=4.01178, test_subact: 53.7671, test_afford: 52.7397
+Test time=4.521 s/iter, eval_loss=1.40181, eval_loss_1=4.01431, test_subact: 53.0822, test_afford: 52.3973
+Test time=4.398 s/iter, eval_loss=1.40221, eval_loss_1=4.01989, test_subact: 54.1096, test_afford: 52.3973
+Test time=4.979 s/iter, eval_loss=1.40172, eval_loss_1=4.01319, test_subact: 53.7671, test_afford: 52.3973
+Test time=4.328 s/iter, eval_loss=1.40146, eval_loss_1=4.01001, test_subact: 54.1096, test_afford: 52.7397
+Test time=5.213 s/iter, eval_loss=1.40244, eval_loss_1=4.02064, test_subact: 53.7671, test_afford: 51.7123
+Test time=4.489 s/iter, eval_loss=1.42074, eval_loss_1=4.20308, test_subact: 35.2740, test_afford: 52.3973
+Test time=4.998 s/iter, eval_loss=1.41960, eval_loss_1=4.19194, test_subact: 36.3014, test_afford: 52.7397
+Test time=4.704 s/iter, eval_loss=1.41908, eval_loss_1=4.18572, test_subact: 36.3014, test_afford: 53.0822
+Test time=4.507 s/iter, eval_loss=1.41931, eval_loss_1=4.18930, test_subact: 35.9589, test_afford: 52.3973
+Test time=4.599 s/iter, eval_loss=1.41920, eval_loss_1=4.18692, test_subact: 36.3014, test_afford: 53.0822
+Test time=4.504 s/iter, eval_loss=1.41843, eval_loss_1=4.17855, test_subact: 36.6438, test_afford: 53.7671
+Test time=4.755 s/iter, eval_loss=1.41968, eval_loss_1=4.19256, test_subact: 36.3014, test_afford: 52.3973
+Test time=4.880 s/iter, eval_loss=1.41948, eval_loss_1=4.19155, test_subact: 36.6438, test_afford: 52.3973
+Test time=4.317 s/iter, eval_loss=1.41946, eval_loss_1=4.19313, test_subact: 34.9315, test_afford: 52.3973
+Test time=4.601 s/iter, eval_loss=1.41929, eval_loss_1=4.18762, test_subact: 35.6164, test_afford: 53.0822
+Test time=4.754 s/iter, eval_loss=1.41883, eval_loss_1=4.18367, test_subact: 36.6438, test_afford: 52.3973
+Test time=4.535 s/iter, eval_loss=1.41854, eval_loss_1=4.18001, test_subact: 36.3014, test_afford: 53.7671
+Test time=4.712 s/iter, eval_loss=1.41865, eval_loss_1=4.18376, test_subact: 36.9863, test_afford: 53.0822
+Test time=4.536 s/iter, eval_loss=1.41933, eval_loss_1=4.18857, test_subact: 36.6438, test_afford: 52.3973
+Test time=4.606 s/iter, eval_loss=1.41878, eval_loss_1=4.18207, test_subact: 36.9863, test_afford: 52.7397
+Test time=5.035 s/iter, eval_loss=1.41935, eval_loss_1=4.18835, test_subact: 36.6438, test_afford: 52.0548
+Test time=4.472 s/iter, eval_loss=1.41938, eval_loss_1=4.18992, test_subact: 36.6438, test_afford: 52.3973
+Test time=4.423 s/iter, eval_loss=1.41890, eval_loss_1=4.18251, test_subact: 35.9589, test_afford: 52.7397
+Test time=4.895 s/iter, eval_loss=1.41897, eval_loss_1=4.18423, test_subact: 36.6438, test_afford: 53.0822
+Test time=4.165 s/iter, eval_loss=1.41922, eval_loss_1=4.18694, test_subact: 36.3014, test_afford: 52.3973
+Test time=4.644 s/iter, eval_loss=1.41925, eval_loss_1=4.18806, test_subact: 36.3014, test_afford: 52.7397
+Test time=4.561 s/iter, eval_loss=1.41882, eval_loss_1=4.18303, test_subact: 36.9863, test_afford: 53.0822
+Test time=4.683 s/iter, eval_loss=1.41854, eval_loss_1=4.17946, test_subact: 35.9589, test_afford: 53.4247
+Test time=4.745 s/iter, eval_loss=1.41901, eval_loss_1=4.18459, test_subact: 36.3014, test_afford: 52.7397
+Test time=4.487 s/iter, eval_loss=1.41848, eval_loss_1=4.17844, test_subact: 36.6438, test_afford: 53.4247
+Test time=4.738 s/iter, eval_loss=1.41799, eval_loss_1=4.17325, test_subact: 36.6438, test_afford: 55.1370
+Test time=5.405 s/iter, eval_loss=1.41900, eval_loss_1=4.18409, test_subact: 35.9589, test_afford: 52.7397
+Test time=4.264 s/iter, eval_loss=1.41846, eval_loss_1=4.17865, test_subact: 36.3014, test_afford: 53.0822
+Test time=4.082 s/iter, eval_loss=1.41908, eval_loss_1=4.18688, test_subact: 36.3014, test_afford: 52.3973
+Test time=3.658 s/iter, eval_loss=1.41882, eval_loss_1=4.18221, test_subact: 35.9589, test_afford: 53.7671
+Test time=3.759 s/iter, eval_loss=1.41865, eval_loss_1=4.18068, test_subact: 36.9863, test_afford: 53.0822
+Test time=3.489 s/iter, eval_loss=1.41834, eval_loss_1=4.17770, test_subact: 36.6438, test_afford: 53.4247
+Test time=3.820 s/iter, eval_loss=1.41741, eval_loss_1=4.16661, test_subact: 36.9863, test_afford: 54.1096
+Test time=4.145 s/iter, eval_loss=1.41874, eval_loss_1=4.18157, test_subact: 36.3014, test_afford: 52.7397
+Test time=3.677 s/iter, eval_loss=1.41875, eval_loss_1=4.18323, test_subact: 36.6438, test_afford: 53.4247
+Test time=3.719 s/iter, eval_loss=1.41799, eval_loss_1=4.17269, test_subact: 37.3288, test_afford: 53.0822
+Test time=4.147 s/iter, eval_loss=1.41772, eval_loss_1=4.17008, test_subact: 37.3288, test_afford: 53.7671
+Test time=4.122 s/iter, eval_loss=1.41838, eval_loss_1=4.17760, test_subact: 37.3288, test_afford: 53.4247
+Test time=4.893 s/iter, eval_loss=1.41836, eval_loss_1=4.17841, test_subact: 36.9863, test_afford: 52.7397
+Test time=4.741 s/iter, eval_loss=1.43285, eval_loss_1=4.35136, test_subact: 36.6438, test_afford: 35.6164
+Test time=4.865 s/iter, eval_loss=1.43286, eval_loss_1=4.35336, test_subact: 37.3288, test_afford: 35.9589
+Test time=5.194 s/iter, eval_loss=1.43327, eval_loss_1=4.35501, test_subact: 36.3014, test_afford: 35.9589
+Test time=6.258 s/iter, eval_loss=1.46258, eval_loss_1=4.78157, test_subact: 32.5342, test_afford: 32.5342
+Test time=3.979 s/iter, eval_loss=1.46201, eval_loss_1=4.77538, test_subact: 32.5342, test_afford: 32.5342
+Test time=4.191 s/iter, eval_loss=1.46142, eval_loss_1=4.76901, test_subact: 32.5342, test_afford: 32.5342
+Test time=3.927 s/iter, eval_loss=1.46082, eval_loss_1=4.76245, test_subact: 32.5342, test_afford: 32.5342
+Test time=3.902 s/iter, eval_loss=1.46019, eval_loss_1=4.75565, test_subact: 32.5342, test_afford: 32.5342
+Test time=3.646 s/iter, eval_loss=1.45955, eval_loss_1=4.74859, test_subact: 32.5342, test_afford: 32.5342
+Test time=3.364 s/iter, eval_loss=1.45889, eval_loss_1=4.74121, test_subact: 32.5342, test_afford: 32.5342
+Test time=3.894 s/iter, eval_loss=1.45818, eval_loss_1=4.73340, test_subact: 32.5342, test_afford: 32.5342
+Test time=3.837 s/iter, eval_loss=1.45743, eval_loss_1=4.72493, test_subact: 32.5342, test_afford: 32.5342
+Test time=3.950 s/iter, eval_loss=1.45657, eval_loss_1=4.71529, test_subact: 32.5342, test_afford: 32.5342
+Test time=3.926 s/iter, eval_loss=1.45549, eval_loss_1=4.70294, test_subact: 32.5342, test_afford: 32.5342
+Test time=3.698 s/iter, eval_loss=1.45366, eval_loss_1=4.68192, test_subact: 35.6164, test_afford: 32.5342
+Test time=4.425 s/iter, eval_loss=1.44791, eval_loss_1=4.61330, test_subact: 50.0000, test_afford: 43.4932
+Test time=4.915 s/iter, eval_loss=1.41696, eval_loss_1=4.22147, test_subact: 50.0000, test_afford: 50.0000
+Test time=5.358 s/iter, eval_loss=1.40932, eval_loss_1=4.10972, test_subact: 50.0000, test_afford: 50.0000
+Test time=4.940 s/iter, eval_loss=1.40908, eval_loss_1=4.11024, test_subact: 50.0000, test_afford: 50.3425
+Test time=4.899 s/iter, eval_loss=1.40904, eval_loss_1=4.10971, test_subact: 50.3425, test_afford: 50.3425
+Test time=5.036 s/iter, eval_loss=1.40808, eval_loss_1=4.09484, test_subact: 50.6849, test_afford: 50.6849
+Test time=5.120 s/iter, eval_loss=1.40792, eval_loss_1=4.09283, test_subact: 50.3425, test_afford: 50.6849
+Test time=4.742 s/iter, eval_loss=1.40753, eval_loss_1=4.08627, test_subact: 50.6849, test_afford: 50.6849
+Test time=5.010 s/iter, eval_loss=1.40722, eval_loss_1=4.08164, test_subact: 50.3425, test_afford: 50.3425
+Test time=4.539 s/iter, eval_loss=1.40732, eval_loss_1=4.08061, test_subact: 51.0274, test_afford: 51.0274
+Test time=4.774 s/iter, eval_loss=1.40680, eval_loss_1=4.07315, test_subact: 51.0274, test_afford: 50.6849
+Test time=4.631 s/iter, eval_loss=1.40649, eval_loss_1=4.07009, test_subact: 50.6849, test_afford: 50.6849
+Test time=5.329 s/iter, eval_loss=1.40637, eval_loss_1=4.06860, test_subact: 51.0274, test_afford: 51.0274
+Test time=4.843 s/iter, eval_loss=1.40593, eval_loss_1=4.06378, test_subact: 51.0274, test_afford: 51.0274
+Test time=5.107 s/iter, eval_loss=1.40595, eval_loss_1=4.06245, test_subact: 51.0274, test_afford: 51.3699
+Test time=4.912 s/iter, eval_loss=1.40594, eval_loss_1=4.06229, test_subact: 51.0274, test_afford: 51.0274
+Test time=4.062 s/iter, eval_loss=1.40586, eval_loss_1=4.06093, test_subact: 51.0274, test_afford: 51.0274
+Test time=4.887 s/iter, eval_loss=1.40517, eval_loss_1=4.05354, test_subact: 51.7123, test_afford: 52.0548
+Test time=4.521 s/iter, eval_loss=1.40522, eval_loss_1=4.05369, test_subact: 51.7123, test_afford: 51.7123
+Test time=4.588 s/iter, eval_loss=1.40489, eval_loss_1=4.05117, test_subact: 52.0548, test_afford: 51.7123
+Test time=4.661 s/iter, eval_loss=1.40499, eval_loss_1=4.05143, test_subact: 51.7123, test_afford: 51.7123
+Test time=4.316 s/iter, eval_loss=1.40485, eval_loss_1=4.04964, test_subact: 51.7123, test_afford: 51.7123
+Test time=4.539 s/iter, eval_loss=1.40474, eval_loss_1=4.05072, test_subact: 51.3699, test_afford: 51.7123
+Test time=4.554 s/iter, eval_loss=1.40474, eval_loss_1=4.04819, test_subact: 51.7123, test_afford: 51.7123
+Test time=4.975 s/iter, eval_loss=1.40459, eval_loss_1=4.04863, test_subact: 51.7123, test_afford: 51.7123
+Test time=5.586 s/iter, eval_loss=1.40412, eval_loss_1=4.04367, test_subact: 52.0548, test_afford: 52.0548
+Test time=4.345 s/iter, eval_loss=1.40395, eval_loss_1=4.04203, test_subact: 52.0548, test_afford: 52.0548
+Test time=4.420 s/iter, eval_loss=1.40438, eval_loss_1=4.04493, test_subact: 51.7123, test_afford: 51.7123
+Test time=4.639 s/iter, eval_loss=1.40382, eval_loss_1=4.04032, test_subact: 52.0548, test_afford: 52.0548
+Test time=4.375 s/iter, eval_loss=1.40373, eval_loss_1=4.03919, test_subact: 52.0548, test_afford: 52.0548
+Test time=5.775 s/iter, eval_loss=1.40379, eval_loss_1=4.03840, test_subact: 52.0548, test_afford: 52.0548
+Test time=4.655 s/iter, eval_loss=1.40359, eval_loss_1=4.03732, test_subact: 52.0548, test_afford: 52.0548
+Test time=5.311 s/iter, eval_loss=1.40369, eval_loss_1=4.03912, test_subact: 52.3973, test_afford: 52.0548
+Test time=4.549 s/iter, eval_loss=1.40368, eval_loss_1=4.03912, test_subact: 52.0548, test_afford: 52.0548
+Test time=4.929 s/iter, eval_loss=1.40345, eval_loss_1=4.03917, test_subact: 51.7123, test_afford: 52.0548
+Test time=5.676 s/iter, eval_loss=1.46258, eval_loss_1=4.78153, test_subact: 32.5342, test_afford: 32.5342
+Test time=4.141 s/iter, eval_loss=1.46200, eval_loss_1=4.77532, test_subact: 32.5342, test_afford: 32.5342
+Test time=4.099 s/iter, eval_loss=1.46141, eval_loss_1=4.76893, test_subact: 32.5342, test_afford: 32.5342
+Test time=4.500 s/iter, eval_loss=1.46080, eval_loss_1=4.76232, test_subact: 32.5342, test_afford: 32.5342
+Test time=4.945 s/iter, eval_loss=1.46018, eval_loss_1=4.75548, test_subact: 32.5342, test_afford: 32.5342
+Test time=4.844 s/iter, eval_loss=1.45953, eval_loss_1=4.74835, test_subact: 32.5342, test_afford: 32.5342
+Test time=3.997 s/iter, eval_loss=1.45885, eval_loss_1=4.74085, test_subact: 32.5342, test_afford: 32.5342
+Test time=4.652 s/iter, eval_loss=1.45813, eval_loss_1=4.73285, test_subact: 32.5342, test_afford: 32.5342
+Test time=4.363 s/iter, eval_loss=1.45733, eval_loss_1=4.72390, test_subact: 32.5342, test_afford: 32.5342
+Test time=4.111 s/iter, eval_loss=1.45639, eval_loss_1=4.71328, test_subact: 32.5342, test_afford: 32.5342
+Test time=4.618 s/iter, eval_loss=1.45505, eval_loss_1=4.69800, test_subact: 32.5342, test_afford: 32.5342
+Test time=4.468 s/iter, eval_loss=1.45208, eval_loss_1=4.66356, test_subact: 45.2055, test_afford: 32.5342
+Test time=4.285 s/iter, eval_loss=1.44052, eval_loss_1=4.52041, test_subact: 49.6575, test_afford: 49.3151
+Test time=4.847 s/iter, eval_loss=1.41097, eval_loss_1=4.13315, test_subact: 50.0000, test_afford: 50.0000
+Test time=5.270 s/iter, eval_loss=1.40885, eval_loss_1=4.10588, test_subact: 50.3425, test_afford: 50.0000
+Test time=4.290 s/iter, eval_loss=1.40895, eval_loss_1=4.10941, test_subact: 50.3425, test_afford: 50.3425
+Test time=4.947 s/iter, eval_loss=1.40839, eval_loss_1=4.10072, test_subact: 50.6849, test_afford: 50.3425
+Test time=4.771 s/iter, eval_loss=1.40768, eval_loss_1=4.09026, test_subact: 50.6849, test_afford: 50.6849
+Test time=4.707 s/iter, eval_loss=1.40735, eval_loss_1=4.08552, test_subact: 50.6849, test_afford: 50.6849
+Test time=5.260 s/iter, eval_loss=1.40697, eval_loss_1=4.08031, test_subact: 50.6849, test_afford: 50.6849
+Test time=4.800 s/iter, eval_loss=1.40694, eval_loss_1=4.07780, test_subact: 51.0274, test_afford: 51.0274
+Test time=3.886 s/iter, eval_loss=1.40687, eval_loss_1=4.07413, test_subact: 50.6849, test_afford: 51.0274
+Test time=5.001 s/iter, eval_loss=1.40659, eval_loss_1=4.07089, test_subact: 51.0274, test_afford: 51.0274
+Test time=3.789 s/iter, eval_loss=1.40604, eval_loss_1=4.06413, test_subact: 51.0274, test_afford: 51.3699
+Test time=4.811 s/iter, eval_loss=1.40592, eval_loss_1=4.06238, test_subact: 51.0274, test_afford: 51.3699
+Test time=4.773 s/iter, eval_loss=1.40558, eval_loss_1=4.05896, test_subact: 51.3699, test_afford: 51.3699
+Test time=4.225 s/iter, eval_loss=1.40574, eval_loss_1=4.06067, test_subact: 51.3699, test_afford: 51.3699
+Test time=4.459 s/iter, eval_loss=1.40539, eval_loss_1=4.05752, test_subact: 51.3699, test_afford: 51.3699
+Test time=4.317 s/iter, eval_loss=1.40496, eval_loss_1=4.05281, test_subact: 51.7123, test_afford: 51.7123
+Test time=4.143 s/iter, eval_loss=1.40544, eval_loss_1=4.05737, test_subact: 51.7123, test_afford: 51.7123
+Test time=4.052 s/iter, eval_loss=1.40485, eval_loss_1=4.05096, test_subact: 51.7123, test_afford: 51.3699
+Test time=4.646 s/iter, eval_loss=1.40476, eval_loss_1=4.04897, test_subact: 51.7123, test_afford: 51.7123
+Test time=3.963 s/iter, eval_loss=1.40416, eval_loss_1=4.04379, test_subact: 52.0548, test_afford: 52.0548
+Test time=4.646 s/iter, eval_loss=1.40385, eval_loss_1=4.04022, test_subact: 52.0548, test_afford: 52.0548
+Test time=4.208 s/iter, eval_loss=1.40417, eval_loss_1=4.04467, test_subact: 52.0548, test_afford: 52.0548
+Test time=4.241 s/iter, eval_loss=1.40421, eval_loss_1=4.04189, test_subact: 51.7123, test_afford: 52.0548
+Test time=5.248 s/iter, eval_loss=1.40405, eval_loss_1=4.04065, test_subact: 52.0548, test_afford: 52.0548
+Test time=4.723 s/iter, eval_loss=1.40407, eval_loss_1=4.04056, test_subact: 51.7123, test_afford: 52.0548
+Test time=4.891 s/iter, eval_loss=1.40398, eval_loss_1=4.04161, test_subact: 52.0548, test_afford: 52.0548
+Test time=4.968 s/iter, eval_loss=1.40430, eval_loss_1=4.04376, test_subact: 51.7123, test_afford: 51.7123
+Test time=4.658 s/iter, eval_loss=1.40370, eval_loss_1=4.03938, test_subact: 52.0548, test_afford: 52.0548
+Test time=4.577 s/iter, eval_loss=1.40360, eval_loss_1=4.03722, test_subact: 52.0548, test_afford: 52.0548
+Test time=4.939 s/iter, eval_loss=1.40409, eval_loss_1=4.04278, test_subact: 52.0548, test_afford: 52.0548
+Test time=4.547 s/iter, eval_loss=1.40356, eval_loss_1=4.03555, test_subact: 52.0548, test_afford: 52.0548
+Test time=3.791 s/iter, eval_loss=1.40367, eval_loss_1=4.03902, test_subact: 51.7123, test_afford: 51.7123
+Test time=4.945 s/iter, eval_loss=1.40357, eval_loss_1=4.03698, test_subact: 52.3973, test_afford: 52.3973
+Test time=4.571 s/iter, eval_loss=1.40326, eval_loss_1=4.03520, test_subact: 52.0548, test_afford: 52.0548
+Test time=4.344 s/iter, eval_loss=1.40297, eval_loss_1=4.03307, test_subact: 52.0548, test_afford: 52.0548
+Test time=4.483 s/iter, eval_loss=1.40300, eval_loss_1=4.03227, test_subact: 52.0548, test_afford: 52.0548
+Test time=4.797 s/iter, eval_loss=1.40358, eval_loss_1=4.03959, test_subact: 52.0548, test_afford: 51.7123
+Test time=4.667 s/iter, eval_loss=1.40318, eval_loss_1=4.03504, test_subact: 52.0548, test_afford: 52.0548
+Test time=4.356 s/iter, eval_loss=1.40332, eval_loss_1=4.03712, test_subact: 52.3973, test_afford: 52.3973
+Test time=4.369 s/iter, eval_loss=1.40286, eval_loss_1=4.03125, test_subact: 52.7397, test_afford: 52.0548
+Test time=4.016 s/iter, eval_loss=1.40315, eval_loss_1=4.03609, test_subact: 51.7123, test_afford: 52.3973
+Test time=4.172 s/iter, eval_loss=1.40301, eval_loss_1=4.03516, test_subact: 52.7397, test_afford: 52.3973
+Test time=4.580 s/iter, eval_loss=1.40247, eval_loss_1=4.02838, test_subact: 54.1096, test_afford: 52.3973
+Test time=4.218 s/iter, eval_loss=1.40243, eval_loss_1=4.02853, test_subact: 53.4247, test_afford: 52.7397
+Test time=4.312 s/iter, eval_loss=1.40204, eval_loss_1=4.02364, test_subact: 54.1096, test_afford: 52.3973
+Test time=4.414 s/iter, eval_loss=1.40183, eval_loss_1=4.02069, test_subact: 53.7671, test_afford: 52.7397
+Test time=4.200 s/iter, eval_loss=1.40229, eval_loss_1=4.02586, test_subact: 52.7397, test_afford: 53.0822
+Test time=3.652 s/iter, eval_loss=1.40219, eval_loss_1=4.02437, test_subact: 53.4247, test_afford: 52.3973
+Test time=4.129 s/iter, eval_loss=1.40212, eval_loss_1=4.02416, test_subact: 53.4247, test_afford: 52.0548
+Test time=4.088 s/iter, eval_loss=1.40215, eval_loss_1=4.02492, test_subact: 53.7671, test_afford: 53.0822
+Test time=4.661 s/iter, eval_loss=1.46258, eval_loss_1=4.78152, test_subact: 32.5342, test_afford: 32.5342
+Test time=4.095 s/iter, eval_loss=1.46200, eval_loss_1=4.77533, test_subact: 32.5342, test_afford: 32.5342
+Test time=4.069 s/iter, eval_loss=1.46141, eval_loss_1=4.76895, test_subact: 32.5342, test_afford: 32.5342
+Test time=4.278 s/iter, eval_loss=1.46081, eval_loss_1=4.76237, test_subact: 32.5342, test_afford: 32.5342
+Test time=4.377 s/iter, eval_loss=1.46018, eval_loss_1=4.75555, test_subact: 32.5342, test_afford: 32.5342
+Test time=4.549 s/iter, eval_loss=1.45954, eval_loss_1=4.74843, test_subact: 32.5342, test_afford: 32.5342
+Test time=4.207 s/iter, eval_loss=1.45886, eval_loss_1=4.74093, test_subact: 32.5342, test_afford: 32.5342
+Test time=4.272 s/iter, eval_loss=1.45813, eval_loss_1=4.73287, test_subact: 32.5342, test_afford: 32.5342
+Test time=4.094 s/iter, eval_loss=1.45733, eval_loss_1=4.72386, test_subact: 32.5342, test_afford: 32.5342
+Test time=4.287 s/iter, eval_loss=1.45636, eval_loss_1=4.71293, test_subact: 32.5342, test_afford: 32.5342
+Test time=4.093 s/iter, eval_loss=1.45489, eval_loss_1=4.69625, test_subact: 32.5342, test_afford: 32.5342
+Test time=4.152 s/iter, eval_loss=1.45127, eval_loss_1=4.65399, test_subact: 32.5342, test_afford: 32.5342
+Test time=4.004 s/iter, eval_loss=1.43962, eval_loss_1=4.50562, test_subact: 38.6986, test_afford: 36.3014
+Test time=4.456 s/iter, eval_loss=1.41152, eval_loss_1=4.14280, test_subact: 50.0000, test_afford: 49.6575
+Test time=4.204 s/iter, eval_loss=1.40927, eval_loss_1=4.11252, test_subact: 50.0000, test_afford: 50.0000
+Test time=4.680 s/iter, eval_loss=1.40945, eval_loss_1=4.11498, test_subact: 50.3425, test_afford: 50.0000
+Test time=4.418 s/iter, eval_loss=1.40864, eval_loss_1=4.10390, test_subact: 51.0274, test_afford: 50.6849
+Test time=3.963 s/iter, eval_loss=1.40813, eval_loss_1=4.09573, test_subact: 50.6849, test_afford: 50.3425
+Test time=4.445 s/iter, eval_loss=1.40731, eval_loss_1=4.08425, test_subact: 50.6849, test_afford: 50.6849
+Test time=4.673 s/iter, eval_loss=1.40690, eval_loss_1=4.07910, test_subact: 51.0274, test_afford: 51.0274
+Test time=3.796 s/iter, eval_loss=1.40683, eval_loss_1=4.07474, test_subact: 51.0274, test_afford: 50.6849
+Test time=4.426 s/iter, eval_loss=1.40667, eval_loss_1=4.07354, test_subact: 50.6849, test_afford: 50.6849
+Test time=4.428 s/iter, eval_loss=1.40597, eval_loss_1=4.06458, test_subact: 51.3699, test_afford: 51.0274
+Test time=3.949 s/iter, eval_loss=1.40581, eval_loss_1=4.06131, test_subact: 51.0274, test_afford: 51.0274
+Test time=3.662 s/iter, eval_loss=1.40594, eval_loss_1=4.06312, test_subact: 51.3699, test_afford: 51.3699
+Test time=3.858 s/iter, eval_loss=1.40606, eval_loss_1=4.06471, test_subact: 51.0274, test_afford: 51.0274
+Test time=3.858 s/iter, eval_loss=1.40531, eval_loss_1=4.05518, test_subact: 51.7123, test_afford: 51.7123
+Test time=3.629 s/iter, eval_loss=1.40533, eval_loss_1=4.05488, test_subact: 51.3699, test_afford: 51.3699
+Test time=3.417 s/iter, eval_loss=1.40558, eval_loss_1=4.05671, test_subact: 51.7123, test_afford: 51.3699
+Test time=3.475 s/iter, eval_loss=1.40542, eval_loss_1=4.05637, test_subact: 51.3699, test_afford: 51.3699
+Test time=3.467 s/iter, eval_loss=1.40473, eval_loss_1=4.04926, test_subact: 51.7123, test_afford: 51.7123
+Test time=3.610 s/iter, eval_loss=1.40478, eval_loss_1=4.04821, test_subact: 51.7123, test_afford: 51.7123
+Test time=3.677 s/iter, eval_loss=1.40473, eval_loss_1=4.04771, test_subact: 51.7123, test_afford: 51.7123
+Test time=3.428 s/iter, eval_loss=1.40447, eval_loss_1=4.04533, test_subact: 51.7123, test_afford: 51.7123
+Test time=3.749 s/iter, eval_loss=1.40438, eval_loss_1=4.04619, test_subact: 51.7123, test_afford: 51.7123
+Test time=3.298 s/iter, eval_loss=1.40422, eval_loss_1=4.04387, test_subact: 52.0548, test_afford: 52.0548
+Test time=3.750 s/iter, eval_loss=1.40432, eval_loss_1=4.04541, test_subact: 52.0548, test_afford: 52.0548
+Test time=3.720 s/iter, eval_loss=1.40435, eval_loss_1=4.04343, test_subact: 51.7123, test_afford: 51.7123
+Test time=3.626 s/iter, eval_loss=1.40437, eval_loss_1=4.04468, test_subact: 51.7123, test_afford: 51.7123
+Test time=3.627 s/iter, eval_loss=1.40429, eval_loss_1=4.04327, test_subact: 51.7123, test_afford: 51.7123
+Test time=4.124 s/iter, eval_loss=1.40376, eval_loss_1=4.03886, test_subact: 52.0548, test_afford: 51.7123
+Test time=4.513 s/iter, eval_loss=1.40399, eval_loss_1=4.04071, test_subact: 52.0548, test_afford: 52.0548
+Test time=4.792 s/iter, eval_loss=1.40437, eval_loss_1=4.04369, test_subact: 51.7123, test_afford: 51.7123
+Test time=4.493 s/iter, eval_loss=1.40357, eval_loss_1=4.03779, test_subact: 52.0548, test_afford: 52.0548
+Test time=4.693 s/iter, eval_loss=1.40389, eval_loss_1=4.03984, test_subact: 52.0548, test_afford: 52.0548
+Test time=4.469 s/iter, eval_loss=1.40398, eval_loss_1=4.04130, test_subact: 52.0548, test_afford: 52.0548
+Test time=5.082 s/iter, eval_loss=1.40351, eval_loss_1=4.03843, test_subact: 52.3973, test_afford: 52.7397
+Test time=4.433 s/iter, eval_loss=1.40345, eval_loss_1=4.03563, test_subact: 52.0548, test_afford: 52.0548
+Test time=4.124 s/iter, eval_loss=1.40331, eval_loss_1=4.03493, test_subact: 52.0548, test_afford: 52.0548
+Test time=3.877 s/iter, eval_loss=1.40319, eval_loss_1=4.03427, test_subact: 52.3973, test_afford: 52.0548
+Test time=4.082 s/iter, eval_loss=1.40324, eval_loss_1=4.03476, test_subact: 52.7397, test_afford: 52.0548
+Test time=3.369 s/iter, eval_loss=1.40285, eval_loss_1=4.03191, test_subact: 53.4247, test_afford: 52.7397
+Test time=4.261 s/iter, eval_loss=1.40343, eval_loss_1=4.03625, test_subact: 52.0548, test_afford: 51.7123
+Test time=4.483 s/iter, eval_loss=1.40317, eval_loss_1=4.03724, test_subact: 51.7123, test_afford: 52.3973
+Test time=4.296 s/iter, eval_loss=1.40270, eval_loss_1=4.02993, test_subact: 52.3973, test_afford: 52.0548
+Test time=4.219 s/iter, eval_loss=1.40261, eval_loss_1=4.02888, test_subact: 52.7397, test_afford: 52.0548
+Test time=4.320 s/iter, eval_loss=1.40292, eval_loss_1=4.03326, test_subact: 53.0822, test_afford: 52.7397
+Test time=3.818 s/iter, eval_loss=1.40262, eval_loss_1=4.03255, test_subact: 53.4247, test_afford: 52.0548
+Test time=3.634 s/iter, eval_loss=1.40232, eval_loss_1=4.02703, test_subact: 53.7671, test_afford: 52.7397
+Test time=4.503 s/iter, eval_loss=1.40261, eval_loss_1=4.02940, test_subact: 53.4247, test_afford: 52.0548
+Test time=4.337 s/iter, eval_loss=1.40220, eval_loss_1=4.02528, test_subact: 53.0822, test_afford: 51.7123
+Test time=4.265 s/iter, eval_loss=1.40222, eval_loss_1=4.02464, test_subact: 53.7671, test_afford: 52.3973
+Test time=4.200 s/iter, eval_loss=1.40287, eval_loss_1=4.03322, test_subact: 52.7397, test_afford: 51.7123
+Test time=4.399 s/iter, eval_loss=1.40209, eval_loss_1=4.02167, test_subact: 53.4247, test_afford: 52.0548
+Test time=3.699 s/iter, eval_loss=1.40181, eval_loss_1=4.02111, test_subact: 53.0822, test_afford: 51.3699
+Test time=4.067 s/iter, eval_loss=1.40167, eval_loss_1=4.01739, test_subact: 54.1096, test_afford: 53.4247
+Test time=4.272 s/iter, eval_loss=1.40178, eval_loss_1=4.01956, test_subact: 52.7397, test_afford: 52.0548
+Test time=4.938 s/iter, eval_loss=1.40232, eval_loss_1=4.02663, test_subact: 52.3973, test_afford: 51.7123
+Test time=4.297 s/iter, eval_loss=1.40206, eval_loss_1=4.02028, test_subact: 54.1096, test_afford: 53.0822
+Test time=4.290 s/iter, eval_loss=1.40139, eval_loss_1=4.01492, test_subact: 53.7671, test_afford: 52.7397
+Test time=4.176 s/iter, eval_loss=1.40124, eval_loss_1=4.01288, test_subact: 52.7397, test_afford: 53.0822
+Test time=4.097 s/iter, eval_loss=1.40155, eval_loss_1=4.01456, test_subact: 54.1096, test_afford: 52.7397
+Test time=4.588 s/iter, eval_loss=1.40119, eval_loss_1=4.01330, test_subact: 53.7671, test_afford: 52.0548
+Test time=4.166 s/iter, eval_loss=1.40241, eval_loss_1=4.02549, test_subact: 52.0548, test_afford: 53.4247
+Test time=4.171 s/iter, eval_loss=1.40125, eval_loss_1=4.01215, test_subact: 54.7945, test_afford: 53.0822
+Test time=4.190 s/iter, eval_loss=1.40078, eval_loss_1=4.00757, test_subact: 54.7945, test_afford: 54.4521
+Test time=4.442 s/iter, eval_loss=1.40090, eval_loss_1=4.00848, test_subact: 54.7945, test_afford: 53.0822
+Test time=4.029 s/iter, eval_loss=1.40217, eval_loss_1=4.01844, test_subact: 53.0822, test_afford: 52.7397
+Test time=4.568 s/iter, eval_loss=1.40191, eval_loss_1=4.01485, test_subact: 53.4247, test_afford: 53.0822
+Test time=4.316 s/iter, eval_loss=1.40124, eval_loss_1=4.01013, test_subact: 53.7671, test_afford: 53.0822
+Test time=4.180 s/iter, eval_loss=1.40200, eval_loss_1=4.02295, test_subact: 53.4247, test_afford: 52.7397
+Test time=3.773 s/iter, eval_loss=1.40151, eval_loss_1=4.01376, test_subact: 53.7671, test_afford: 53.0822
+Test time=3.741 s/iter, eval_loss=1.40078, eval_loss_1=4.00450, test_subact: 54.7945, test_afford: 53.0822
+Test time=3.503 s/iter, eval_loss=1.40138, eval_loss_1=4.01436, test_subact: 54.1096, test_afford: 53.4247
+Test time=3.481 s/iter, eval_loss=1.40149, eval_loss_1=4.01214, test_subact: 54.1096, test_afford: 52.7397
+Test time=3.578 s/iter, eval_loss=1.40168, eval_loss_1=4.01432, test_subact: 54.1096, test_afford: 53.0822
+Test time=3.584 s/iter, eval_loss=1.40122, eval_loss_1=4.00936, test_subact: 53.4247, test_afford: 52.7397
+Test time=3.870 s/iter, eval_loss=1.40170, eval_loss_1=4.01406, test_subact: 53.4247, test_afford: 53.7671
+Test time=3.705 s/iter, eval_loss=1.40097, eval_loss_1=4.00678, test_subact: 53.4247, test_afford: 52.7397
+Test time=4.338 s/iter, eval_loss=1.40112, eval_loss_1=4.00895, test_subact: 54.1096, test_afford: 53.0822
+Test time=4.746 s/iter, eval_loss=1.40184, eval_loss_1=4.01567, test_subact: 53.7671, test_afford: 53.0822
+Test time=5.425 s/iter, eval_loss=1.40211, eval_loss_1=4.01704, test_subact: 53.4247, test_afford: 52.7397
+Test time=5.902 s/iter, eval_loss=1.40240, eval_loss_1=4.02088, test_subact: 53.7671, test_afford: 52.7397
